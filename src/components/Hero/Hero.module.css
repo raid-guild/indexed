@@ -1,0 +1,80 @@
+.hero {
+  background-color: #15003E;
+  margin-bottom: 80px;
+  border-top: 8px solid #F9006C;
+  border-bottom: 8px solid #8E2ABE;
+}
+
+.hero h1 {
+  color: white;
+  margin: 40px 0 40px 40px;
+  line-height: 1;
+}
+
+.cardContainer {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+  padding: 8px 0;
+}
+
+.card {
+  min-height: 280px;
+  background-color: #fff;
+  min-width: 60%;
+  width: 60%;
+  position: relative;
+  transition: transform .4s;
+  margin-left: 40px;
+  padding: 28px;
+  display: flex;
+}
+
+.card:nth-child(1) {
+  box-shadow: 5px 5px 0 #FFCE08;
+}
+.card:nth-child(2) {
+  box-shadow: 5px 5px 0 #f9036c;
+}
+.card:nth-child(3) {
+  box-shadow: 5px 5px 0 #8E2ABE;
+}
+
+.card a {
+  color: #f9036c;
+}
+.card h2 {
+  font-weight: 400;
+  margin-bottom: 12px;
+}
+
+.cardText {
+  flex: 1;
+  margin-right: 14px;
+}
+
+.cardTable {
+  background-color: #eee;
+  height: 200px;
+  width: 270px;
+  align-self: center;
+}
+
+.buttons {
+  margin: 40px 0;
+  text-align: center;
+}
+
+.buttons button {
+  margin-right: 20px;
+  box-shadow: none;
+  padding: 4px 30px;
+}
+
+.buttons button:hover {
+  transform: translateY(0) scale(1.1);
+}
+

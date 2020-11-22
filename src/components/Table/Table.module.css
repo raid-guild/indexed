@@ -1,0 +1,16 @@
+.tableContainer {
+  margin-top: 40px;
+  margin-bottom: 80px;
+}
+
+:global(.rdt_TableCol svg) {
+  margin-left: 6px;
+}
+
+:global(.rdt_TableCol:first-child) {
+  border-bottom-color: #FFCE08;
+}
+
+:global(.rdt_TableCol:first-child svg) {
+  stroke: #FFCE08;
+}
