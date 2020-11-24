@@ -1,18 +1,18 @@
 const heroCards = [
   {
-    title: 'Card One',
-    body: 'Card One. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo pariatur assumenda placeat eos sequi. Repellat voluptatem pariatur aut sunt velit!',
-    url: 'card-one'
+    title: 'xDai Network',
+    body: 'The xDai Chain is a stable payments blockchain designed for fast and inexpensive stable transactions. xDai is used for transactions, payments and fees.',
+    url: 'xdai-doc'
   },
   {
-    title: 'Card Two',
-    body: 'Card Two. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo pariatur assumenda placeat eos sequi. Repellat voluptatem pariatur aut sunt velit!',
-    url: 'card-two'
+    title: 'Dragonchain',
+    body: 'Dragonchain provides a flexible, hybrid blockchain platform for businesses to rapidly deploy advanced applications, and integrate next-gen capabilities with existing systems.',
+    url: 'dragonchain-doc'
   },
   {
-    title: 'Card Three',
-    body: 'Card Three. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo pariatur assumenda placeat eos sequi. Repellat voluptatem pariatur aut sunt velit!',
-    url: 'card-three'
+    title: 'MATIC Network',
+    body: 'Matic Network brings massive scale to Ethereum using an adapted version of Plasma with PoS based side chains.',
+    url: 'maticnetwork-doc'
   }
 ];
 

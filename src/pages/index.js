@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React, { useState } from 'react';
 import clsx from 'clsx';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
@@ -14,7 +14,7 @@ import defaultTableColumns from '../data/defaultTableColumns'
 
 function Home() {
   const context = useDocusaurusContext();
-  const {siteConfig = {}} = context;
+  const { siteConfig = {} } = context;
 
   const [columns, setColumns] = useState(defaultTableColumns)
   const [search, setSearch] = useState('')
@@ -22,10 +22,10 @@ function Home() {
 
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />"
+      // title={`${siteConfig.title}`}
+      description="A collectively built hub for comparison between 'Layer 2' solutions."
     >
-      <Hero/>
+      <Hero />
 
       <div className="wrapper">
         <Filters
@@ -37,10 +37,10 @@ function Home() {
 
         <Table
           search={search}
-          columns={columns}      
+          columns={columns}
         />
       </div>
-     
+
     </Layout>
   );
 }

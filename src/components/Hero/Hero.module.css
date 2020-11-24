@@ -1,8 +1,8 @@
 .hero {
-  background-color: #15003E;
+  background-color: #15003e;
   margin-bottom: 80px;
-  border-top: 8px solid #F9006C;
-  border-bottom: 8px solid #8E2ABE;
+  border-top: 8px solid #f9006c;
+  border-bottom: 8px solid #8e2abe;
 }
 
 .hero h1 {
@@ -22,25 +22,25 @@
 }
 
 .card {
-  min-height: 280px;
+  min-height: 140px;
   background-color: #fff;
   min-width: 60%;
   width: 60%;
   position: relative;
-  transition: transform .4s;
+  transition: transform 0.4s;
   margin-left: 40px;
   padding: 28px;
   display: flex;
 }
 
 .card:nth-child(1) {
-  box-shadow: 5px 5px 0 #FFCE08;
+  box-shadow: 5px 5px 0 #ffce08;
 }
 .card:nth-child(2) {
   box-shadow: 5px 5px 0 #f9036c;
 }
 .card:nth-child(3) {
-  box-shadow: 5px 5px 0 #8E2ABE;
+  box-shadow: 5px 5px 0 #8e2abe;
 }
 
 .card a {
@@ -77,4 +77,3 @@
 .buttons button:hover {
   transform: translateY(0) scale(1.1);
 }
-
