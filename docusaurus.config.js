@@ -1,11 +1,11 @@
 module.exports = {
   title: 'indexed.eth',
   tagline: 'A collectively built hub for comparison between "Layer 2" solutions',
-  url: 'https://indexed.eth',
+  url: 'https://indexed.eth.netlify.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/raidguild__icon.png',
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
