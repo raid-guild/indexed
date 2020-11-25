@@ -1,7 +1,10 @@
 module.exports = {
   someSidebar: {
-    ContributionGuide: ['contribute-doc'],
-    Services: [
+    "indexed.eth": [
+      'contribute-doc',
+      'index-doc'
+    ],
+    "Chains": [
       'abridged-kchannels-doc',
       'arbitrum-doc',
       'aztec-doc',
