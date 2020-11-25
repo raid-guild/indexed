@@ -6,7 +6,7 @@ module.exports = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/raidguild__icon.png',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
+  organizationName: 'raid-guild', // GitHub org name.
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
