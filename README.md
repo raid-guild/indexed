@@ -2,32 +2,50 @@
 
 This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
 
-## Installation
+## Collaborate with us
 
-```console
-yarn install
+We aim for indexed.eth to be a robust source for developers to utilize as a resource for research and development for Layer 2 solutions.
+
+Members of included projects may submit a pull request containting additions and updates as pertinent. We encourage project members to update as often as possible!
+
+[Github Repo](https://github.com/raid-guild/indexed)
+
+## Docusaurus
+
+We use [Docusaurus V2](https://v2.docusaurus.io/docs/), high level (and low level) docs can be found at their official site. We do not deviate from the "classic" template.
+
+## React Libraries
+
+We utilize the following react libraries:
+
+- [react-modal](https://www.npmjs.com/package/react-modal)
+
+- [react-data-table-component](https://www.npmjs.com/package/react-data-table-component)
+
+## Doc Structure
+
+All docs are written in markdown and can be found in the `docs/` directory.
+
+Please update pertinent docs by creating a PR via the [official repo](https://github.com/raid-guild/indexed).
+
+If creating a brand new doc page, please follow the naming and id conventions outlined in the docusaurus v2 docs, and make sure to include the new page in the `sidebars.js` file.
+
+## Component Structure
+
+Components not included in the "classic" docusaurus template can be found in `src/components/` and the accompanying css in `src/css/`.
+
+## Data Structure
+
+The data displayed within the `Hero` and `Table` compononents is derived from the json files in `src/data/`. If data is to be updated within these components simply updated the appropriate files.
+
+## Run Locally
+
 ```
+git clone https://github.com/raid-guild/indexed
 
-## Local Development
+cd indexed/
 
-```console
+yarn install
+
 yarn start
 ```
-
-This command starts a local development server and open up a browser window. Most changes are reflected live without having to restart the server.
-
-## Build
-
-```console
-yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-## Deployment
-
-```console
-GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
