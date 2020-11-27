@@ -41,3 +41,15 @@ Components not included in the "classic" docusaurus template can be found in `sr
 ## Data Structure
 
 The data displayed within the `Hero` and `Table` compononents is derived from the json files in `src/data/`. If data is to be updated within these components simply updated the appropriate files.
+
+## Run Locally
+
+```
+git clone https://github.com/raid-guild/indexed
+
+cd indexed/
+
+yarn install
+
+yarn start
+```
