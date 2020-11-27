@@ -1,7 +1,7 @@
 module.exports = {
   title: 'indexed.eth',
   tagline: 'A collectively built hub for comparison between "Layer 2" solutions',
-  url: 'https://indexed.eth.netlify.com',
+  url: 'https://indexed.eth',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
