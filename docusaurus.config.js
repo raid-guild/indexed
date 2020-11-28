@@ -7,10 +7,11 @@ module.exports = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/raidguild__icon.png',
   organizationName: 'raid-guild', // GitHub org name.
-  projectName: 'docusaurus', // Usually your repo name.
+  projectName: 'indexed', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'indexed.eth',
+      style: 'dark',
       // logo: {
       //   alt: 'Raid Guild Logo',
       //   src: 'img/raidguild_avatar.png',
@@ -25,8 +26,12 @@ module.exports = {
     },
     footer: {
       style: 'dark',
+      logo: {
+        alt: 'Raid Guild Logo',
+        src: 'static/img/raidguild__avatar.png',
+      },
 
-      copyright: `Copyright © ${new Date().getFullYear()} RaidGuild`,
+      copyright: `Copyright © ${new Date().getFullYear()} <a href="https://raidguild.org/" target="#">RaidGuild, DAO</a>`,
     },
   },
   presets: [

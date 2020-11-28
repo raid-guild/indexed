@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&display=swap");
 
 * {
   margin: 0;
@@ -6,11 +6,10 @@
   box-sizing: border-box;
 }
 
-
 body {
   margin: 0;
-  font-family: 'Courier Prime', sans-serif;
-  background-color: #EEE;
+  font-family: "Courier Prime", sans-serif;
+  background-color: #0a011c;
   font-size: 18px;
   line-height: 1.6;
 }
@@ -37,25 +36,25 @@ input:focus {
 }
 
 button {
-  background-color: #F9006C;
+  background-color: #f9006c;
   color: white;
   font-weight: bold;
   border: none;
   padding: 12px 16px;
-  box-shadow: 4px 4px 0 #15003E;
+  box-shadow: 4px 4px 0 #15003e;
   cursor: pointer;
-  transition: all .2s;
+  transition: all 0.2s;
 }
 
 button:hover,
 button:focus {
-  box-shadow: 5px 5px 0 #15003E;
+  box-shadow: 5px 5px 0 #15003e;
   transform: translateY(-1px);
   background-color: #ff4093;
 }
 
 a {
-  color: #F9006C;
+  color: #f9006c;
 }
 
 .wrapper {
