@@ -5,7 +5,7 @@ module.exports = {
       'index-doc'
     ],
     "Chains": [
-      'abridged-kchannels-doc',
+      'abridged-doc',
       'arbitrum-doc',
       'aztec-doc',
       'celer-doc',
@@ -15,6 +15,7 @@ module.exports = {
       'dragonchain-doc',
       'everest-doc',
       'fuel-labs-doc',
+      'kchannels-doc',
       'hubble-project-doc',
       'loopring-doc',
       'maticnetwork-doc',
