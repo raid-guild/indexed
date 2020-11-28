@@ -1,7 +1,7 @@
 ---
-id: abridged-doc
-title: Abridged
-sidebar_label: Abridged
+id: kchannels-doc
+title: KChannels
+sidebar_label: KChannels
 ---
 
 Tagline

@@ -101,6 +101,16 @@ const tableData = [
   },
   {
     id: 11,
+    chain_name: 'KChannels',
+    tx_cost: '---',
+    finality: '---',
+    consensus: '---',
+    efficient: '---',
+    max_tps: '---',
+    url: 'kchannels-doc'
+  },
+  {
+    id: 12,
     chain_name: 'Loopring',
     tx_cost: '---',
     finality: '---',
@@ -110,7 +120,7 @@ const tableData = [
     url: 'loopring-doc'
   },
   {
-    id: 12,
+    id: 13,
     chain_name: 'Matic Network',
     tx_cost: '---',
     finality: '---',
@@ -120,7 +130,7 @@ const tableData = [
     url: 'maticnetwork-doc'
   },
   {
-    id: 13,
+    id: 14,
     chain_name: 'Matter Labs',
     tx_cost: '---',
     finality: '---',
@@ -130,7 +140,7 @@ const tableData = [
     url: 'matter-labs-doc'
   },
   {
-    id: 14,
+    id: 15,
     chain_name: 'Meter',
     tx_cost: '---',
     finality: '---',
@@ -140,7 +150,7 @@ const tableData = [
     url: 'meter-doc'
   },
   {
-    id: 15,
+    id: 16,
     chain_name: 'Minter',
     tx_cost: '---',
     finality: '---',
@@ -150,7 +160,7 @@ const tableData = [
     url: 'minter-doc'
   },
   {
-    id: 16,
+    id: 17,
     chain_name: 'Near',
     tx_cost: '---',
     finality: '---',
@@ -160,7 +170,7 @@ const tableData = [
     url: 'near-doc'
   },
   {
-    id: 17,
+    id: 18,
     chain_name: 'OMG',
     tx_cost: '---',
     finality: '---',
@@ -170,7 +180,7 @@ const tableData = [
     url: 'omg-doc'
   },
   {
-    id: 18,
+    id: 19,
     chain_name: 'Raiden',
     tx_cost: '---',
     finality: '---',
@@ -180,7 +190,7 @@ const tableData = [
     url: 'raiden-doc'
   },
   {
-    id: 19,
+    id: 20,
     chain_name: 'Serv',
     tx_cost: '---',
     finality: '---',
@@ -190,7 +200,7 @@ const tableData = [
     url: 'services'
   },
   {
-    id: 20,
+    id: 21,
     chain_name: 'Skale',
     tx_cost: '---',
     finality: '---',
@@ -200,7 +210,7 @@ const tableData = [
     url: 'skale-doc'
   },
   {
-    id: 21,
+    id: 22,
     chain_name: 'Solana',
     tx_cost: '---',
     finality: '---',
@@ -210,7 +220,7 @@ const tableData = [
     url: 'solana-doc'
   },
   {
-    id: 22,
+    id: 23,
     chain_name: 'Starkware',
     tx_cost: '---',
     finality: '---',
@@ -220,7 +230,7 @@ const tableData = [
     url: 'starkware-doc'
   },
   {
-    id: 23,
+    id: 24,
     chain_name: 'Syscoin',
     tx_cost: '---',
     finality: '---',
@@ -230,7 +240,7 @@ const tableData = [
     url: 'syscoin-doc'
   },
   {
-    id: 24,
+    id: 25,
     chain_name: 'xDai',
     tx_cost: '---',
     finality: '---',

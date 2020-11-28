@@ -5,9 +5,9 @@ const heroCards = [
     url: 'xdai-doc'
   },
   {
-    title: 'Dragonchain',
-    body: 'Dragonchain provides a flexible, hybrid blockchain platform for businesses to rapidly deploy advanced applications, and integrate next-gen capabilities with existing systems.',
-    url: 'dragonchain-doc'
+    title: 'KChannels',
+    body: 'Kchannels is a new payment channel platform for Ethereum. It is non-custodial and trust-minimized, and its primary focus is on great UX.',
+    url: 'kchannels-doc'
   },
   {
     title: 'MATIC Network',
