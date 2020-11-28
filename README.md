@@ -22,6 +22,8 @@ We utilize the following react libraries:
 
 - [react-data-table-component](https://www.npmjs.com/package/react-data-table-component)
 
+- [react-icons](https://react-icons.github.io/react-icons/)
+
 ## Doc Structure
 
 All docs are written in markdown and can be found in the `docs/` directory.

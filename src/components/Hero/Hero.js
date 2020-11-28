@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import styles from './Hero.module.css'
 import heroCards from '../../data/heroCards'
+import { BsLink45Deg } from 'react-icons/bs'
 
 const Hero = () => {
   const [translate, setTranslate] = useState(0)
@@ -20,7 +21,7 @@ const Hero = () => {
           heroCards.map(card => (
             <div className={styles.card} style={{ transform: `translateX(${translate})` }} key={card.title}>
               <div className={styles.cardText}>
-                <a href={`/docs/${card.url}`}><h2>{card.title}</h2></a>
+                <a href={`/docs/${card.url}`}><h2>{card.title} <BsLink45Deg /></h2></a>
                 <p>{card.body}</p>
               </div>
               <div className={styles.cardTable}>
