@@ -10,9 +10,23 @@ sidebar_label: Contribution Guide
 
 We aim for indexed.eth to be a robust source for developers to utilize as a resource for research and development for Layer 2 solutions.
 
-Members of included projects may submit a pull request containting additions and updates as pertinent. We encourage project members to update as often as possible!
+## Keeping information up to date
+
+### For Non-Developers
+
+Please open a new issue in the [Github Repo](https://github.com/raid-guild/indexed).
+
+Navigate to "Issues" in the top nav and click the green "New Issue" button.
+
+Please include all information you require to be added, using existing doc structure as a guide. If there is something you would like to add that falls outside of the existing structure, let us know!
+
+### For Developers
 
 [Github Repo](https://github.com/raid-guild/indexed)
+
+Below you can find notes on the libraries we use for this project. Docusaurus follows a very simple pattern. If you only need to update the markdown file for a specific doc, simply create a PR and follow the instructions (there are only a few) in the PR template.
+
+If you are creating a brand new doc page, follow the instructions for creating a new doc page on the [Docusaurus V2](https://v2.docusaurus.io/docs/) docs site.
 
 ## Docusaurus
 
