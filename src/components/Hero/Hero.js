@@ -24,12 +24,8 @@ const Hero = () => {
                 <a href={`/docs/${card.url}`}><h2>{card.title} <BsLink45Deg /></h2></a>
                 <p>{card.body}</p>
               </div>
-              <div className={styles.cardTable}>
-                <div>TPS: </div>
-                <div>finality: </div>
-                <div>withdraw: </div>
-                <div>$ efficient: </div>
-                <div>Consensus: </div>
+              <div className={styles.cardLogo}>
+                <img src={card.logoPath}></img>
               </div>
             </div>
           ))
