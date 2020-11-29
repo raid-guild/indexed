@@ -3,6 +3,7 @@
 }
 
 .Modal {
+  color: #f9036c;
   position: absolute;
   background-color: white;
   padding: 30px;
@@ -33,7 +34,6 @@
 
 .Modal button {
   margin-top: 16px;
-
 }
 
 .Modal label {
@@ -42,7 +42,7 @@
 
 .Modal input:focus + label,
 .Modal label:hover {
-  color: #f9036c;
+  color: rgb(10, 1, 28);
 }
 
 .Overlay {
@@ -51,7 +51,7 @@
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: rgba(0,0,0,.6);
+  background-color: rgba(0, 0, 0, 0.6);
   display: flex;
   justify-content: center;
   align-items: center;

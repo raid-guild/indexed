@@ -16,7 +16,7 @@
   height: 100%;
   width: 100%;
   display: flex;
-  align-items: center;
+  /* align-items: center; */
   position: relative;
   overflow: hidden;
   padding: 8px 0;
@@ -47,6 +47,9 @@
 .card a {
   color: #f9036c;
 }
+.card p {
+  max-width: 600px;
+}
 .card h2 {
   font-weight: 400;
   margin-bottom: 12px;
@@ -57,11 +60,15 @@
   margin-right: 14px;
 }
 
-.cardTable {
-  background-color: #eee;
-  height: 200px;
-  width: 270px;
+.cardLogo {
+  width: 100%;
+  max-width: 120px;
   align-self: center;
+}
+
+.cardLogo img {
+  width: 100%;
+  display: block;
 }
 
 .buttons {

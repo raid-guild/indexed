@@ -25,7 +25,7 @@ const Filters = ({ search, setSearch, columns, setColumns }) => {
       } else {
         return column
       }
-      
+
     })
 
     setColumns(filteredCol)
@@ -34,15 +34,15 @@ const Filters = ({ search, setSearch, columns, setColumns }) => {
   return (
     <div>
 
-      <input 
+      <input
         type="text"
         placeholder="Search chains"
-        onChange={(e) => searchName(e) }
+        onChange={(e) => searchName(e)}
         className={styles.searchBar}
       />
 
       <button onClick={() => setIsOpen(true)}>Filters</button>
-      
+
       <Modal
         isOpen={modalIsOpen}
         onRequestClose={() => setIsOpen(false)}
@@ -52,18 +52,23 @@ const Filters = ({ search, setSearch, columns, setColumns }) => {
       >
         <p>Select Columns</p>
         {
-          columns.map(col => (
-            <div key={col.selector}>
-              <input 
-                checked={col.isShown} 
-                value={col.selector} 
-                id={col.selector}
-                type='checkbox' 
-                onClick={(e) => filterColumns(e)}
-              />
-              <label htmlFor={col.selector}>{col.name}</label>
-            </div>
-          ))
+          columns.map(col => {
+            if (col.selector != "chain_name") {
+              return (
+                <div key={col.selector}>
+                  {console.log(col)}
+                  <input
+                    checked={col.isShown}
+                    value={col.selector}
+                    id={col.selector}
+                    type='checkbox'
+                    onClick={(e) => filterColumns(e)}
+                  />
+                  <label htmlFor={col.selector}>{col.name}</label>
+                </div>
+              )
+            }
+          })
         }
         <button onClick={() => setIsOpen(false)}>Close</button>
       </Modal>
