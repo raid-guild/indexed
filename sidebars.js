@@ -10,7 +10,6 @@ module.exports = {
       'aztec-doc',
       'celer-doc',
       'connext-doc',
-      'contribute-doc',
       'dapp-solutions-doc',
       'dragonchain-doc',
       'everest-doc',
