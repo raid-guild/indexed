@@ -27,7 +27,7 @@ module.exports = {
       style: 'dark',
       logo: {
         alt: 'Raid Guild Logo',
-        src: 'static/img/raidguild__avatar.png',
+        src: '/img/raidguild__avatar.png',
       },
 
       copyright: `Copyright © ${new Date().getFullYear()} <a href="https://raidguild.org/" target="#">RaidGuild, DAO</a>`,
