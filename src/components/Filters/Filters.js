@@ -56,7 +56,6 @@ const Filters = ({ search, setSearch, columns, setColumns }) => {
             if (col.selector != "chain_name") {
               return (
                 <div key={col.selector}>
-                  {console.log(col)}
                   <input
                     checked={col.isShown}
                     value={col.selector}
