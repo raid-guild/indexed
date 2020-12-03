@@ -1,15 +1,5 @@
 const tableData = [
   {
-    id: 1,
-    chain_name: 'Abridged',
-    tx_cost: '---',
-    finality: '---',
-    consensus: '---',
-    efficient: '---',
-    max_tps: '---',
-    url: 'abridged-kchannels-doc'
-  },
-  {
     id: 2,
     chain_name: 'Arbitrum',
     tx_cost: '---',
