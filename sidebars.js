@@ -5,7 +5,6 @@ module.exports = {
       'index-doc'
     ],
     "Chains": [
-      'abridged-doc',
       'arbitrum-doc',
       'aztec-doc',
       'celer-doc',
