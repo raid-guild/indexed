@@ -24,13 +24,19 @@ module.exports = {
       ],
     },
     footer: {
-      style: 'dark',
+      style: 'light',
       logo: {
-        alt: 'Raid Guild Logo',
-        src: '/img/raidguild__avatar.png',
+        alt: 'Owocki Icon',
+        src: '/img/kevin.png',
       },
 
-      copyright: `Copyright © ${new Date().getFullYear()} <a href="https://raidguild.org/" target="#">RaidGuild, DAO</a>`,
+      copyright: `indexed.eth is a collectively built hub for indexing scaling solutions for Ethereum. Everyone is welcome to <a href="/docs/contribute-doc/" target="#">collaborate</a>.
+      </br>
+      Bootstrapped by <a href="https://twitter.com/owocki" target="#">Owocki</a> via <a href="https://raidguild.org" target="#">raidguild.org</a>
+      </br>
+      <img class="rg-logo" src="/img/raidguild__avatar.png" alt="Raid Guild Logo" />
+      
+      `,
     },
   },
   presets: [
