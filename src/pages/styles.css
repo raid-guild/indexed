@@ -66,3 +66,15 @@ a {
   margin-left: auto;
   margin-right: auto;
 }
+
+.rg-link {
+  color: #ff3864;
+}
+
+.ow-link {
+  color: #3e00ff;
+}
+
+.doc-link {
+  color: #8e2abe;
+}
