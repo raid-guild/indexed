@@ -4,25 +4,15 @@ title: MaticNetwork
 sidebar_label: MaticNetwork
 ---
 
-Security sounds better on plasma.
+## Tx Cost
 
-## Demo Link
+## Finality
 
-https://www.youtube.com/watch?v=r9efkWDwnY8&feature=youtu.be
-https://youtu.be/5tKzMcflOcY?t=866
-https://bit.ly/maticworkshop
+## Consensus
 
-## Gas to Enter
+## $ Efficient
 
-1 gwei
-
-## Gas to Exit
-
-2 gwei
-
-## Security Guarantees
-
-24 hour on site cameras
+## Max TPS
 
 ## Reddit Submission Link
 

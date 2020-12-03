@@ -4,23 +4,15 @@ title: SKALE
 sidebar_label: SKALE
 ---
 
-Tagline
+## Tx Cost
 
-## Demo Link
+## Finality
 
-https://www.youtube.com/watch?v=clasJz-ZSVs&feature=youtu.be
+## Consensus
 
-## Gas to Enter
+## $ Efficient
 
-1 gwei
-
-## Gas to Exit
-
-2 gwei
-
-## Security Guarantees
-
-24 hour on site cameras
+## Max TPS
 
 ## Reddit Submission Link
 

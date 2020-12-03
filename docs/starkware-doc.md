@@ -4,23 +4,15 @@ title: Starkware
 sidebar_label: Starkware
 ---
 
-Zero knowledge, infinite scalability.
+## Tx Cost
 
-## Demo Link
+## Finality
 
-https://youtu.be/t5ySC8iUIL8
+## Consensus
 
-## Gas to Enter
+## $ Efficient
 
-1 gwei
-
-## Gas to Exit
-
-2 gwei
-
-## Security Guarantees
-
-24 hour on site cameras
+## Max TPS
 
 ## Reddit Submission Link
 

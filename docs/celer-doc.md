@@ -4,23 +4,15 @@ title: Celer
 sidebar_label: Celer
 ---
 
-Tagline
+## Tx Cost
 
-## Demo Link
+## Finality
 
-https://www.youtube.com/watch?v=IpFNQ3HpZKg
+## Consensus
 
-## Gas to Enter
+## $ Efficient
 
-1 gwei
-
-## Gas to Exit
-
-2 gwei
-
-## Security Guarantees
-
-24 hour on site cameras
+## Max TPS
 
 ## Reddit Submission Link
 

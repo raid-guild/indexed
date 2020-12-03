@@ -4,23 +4,15 @@ title: Raiden
 sidebar_label: Raiden
 ---
 
-Best Mortal Kombat character
+## Tx Cost
 
-## Demo Link
+## Finality
 
-https://youtu.be/402U0CVrjyE
+## Consensus
 
-## Gas to Enter
+## $ Efficient
 
-1 gwei
-
-## Gas to Exit
-
-2 gwei
-
-## Security Guarantees
-
-24 hour on site cameras
+## Max TPS
 
 ## Reddit Submission Link
 

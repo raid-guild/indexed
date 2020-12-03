@@ -4,23 +4,15 @@ title: XDAI
 sidebar_label: XDAI
 ---
 
-Whoa that was fast...and cheap!
+## Tx Cost
 
-## Demo Link
+## Finality
 
-https://challenge.xdaichain.com/poc/video-walkthroughs
+## Consensus
 
-## Gas to Enter
+## $ Efficient
 
-1 gwei
-
-## Gas to Exit
-
-2 gwei
-
-## Security Guarantees
-
-24 hour on site cameras
+## Max TPS
 
 ## Reddit Submission Link
 

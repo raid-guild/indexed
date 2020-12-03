@@ -4,23 +4,15 @@ title: Abridged
 sidebar_label: Abridged
 ---
 
-Tagline
+## Tx Cost
 
-## Demo Link
+## Finality
 
-!
+## Consensus
 
-## Gas to Enter
+## $ Efficient
 
-1 gwei
-
-## Gas to Exit
-
-2 gwei
-
-## Security Guarantees
-
-24 hour on site cameras
+## Max TPS
 
 ## Reddit Submission Link
 

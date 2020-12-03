@@ -4,23 +4,15 @@ title: Solana
 sidebar_label: Solana
 ---
 
-High performance, performance.
+## Tx Cost
 
-## Demo Link
+## Finality
 
-https://youtu.be/ICXJoVGapSw
+## Consensus
 
-## Gas to Enter
+## $ Efficient
 
-1 gwei
-
-## Gas to Exit
-
-2 gwei
-
-## Security Guarantees
-
-24 hour on site cameras
+## Max TPS
 
 ## Reddit Submission Link
 
