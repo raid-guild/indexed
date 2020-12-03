@@ -26,6 +26,16 @@ Please include the information below if requesting to add a new service/chain:
 - $ Efficiency
 - Max TPS
 
+Using the Ethereum mainnet as an example, the data would look something like:
+
+```
+Tx cost (average): $0.36 (29 gwei)
+Consensus: Proof of work
+Finality: Probablistic
+Efficiency: Medium
+Max TPS: 12.6
+```
+
 Feel free to include additional info and data.
 
 ### For Developers

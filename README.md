@@ -14,7 +14,25 @@ Please open a new issue in the [Github Repo](https://github.com/raid-guild/index
 
 Navigate to "Issues" in the top nav and click the green "New Issue" button.
 
-Please include all information you require to be added, using existing doc structure as a guide. If there is something you would like to add that falls outside of the existing structure, let us know!
+Please include the information below if requesting to add a new service/chain:
+
+- Tx cost ( average )
+- Consensus
+- Finality
+- $ Efficiency
+- Max TPS
+
+Using the Ethereum mainnet as an example, the data would look something like:
+
+```
+Tx cost (average): $0.36 (29 gwei)
+Consensus: Proof of work
+Finality: Probablistic
+Efficiency: Medium
+Max TPS: 12.6
+```
+
+Feel free to include additional info and data.
 
 ### For Developers
 
