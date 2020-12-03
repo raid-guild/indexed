@@ -25,17 +25,14 @@ module.exports = {
     },
     footer: {
       style: 'light',
-      logo: {
-        alt: 'Owocki Icon',
-        src: '/img/kevin.png',
-      },
+      // logo: {
+      //   alt: 'Owocki Icon',
+      //   src: '/img/kevin.png',
+      // },
 
-      copyright: `indexed.eth is a collectively built hub for indexing scaling solutions for Ethereum. Everyone is welcome to <a href="/docs/contribute-doc/" target="#">collaborate</a>.
+      copyright: `indexed.eth is a collectively built hub for indexing scaling solutions for Ethereum. Everyone is welcome to collaborate, currently via the <a href="/docs/contribute-doc/" target="#">docs</a>.
       </br>
-      Bootstrapped by <a href="https://twitter.com/owocki" target="#">Owocki</a> via <a href="https://raidguild.org" target="#">raidguild.org</a>
-      </br>
-      <img class="rg-logo" src="/img/raidguild__avatar.png" alt="Raid Guild Logo" />
-      
+      Bootstrapped by <a class="ow-link" href="https://twitter.com/owocki" target="#">Owocki</a> via <a class="rg-link" href="https://raidguild.org" target="#">raidguild.org</a>
       `,
     },
   },
