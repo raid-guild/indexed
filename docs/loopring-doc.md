@@ -4,6 +4,8 @@ title: Loopring
 sidebar_label: Loopring
 ---
 
+## Type
+
 ## Tx Cost
 
 ## Finality

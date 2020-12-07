@@ -4,6 +4,8 @@ title: SKALE
 sidebar_label: SKALE
 ---
 
+## Type
+
 ## Tx Cost
 
 ## Finality

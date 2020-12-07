@@ -4,6 +4,8 @@ title: MaticNetwork
 sidebar_label: MaticNetwork
 ---
 
+## Type
+
 ## Tx Cost
 
 ## Finality

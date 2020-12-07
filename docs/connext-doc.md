@@ -4,6 +4,8 @@ title: Connext
 sidebar_label: Connext
 ---
 
+## Type
+
 ## Tx Cost
 
 ## Finality

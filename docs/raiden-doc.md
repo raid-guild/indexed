@@ -4,6 +4,8 @@ title: Raiden
 sidebar_label: Raiden
 ---
 
+## Type
+
 ## Tx Cost
 
 ## Finality

@@ -4,6 +4,8 @@ title: Dragonchain
 sidebar_label: Dragonchain
 ---
 
+## Type
+
 ## Tx Cost
 
 ## Finality

@@ -4,6 +4,8 @@ title: Starkware
 sidebar_label: Starkware
 ---
 
+## Type
+
 ## Tx Cost
 
 ## Finality

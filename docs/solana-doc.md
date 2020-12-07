@@ -4,6 +4,8 @@ title: Solana
 sidebar_label: Solana
 ---
 
+## Type
+
 ## Tx Cost
 
 ## Finality

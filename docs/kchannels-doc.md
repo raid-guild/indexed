@@ -4,6 +4,8 @@ title: KChannels
 sidebar_label: KChannels
 ---
 
+## Type
+
 ## Tx Cost
 
 ## Finality

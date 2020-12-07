@@ -4,6 +4,8 @@ title: Fuel Labs
 sidebar_label: Fuel Labs
 ---
 
+## Type
+
 ## Tx Cost
 
 ## Finality
