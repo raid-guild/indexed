@@ -22,6 +22,12 @@ const defaultTableColumns = [
     ]
   },
   {
+    name: 'Type',
+    selector: 'type',
+    sortable: true,
+    isShown: true,
+  },
+  {
     name: 'Tx Cost',
     selector: 'tx_cost',
     sortable: true,
@@ -66,7 +72,7 @@ const defaultTableColumns = [
     name: '$ efficient',
     selector: 'efficient',
     sortable: true,
-    isShown: true, 
+    isShown: true,
     conditionalCellStyles: [
       {
         when: cell => cell.efficient === "YES",
