@@ -4,6 +4,8 @@ title: Minter
 sidebar_label: Minter
 ---
 
+## Type
+
 ## Tx Cost
 
 ## Finality

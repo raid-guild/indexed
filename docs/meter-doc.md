@@ -4,6 +4,8 @@ title: Meter
 sidebar_label: Meter
 ---
 
+## Type
+
 ## Tx Cost
 
 ## Finality

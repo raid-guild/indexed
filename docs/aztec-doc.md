@@ -4,6 +4,8 @@ title: AZTEC
 sidebar_label: AZTEC
 ---
 
+## Type
+
 ## Tx Cost
 
 ## Finality

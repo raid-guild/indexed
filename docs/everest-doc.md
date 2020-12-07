@@ -4,6 +4,8 @@ title: Everest
 sidebar_label: Everest
 ---
 
+## Type
+
 ## Tx Cost
 
 ## Finality

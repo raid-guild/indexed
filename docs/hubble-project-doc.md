@@ -4,6 +4,8 @@ title: Hubble Project
 sidebar_label: Hubbl Project
 ---
 
+## Type
+
 ## Tx Cost
 
 ## Finality

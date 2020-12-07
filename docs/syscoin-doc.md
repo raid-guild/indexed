@@ -4,6 +4,8 @@ title: Syscoin
 sidebar_label: Syscoin
 ---
 
+## Type
+
 ## Tx Cost
 
 ## Finality

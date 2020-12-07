@@ -4,6 +4,8 @@ title: Arbitrum
 sidebar_label: Arbitrum
 ---
 
+## Type
+
 ## Tx Cost
 
 ## Finality

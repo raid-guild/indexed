@@ -4,6 +4,8 @@ title: Dapp Solutions
 sidebar_label: Dapp Solutions
 ---
 
+## Type
+
 ## Tx Cost
 
 ## Finality

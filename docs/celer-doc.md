@@ -4,6 +4,8 @@ title: Celer
 sidebar_label: Celer
 ---
 
+## Type
+
 ## Tx Cost
 
 ## Finality

@@ -4,6 +4,8 @@ title: XDAI
 sidebar_label: XDAI
 ---
 
+## Type
+
 ## Tx Cost
 
 ## Finality

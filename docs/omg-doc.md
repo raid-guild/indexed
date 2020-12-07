@@ -4,6 +4,8 @@ title: OMG
 sidebar_label: OMG
 ---
 
+## Type
+
 ## Tx Cost
 
 ## Finality

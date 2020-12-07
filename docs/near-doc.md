@@ -4,6 +4,8 @@ title: NEAR
 sidebar_label: NEAR
 ---
 
+## Type
+
 ## Tx Cost
 
 ## Finality

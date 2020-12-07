@@ -4,6 +4,8 @@ title: Matter Labs
 sidebar_label: Matter Labs
 ---
 
+## Type
+
 ## Tx Cost
 
 ## Finality

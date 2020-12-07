@@ -2,6 +2,7 @@ const tableData = [
   {
     id: 2,
     chain_name: 'Arbitrum',
+    type: '---',
     tx_cost: '---',
     finality: '---',
     consensus: '---',
@@ -12,6 +13,7 @@ const tableData = [
   {
     id: 3,
     chain_name: 'Aztec',
+    type: '---',
     tx_cost: '---',
     finality: '---',
     consensus: '---',
@@ -22,6 +24,7 @@ const tableData = [
   {
     id: 4,
     chain_name: 'Celer',
+    type: '---',
     tx_cost: '---',
     finality: '---',
     consensus: '---',
@@ -32,6 +35,7 @@ const tableData = [
   {
     id: 5,
     chain_name: 'Connext',
+    type: '---',
     tx_cost: '---',
     finality: '---',
     consensus: '---',
@@ -42,6 +46,7 @@ const tableData = [
   {
     id: 6,
     chain_name: 'Dapp Solutions',
+    type: '---',
     tx_cost: '---',
     finality: '---',
     consensus: '---',
@@ -52,6 +57,7 @@ const tableData = [
   {
     id: 7,
     chain_name: 'Dragonchain',
+    type: '---',
     tx_cost: '---',
     finality: '---',
     consensus: '---',
@@ -62,6 +68,7 @@ const tableData = [
   {
     id: 8,
     chain_name: 'Everest',
+    type: '---',
     tx_cost: '---',
     finality: '---',
     consensus: '---',
@@ -72,6 +79,7 @@ const tableData = [
   {
     id: 9,
     chain_name: 'Fuel Labs',
+    type: '---',
     tx_cost: '---',
     finality: '---',
     consensus: '---',
@@ -82,6 +90,7 @@ const tableData = [
   {
     id: 10,
     chain_name: 'Hubble Project',
+    type: '---',
     tx_cost: '---',
     finality: '---',
     consensus: '---',
@@ -92,6 +101,7 @@ const tableData = [
   {
     id: 11,
     chain_name: 'KChannels',
+    type: '---',
     tx_cost: '---',
     finality: '---',
     consensus: '---',
@@ -102,6 +112,7 @@ const tableData = [
   {
     id: 12,
     chain_name: 'Loopring',
+    type: '---',
     tx_cost: '---',
     finality: '---',
     consensus: '---',
@@ -112,6 +123,7 @@ const tableData = [
   {
     id: 13,
     chain_name: 'Matic Network',
+    type: '---',
     tx_cost: '---',
     finality: '---',
     consensus: '---',
@@ -122,6 +134,7 @@ const tableData = [
   {
     id: 14,
     chain_name: 'Matter Labs',
+    type: '---',
     tx_cost: '---',
     finality: '---',
     consensus: '---',
@@ -132,6 +145,7 @@ const tableData = [
   {
     id: 15,
     chain_name: 'Meter',
+    type: '---',
     tx_cost: '---',
     finality: '---',
     consensus: '---',
@@ -142,6 +156,7 @@ const tableData = [
   {
     id: 16,
     chain_name: 'Minter',
+    type: '---',
     tx_cost: '---',
     finality: '---',
     consensus: '---',
@@ -152,6 +167,7 @@ const tableData = [
   {
     id: 17,
     chain_name: 'Near',
+    type: '---',
     tx_cost: '---',
     finality: '---',
     consensus: '---',
@@ -162,6 +178,7 @@ const tableData = [
   {
     id: 18,
     chain_name: 'OMG',
+    type: '---',
     tx_cost: '---',
     finality: '---',
     consensus: '---',
@@ -172,6 +189,7 @@ const tableData = [
   {
     id: 19,
     chain_name: 'Raiden',
+    type: '---',
     tx_cost: '---',
     finality: '---',
     consensus: '---',
@@ -182,6 +200,7 @@ const tableData = [
   {
     id: 20,
     chain_name: 'Serv',
+    type: '---',
     tx_cost: '---',
     finality: '---',
     consensus: '---',
@@ -192,6 +211,7 @@ const tableData = [
   {
     id: 21,
     chain_name: 'Skale',
+    type: '---',
     tx_cost: '---',
     finality: '---',
     consensus: '---',
@@ -202,6 +222,7 @@ const tableData = [
   {
     id: 22,
     chain_name: 'Solana',
+    type: '---',
     tx_cost: '---',
     finality: '---',
     consensus: '---',
@@ -212,6 +233,7 @@ const tableData = [
   {
     id: 23,
     chain_name: 'Starkware',
+    type: '---',
     tx_cost: '---',
     finality: '---',
     consensus: '---',
@@ -222,6 +244,7 @@ const tableData = [
   {
     id: 24,
     chain_name: 'Syscoin',
+    type: '---',
     tx_cost: '---',
     finality: '---',
     consensus: '---',
@@ -232,6 +255,7 @@ const tableData = [
   {
     id: 25,
     chain_name: 'xDai',
+    type: '---',
     tx_cost: '---',
     finality: '---',
     consensus: '---',
