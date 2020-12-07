@@ -32,7 +32,7 @@ const Filters = ({ search, setSearch, columns, setColumns }) => {
   }
 
   return (
-    <div>
+    <div className="filter">
 
       <input
         type="text"
