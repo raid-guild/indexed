@@ -1,7 +1,7 @@
 ---
 id: hubble-project-doc
 title: Hubble Project
-sidebar_label: Hubbl Project
+sidebar_label: Hubble Project
 ---
 
 ## Type
