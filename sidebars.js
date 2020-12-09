@@ -23,7 +23,6 @@ module.exports = {
       'near-doc',
       'omg-doc',
       'raiden-doc',
-      'services',
       'skale-doc',
       'solana-doc',
       'starkware-doc',
