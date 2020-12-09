@@ -35,12 +35,12 @@ const tableData = [
   {
     id: 5,
     chain_name: 'Connext',
-    type: '---',
-    tx_cost: '---',
-    finality: '---',
-    consensus: '---',
-    efficient: '---',
-    max_tps: '---',
+    type: 'micropayment',
+    tx_cost: '0',
+    finality: 'instant',
+    consensus: 'state channel',
+    efficient: 'extremely',
+    max_tps: '1000+',
     url: 'connext-doc'
   },
   {
