@@ -4,18 +4,36 @@ title: Connext
 sidebar_label: Connext
 ---
 
-## Type
+## Links (github / social)
+
+[Official Site](https://connext.network/)
+
+[Twitter](https://twitter.com/ConnextNetwork)
+
+[Github](https://github.com/connext)
+
+[Discord](https://discord.gg/raNmNb5)
 
 ## Tx Cost
 
+0 fees for txs. Node operators can optionally charge fees to route txs through the network.
+
 ## Finality
+
+Instant
 
 ## Consensus
 
+State channel, i.e. consensus only required between channel participants.
+
 ## $ Efficient
+
+Extremely cost-efficient for users, the highest cost is the cost of collateral, which is required to be provided by node operators.
 
 ## Max TPS
 
-## Reddit Submission Link
+1000+ (limit not tested)
 
-https://www.reddit.com/r/ethereum/comments/i1eooc/spacefold_connexts_submission_to_the_great_reddit/
+## Additional Info
+
+Please reach out in our [discord](https://discord.gg/raNmNb5) for more info!
