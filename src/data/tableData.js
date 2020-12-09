@@ -256,11 +256,11 @@ const tableData = [
     id: 25,
     chain_name: 'xDai',
     type: '---',
-    tx_cost: '---',
-    finality: '---',
-    consensus: '---',
+    tx_cost: '1 gwei',
+    finality: '2f+1≤n',
+    consensus: 'POS',
     efficient: '---',
-    max_tps: '---',
+    max_tps: '~70',
     url: 'xdai-doc'
   },
 
