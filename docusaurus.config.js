@@ -2,7 +2,7 @@ module.exports = {
   title: 'indexed.eth',
   tagline: 'A collectively built hub for comparison between "Layer 2" solutions',
   url: 'https://indexed.eth',
-  baseUrl: '/ipfs/QmfHmC8A2YqNEnobUpjrYimsNjA4ZQ3dwLxbuqozCCuGrm/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/raidguild__icon.png',
