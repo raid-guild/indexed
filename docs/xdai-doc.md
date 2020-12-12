@@ -6,7 +6,7 @@ sidebar_label: XDAI
 
 ## Tx Cost
 
-1 Gwei with stable currency. For a simple tx with a 21000 gas limit this = .000021 cents per tx
+1 Gwei with stable currency. For a simple tx with a 21000 gas limit this = .000021 cents per tx.
 
 ## Finality
 
