@@ -35,11 +35,11 @@ const tableData = [
   {
     id: 5,
     chain_name: 'Connext',
-    type: 'micropayment',
+    type: 'Micropayment',
     tx_cost: '0',
     finality: 'instant',
     consensus: 'state channel',
-    efficient: 'extremely',
+    efficient: 'Yes',
     max_tps: '1000+',
     url: 'connext-doc'
   },
@@ -123,12 +123,12 @@ const tableData = [
   {
     id: 13,
     chain_name: 'Matic Network',
-    type: '---',
-    tx_cost: '---',
-    finality: '---',
-    consensus: '---',
-    efficient: '---',
-    max_tps: '---',
+    type: 'POS+Plasma',
+    tx_cost: '0.00001',
+    finality: '2 seconds',
+    consensus: 'POS',
+    efficient: 'Yes',
+    max_tps: '7200',
     url: 'maticnetwork-doc'
   },
   {
@@ -255,11 +255,11 @@ const tableData = [
   {
     id: 25,
     chain_name: 'xDai',
-    type: '---',
+    type: 'POS',
     tx_cost: '1 gwei',
     finality: '2f+1≤n',
     consensus: 'POS',
-    efficient: '---',
+    efficient: 'Yes',
     max_tps: '~70',
     url: 'xdai-doc'
   },
