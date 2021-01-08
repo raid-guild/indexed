@@ -6,7 +6,6 @@ const tableData = [
     tx_cost: '---',
     finality: '---',
     consensus: '---',
-    efficient: '---',
     max_tps: '---',
     url: 'arbitrum-doc'
   },
@@ -17,7 +16,6 @@ const tableData = [
     tx_cost: '---',
     finality: '---',
     consensus: '---',
-    efficient: '---',
     max_tps: '---',
     url: 'aztec-doc'
   },
@@ -28,7 +26,6 @@ const tableData = [
     tx_cost: '---',
     finality: '---',
     consensus: '---',
-    efficient: '---',
     max_tps: '---',
     url: 'celer-doc'
   },
@@ -39,7 +36,6 @@ const tableData = [
     tx_cost: '0',
     finality: 'instant',
     consensus: 'state channel',
-    efficient: 'Yes',
     max_tps: '1000+',
     url: 'connext-doc'
   },
@@ -50,7 +46,6 @@ const tableData = [
     tx_cost: '---',
     finality: '---',
     consensus: '---',
-    efficient: '---',
     max_tps: '---',
     url: 'dapp-solutions-doc'
   },
@@ -61,7 +56,6 @@ const tableData = [
     tx_cost: '---',
     finality: '---',
     consensus: '---',
-    efficient: '---',
     max_tps: '---',
     url: 'dragonchain-doc'
   },
@@ -72,7 +66,6 @@ const tableData = [
     tx_cost: '---',
     finality: '---',
     consensus: '---',
-    efficient: '---',
     max_tps: '---',
     url: 'everest-doc'
   },
@@ -83,7 +76,6 @@ const tableData = [
     tx_cost: '---',
     finality: '---',
     consensus: '---',
-    efficient: '---',
     max_tps: '---',
     url: 'fuel-labs-doc'
   },
@@ -94,7 +86,6 @@ const tableData = [
     tx_cost: '---',
     finality: '---',
     consensus: '---',
-    efficient: '---',
     max_tps: '---',
     url: 'hubble-project-doc'
   },
@@ -105,7 +96,6 @@ const tableData = [
     tx_cost: '---',
     finality: '---',
     consensus: '---',
-    efficient: '---',
     max_tps: '---',
     url: 'kchannels-doc'
   },
@@ -116,7 +106,6 @@ const tableData = [
     tx_cost: '---',
     finality: '---',
     consensus: '---',
-    efficient: '---',
     max_tps: '---',
     url: 'loopring-doc'
   },
@@ -127,7 +116,6 @@ const tableData = [
     tx_cost: '0.00001',
     finality: '2 seconds',
     consensus: 'POS',
-    efficient: 'Yes',
     max_tps: '7200',
     url: 'maticnetwork-doc'
   },
@@ -138,7 +126,6 @@ const tableData = [
     tx_cost: '---',
     finality: '---',
     consensus: '---',
-    efficient: '---',
     max_tps: '---',
     url: 'matter-labs-doc'
   },
@@ -149,7 +136,6 @@ const tableData = [
     tx_cost: '---',
     finality: '---',
     consensus: '---',
-    efficient: '---',
     max_tps: '---',
     url: 'meter-doc'
   },
@@ -160,7 +146,6 @@ const tableData = [
     tx_cost: '---',
     finality: '---',
     consensus: '---',
-    efficient: '---',
     max_tps: '---',
     url: 'minter-doc'
   },
@@ -171,7 +156,6 @@ const tableData = [
     tx_cost: '---',
     finality: '---',
     consensus: '---',
-    efficient: '---',
     max_tps: '---',
     url: 'near-doc'
   },
@@ -182,7 +166,6 @@ const tableData = [
     tx_cost: '---',
     finality: '---',
     consensus: '---',
-    efficient: '---',
     max_tps: '---',
     url: 'omg-doc'
   },
@@ -193,7 +176,6 @@ const tableData = [
     tx_cost: '---',
     finality: '---',
     consensus: '---',
-    efficient: '---',
     max_tps: '---',
     url: 'raiden-doc'
   },
@@ -204,7 +186,6 @@ const tableData = [
     tx_cost: '---',
     finality: '---',
     consensus: '---',
-    efficient: '---',
     max_tps: '---',
     url: 'services'
   },
@@ -215,7 +196,6 @@ const tableData = [
     tx_cost: '---',
     finality: '---',
     consensus: '---',
-    efficient: '---',
     max_tps: '---',
     url: 'skale-doc'
   },
@@ -226,7 +206,6 @@ const tableData = [
     tx_cost: '---',
     finality: '---',
     consensus: '---',
-    efficient: '---',
     max_tps: '---',
     url: 'solana-doc'
   },
@@ -237,7 +216,6 @@ const tableData = [
     tx_cost: '---',
     finality: '---',
     consensus: '---',
-    efficient: '---',
     max_tps: '---',
     url: 'starkware-doc'
   },
@@ -248,7 +226,6 @@ const tableData = [
     tx_cost: '---',
     finality: '---',
     consensus: '---',
-    efficient: '---',
     max_tps: '---',
     url: 'syscoin-doc'
   },
@@ -259,7 +236,6 @@ const tableData = [
     tx_cost: '1 gwei',
     finality: '2f+1≤n',
     consensus: 'POS',
-    efficient: 'Yes',
     max_tps: '~70',
     url: 'xdai-doc'
   },

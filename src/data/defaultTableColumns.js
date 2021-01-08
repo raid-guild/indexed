@@ -69,22 +69,6 @@ const defaultTableColumns = [
     isShown: true
   },
   {
-    name: '$ efficient',
-    selector: 'efficient',
-    sortable: true,
-    isShown: true,
-    conditionalCellStyles: [
-      {
-        when: cell => cell.efficient === "YES",
-        style: { color: '#13ce7d' },
-      },
-      {
-        when: cell => cell.efficient === "NO",
-        style: { color: '#f9036c' },
-      },
-    ]
-  },
-  {
     name: 'Max TPS',
     selector: 'max_tps',
     sortable: true,
