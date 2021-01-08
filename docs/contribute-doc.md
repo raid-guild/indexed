@@ -4,7 +4,7 @@ title: Contribution Guide
 sidebar_label: Contribution Guide
 ---
 
-# 🌻 Help us grow! 🌻
+# Help us grow!
 
 ## Collaborate with us
 
