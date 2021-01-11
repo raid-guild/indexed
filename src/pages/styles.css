@@ -1,4 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&display=swap");
+/* @import url("https://fonts.googleapis.com/css2?family=Padauk:wght@700&display=swap"); */
+@import url("https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap");
 
 * {
   margin: 0;
@@ -13,6 +15,11 @@ body {
   font-size: 18px;
   line-height: 1.6;
   color: rgb(19, 16, 16);
+}
+
+h1,
+h2 {
+  font-family: "Share Tech Mono", monospace;
 }
 
 input,
@@ -85,4 +92,9 @@ a {
 
 .table-of-contents__link {
   color: rgb(19, 16, 16);
+}
+
+.menu,
+.menu--responsive {
+  background-color: #8e2abe;
 }
