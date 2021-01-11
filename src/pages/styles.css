@@ -9,10 +9,10 @@
 body {
   margin: 0;
   font-family: "Courier Prime", sans-serif;
-  background-color: #0a011c;
+  background-color: #470bbe7c;
   font-size: 18px;
   line-height: 1.6;
-  color: white;
+  color: rgb(19, 16, 16);
 }
 
 input,
@@ -77,4 +77,12 @@ a {
 
 .doc-link {
   color: #8e2abe;
+}
+
+.menu__link {
+  color: rgb(19, 16, 16);
+}
+
+.table-of-contents__link {
+  color: rgb(19, 16, 16);
 }
