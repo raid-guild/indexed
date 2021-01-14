@@ -25,8 +25,8 @@ Delegated Proof of Stake (DPOS) consensus protocol. The blockchain utilizes Tend
 
 ## $ Efficient
 
-DPOS protocol implies low energy requirements – lower than POW or POS (see [here](https://ieeexplore.ieee.org/abstract/document/8798621)). Low-end to mid-range HW is recommended to run validator's node. 
-45 validators provide enough resources for at least 1000TPS (as of January 2021).
+YES.  
+DPOS protocol implies low energy requirements – lower than POW or POS (see [here](https://ieeexplore.ieee.org/abstract/document/8798621)). Low-end to mid-range HW is recommended to run validator's node. 45 validators provide enough resources for at least 1000TPS (as of January 2021).
 
 ## Max TPS
 
