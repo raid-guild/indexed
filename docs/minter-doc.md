@@ -6,7 +6,7 @@ sidebar_label: Minter
 
 ## Type
 
-DPOS based L2 solution with off-chain support. Ability to issue custom coins and exchange them for BTC, ETH or other issued coins.
+DPOS based L2 solution with ability to issue custom coins and exchange them for BTC, ETH or other issued coins.
 
 ## Tx Cost
 
