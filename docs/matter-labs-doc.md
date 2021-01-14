@@ -4,6 +4,10 @@ title: Matter Labs
 sidebar_label: Matter Labs
 ---
 
+## Types
+
+SNARK
+
 ## Links
 
 [HomePage](https://matter-labs.io/)
@@ -11,6 +15,12 @@ sidebar_label: Matter Labs
 [Twitter](https://twitter.com/the_matter_labs)
 
 [Github](https://github.com/matter-labs)
+
+[Telegram](https://t.me/matterlabs)
+
+[Medium](https://medium.com/matter-labs)
+
+[Gitter](https://gitter.im/matter-labs/community)
 
 ## Tx Cost
 
