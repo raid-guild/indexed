@@ -34,12 +34,12 @@ DPOS protocol implies low energy requirements – lower than POW or POS (see [he
 
 ## Additional info
 
-[Project site] https://www.minter.network/  
-[Whitepaper] https://about.minter.network/Minter_White_Paper.pdf?v04  
-[Medum] https://medium.com/@MinterTeam  
-[Twitter] https://twitter.com/MinterTeam  
-[Facebook] https://www.facebook.com/MinterNetwork  
-[Reddit] https://www.reddit.com/r/Minter/
+[Project site](https://www.minter.network/)  
+[Whitepaper](https://about.minter.network/Minter_White_Paper.pdf?v04)  
+[Medum](https://medium.com/@MinterTeam)  
+[Twitter](https://twitter.com/MinterTeam)  
+[Facebook](https://www.facebook.com/MinterNetwork)  
+[Reddit](https://www.reddit.com/r/Minter/)
 
 ## Reddit Submission Link
 
