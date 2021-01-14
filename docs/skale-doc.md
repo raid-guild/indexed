@@ -14,7 +14,7 @@ Gasless for under a specific usage threshold, small increase once over the thres
 Finalization times depend on sidechain size and configuration, but generally sub-second.
 
 ## Consensus
-Asynchronous Binary Byzantine Agreement.
+Proof of Stake, Asynchronous Binary Byzantine Agreement Consensus.
 
 ## $ Efficient
 Very efficient since you can adapt the sidechain size to developer needs. New applications can start with small and economic sidechain sizes and then grow together with their userbase.
