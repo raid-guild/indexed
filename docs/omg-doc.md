@@ -24,7 +24,7 @@ Proof-of-Authority as of 2021/01/14. Proof-of-Stake will replace PoA once it's i
 ## $ Efficient
 
 YES.  
-Plasma ensures high throughput and very low cost per transaction. These properties imply high capital efficiency.
+Plasma (either using PoA or PoS) ensures high throughput and very low cost per transaction. These properties imply high capital efficiency.
 
 ## Max TPS
 
