@@ -6,7 +6,7 @@ sidebar_label: Minter
 
 ## Type
 
-DPOS based L2 solution with ability to issue custom coins and exchange them for BTC, ETH or other issued coins.
+L2 solution based on Delegated Proof-of-Stake with ability to issue custom coins and exchange them for BTC, ETH or other issued coins.
 
 ## Tx Cost
 
@@ -21,12 +21,12 @@ Fees for other transactions: https://www.minter.network/docs#commissions
 
 ## Consensus
 
-Delegated Proof of Stake (DPOS) consensus protocol. The blockchain utilizes Tendermint Consensus Engine, which relies on a set of validators that are responsible for committing new blocks into the blockchain. Validators are determined by who has the most stake delegated to them and their number is limited.
+Delegated Proof-of-Stake (DPoS) consensus protocol. The blockchain utilizes Tendermint Consensus Engine, which relies on a set of validators that are responsible for committing new blocks into the blockchain. Validators are determined by who has the most stake delegated to them and their number is limited.
 
 ## $ Efficient
 
 YES.  
-DPOS protocol implies low energy requirements – lower than POW or POS (see [here](https://ieeexplore.ieee.org/abstract/document/8798621)). Low-end to mid-range HW is recommended to run validator's node. 45 validators provide enough resources for at least 1000TPS (as of January 2021).
+DPoS protocol implies low energy requirements – lower than PoW or PoS (see [here](https://ieeexplore.ieee.org/abstract/document/8798621)). Low-end to mid-range HW is recommended to run validator's node. 45 validators provide enough resources for at least 1000TPS (as of January 2021).
 
 ## Max TPS
 
