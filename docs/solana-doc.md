@@ -15,6 +15,11 @@ Sub-seconds
 Pratical Byzantine Fault Tolerance-based (PBFT) PoS & PoH
 ## $ Efficient
 Yes
+## Additional Info
+[Website](https://www.solana.com)
+[Documentation](https://docs.solana.com)
+[Discord](https://discord.gg/m6K4Afvd)
+[Blog](https://medium.com/solana-labs)
 ## Max TPS
 50,000
 ## Reddit Submission Link
