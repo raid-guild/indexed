@@ -5,17 +5,18 @@ sidebar_label: Fuel Labs
 ---
 
 ## Type
+Fuel is a permissionless and trustless layer-2 protocol for Ethereum, targeted at low-cost high-throughput value-transfer transactions. Fuel is powered by a highly-optimized optimistic rollup design.
 
 ## Tx Cost
+~1350-1600 gas (~0.03 USD)
 
 ## Finality
-
+Probabilistic
 ## Consensus
-
+Proof of work
 ## $ Efficient
-
+10,000 TPS 
 ## Max TPS
-
-## Reddit Submission Link
-
-https://www.reddit.com/r/ethereum/comments/i1cimc/the_great_reddit_scaling_bakeoff_submission_by/
+Max TPS: 320.3ms
+## Source
+([source]https://mainnet.fuel.sh/network).
