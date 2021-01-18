@@ -25,8 +25,8 @@
 .card {
   min-height: 140px;
   background-color: #fff;
-  min-width: 60%;
-  width: 60%;
+  min-width: 580px;
+  max-width: 760px;
   position: relative;
   transition: transform 0.4s;
   margin-left: 40px;
