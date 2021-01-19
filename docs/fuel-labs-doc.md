@@ -19,10 +19,10 @@ Proof of work
 ## Max TPS
 Max TPS: 320.3ms
 ## Source
-([source]https://mainnet.fuel.sh/network).
+WebSite: https://mainnet.fuel.sh/network
+
 ## Social Media & Community
 
 Discord: ([source] https://discord.com/invite/xfpK4Pe)
-
 Github: ([source] https://github.com/FuelLabs)
 
