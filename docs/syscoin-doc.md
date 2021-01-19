@@ -33,7 +33,11 @@ Record 60158 TPS was achieved with only 24 masternodes ([source](https://syscoin
 ## Additional info
 
 [Project site](https://syscoin.org/)
+
 [Whitepaper v3](https://syscoin.org/syscoin3_whitepaper.pdf) ([v4 coming soon](https://syscoin.org/whitepaper))
+
 [Facebook](https://www.facebook.com/Syscoin/)
+
 [Twitter](https://twitter.com/syscoin)
+
 [Reddit](https://www.reddit.com/r/SysCoin/)
