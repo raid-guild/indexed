@@ -29,3 +29,11 @@ Record 60158 TPS was achieved with only 24 masternodes ([source](https://syscoin
 ## Max TPS
 
 ~61000 TPS across a worldwide network ([source](https://whiteblock.io/wp-content/uploads/2019/07/ZDAG-Analysis.pdf)).
+
+## Additional info
+
+[Project site](https://syscoin.org/)
+[Whitepaper v3](https://syscoin.org/syscoin3_whitepaper.pdf) ([v4 coming soon](https://syscoin.org/whitepaper))
+[Facebook](https://www.facebook.com/Syscoin/)
+[Twitter](https://twitter.com/syscoin)
+[Reddit](https://www.reddit.com/r/SysCoin/)
