@@ -22,7 +22,7 @@ Max TPS: 320.3ms
 ([source]https://mainnet.fuel.sh/network).
 ## Social Media & Community
 
-Discord: https://discord.com/invite/xfpK4Pe
+Discord: ([source] https://discord.com/invite/xfpK4Pe)
 
-Github: https://github.com/FuelLabs
+Github: ([source] https://github.com/FuelLabs)
 
