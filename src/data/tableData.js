@@ -113,7 +113,7 @@ const tableData = [
     id: 13,
     chain_name: 'Matic Network',
     type: 'POS+Plasma',
-    tx_cost: '0.00001',
+    tx_cost: '$0.00001',
     finality: '2 seconds',
     consensus: 'POS',
     max_tps: '7200',
@@ -222,11 +222,11 @@ const tableData = [
   {
     id: 24,
     chain_name: 'Syscoin',
-    type: '---',
-    tx_cost: '---',
-    finality: '---',
-    consensus: '---',
-    max_tps: '---',
+    type: 'Standalone',
+    tx_cost: '$0.00000464',
+    finality: '10 sec',
+    consensus: 'Hybrid PoW/PoS',
+    max_tps: '~61000',
     url: 'syscoin-doc'
   },
   {
