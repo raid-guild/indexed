@@ -1,21 +1,38 @@
----
-id: raiden-doc
-title: Raiden
-sidebar_label: Raiden
----
+- [ ] Type: 
+ State Channel (off chain)
+- [ ] Transaction cost:
+Is denominated in the token that is transferred in the channel.
 
-## Type
+- [ ] Finality
+Instant
 
-## Tx Cost
+- [ ] Consensus:
+Proof of stake
 
-## Finality
+- [ ] Capital Efficient:
+YES
 
-## Consensus
+- [ ] Max TPS:
+100k txn/s.
 
-## $ Efficient
+- [ ] Additional info:
 
-## Max TPS
+- https://medium.com/raiden-network/raiddit-scaling-reddit-community-points-with-raiden-9fe60c14ae47
 
-## Reddit Submission Link
+- https://developer.raiden.network/
 
-https://www.reddit.com/r/ethereum/comments/i1dulf/raiddit_raiden_network_submission_to_the_great/
+- https://twitter.com/raiden_network
+
+- https://medium.com/@raiden_network
+
+- https://www.youtube.com/channel/UCoUP_hnjUddEvbxmtNCcApg
+
+## Reviewer checklist
+
+- [ ] The code follows the guidelines outlined in the Contribution Guide
+
+## Developer checklist
+
+- [ ] Please provide proof of participation within the service/project you are updating
+- [ ] The code follows the guidelines outlined in the Contribution Guide
+
