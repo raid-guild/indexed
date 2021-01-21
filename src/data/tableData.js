@@ -152,11 +152,11 @@ const tableData = [
   {
     id: 17,
     chain_name: 'Near',
-    type: '---',
-    tx_cost: '---',
-    finality: '---',
-    consensus: '---',
-    max_tps: '---',
+    type: 'POS',
+    tx_cost: '0.0004',
+    finality: '2 sec',
+    consensus: 'POS',
+    max_tps: '100k/sec +',
     url: 'near-doc'
   },
   {
