@@ -142,11 +142,11 @@ const tableData = [
   {
     id: 16,
     chain_name: 'Minter',
-    type: '---',
-    tx_cost: '---',
-    finality: '---',
-    consensus: '---',
-    max_tps: '---',
+    type: 'DPoS',
+    tx_cost: '~1500 gwei',
+    finality: '5 sec',
+    consensus: 'DPoS',
+    max_tps: '~1000',
     url: 'minter-doc'
   },
   {
@@ -156,7 +156,7 @@ const tableData = [
     tx_cost: '0.0004',
     finality: '2 sec',
     consensus: 'POS',
-    max_tps: '100k/sec +',
+    max_tps: '100k +',
     url: 'near-doc'
   },
   {
