@@ -202,11 +202,11 @@ const tableData = [
   {
     id: 22,
     chain_name: 'Solana',
-    type: '---',
-    tx_cost: '---',
-    finality: '---',
-    consensus: '---',
-    max_tps: '---',
+    type: 'POS + POH',
+    tx_cost: '$0.00001',
+    finality: '< 1 sec',
+    consensus: 'PBFT PoS & PoH',
+    max_tps: '50,000',
     url: 'solana-doc'
   },
   {
