@@ -12,11 +12,11 @@ const tableData = [
   {
     id: 3,
     chain_name: 'Aztec',
-    type: '---',
-    tx_cost: '---',
-    finality: '---',
-    consensus: '---',
-    max_tps: '---',
+    type: 'ZkRollup',
+    tx_cost: '$0.000001',
+    finality: '< 1 sec',
+    consensus: 'Roll-up proofs',
+    max_tps: '300',
     url: 'aztec-doc'
   },
   {
