@@ -25,3 +25,7 @@ Minter's powerfull blockchain can handle 10,000 transactions per second. (https:
 ## Reddit Submission Link
 
 https://www.reddit.com/r/ethereum/comments/i28jne/minter_network_submission_to_the_reddit_scaling/
+
+Twitter: https://twitter.com/MinterTeam
+FaceBook: https://www.facebook.com/MinterNetwork
+
