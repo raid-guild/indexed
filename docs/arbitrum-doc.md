@@ -44,7 +44,7 @@ consortium
 
 - Verifier: "global entity or distributed protocol"
 
-## $ Efficient
+## Efficency
 
 Arbitrum’s VM architecture makes dispute resolution very efficient.
 
