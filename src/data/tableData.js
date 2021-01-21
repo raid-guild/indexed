@@ -2,11 +2,11 @@ const tableData = [
   {
     id: 2,
     chain_name: 'Arbitrum',
-    type: '---',
-    tx_cost: '---',
-    finality: '---',
-    consensus: '---',
-    max_tps: '---',
+    type: 'POS/plasma',
+    tx_cost: '30 gwei',
+    finality: '1.7 mh/s',
+    consensus: 'consortium',
+    max_tps: '<= 4.5k/sec',
     url: 'arbitrum-doc'
   },
   {
