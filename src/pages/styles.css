@@ -105,6 +105,7 @@ a[tabindex]:focus {
 .menu,
 .menu--responsive {
   background-color: #0a011c;
+  color: #9812ff;
 }
 
 .navbar--fixed-top {
