@@ -25,7 +25,8 @@ module.exports = {
       'raiden-doc',
       'skale-doc',
       'solana-doc',
-      'starkware-doc',
+      'starkware-validium-doc',
+      'starkware-zkrollup-doc',
       'syscoin-doc',
       'xdai-doc'
     ],

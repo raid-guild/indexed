@@ -1,7 +1,7 @@
 ---
-id: starkware-validium-doc
-title: Starkware Validium
-sidebar_label: Starkware Validium
+id: starkware-zkrollup-doc
+title: Starkware Zkrollup
+sidebar_label: Starkware Zkrollup
 ---
 
 ## Type
