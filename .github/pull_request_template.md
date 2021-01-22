@@ -1,3 +1,9 @@
+The following items should be included as headers in the markdown document (##).
+
+This is the MIN information required, and you are encouraged to include as much information as you can track down.
+
+Please include links to
+
 - [ ] Type:
 <!-- What type of chain is this? (e.g.: EVM) -->
 
@@ -10,14 +16,17 @@
 - [ ] Consensus:
 <!-- what type of consensus mechanism is used? Such as Proof of Stake, Delegated Proof of Stake, etc. -->
 
-- [ ] Capital Efficient:
+- [ ] Capital Efficiency:
 <!-- Is this chain capital efficient? (YES/NO) [link to explanation?] -->
 
 - [ ] Max TPS:
 <!-- Maximum  number of Transactions per second on this network -->
 
 - [ ] Additional info:
-<!-- links to docs, reddit, discord, etc. -->
+<!-- links to docs -->
+
+- [ ] Social media and community links:
+<!-- links to reddit, discord, etc. -->
 
 ## Reviewer checklist
 
