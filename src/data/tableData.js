@@ -102,11 +102,11 @@ const tableData = [
   {
     id: 12,
     chain_name: 'Loopring',
-    type: '---',
-    tx_cost: '---',
-    finality: '---',
-    consensus: '---',
-    max_tps: '---',
+    type: 'Chain-agnostic',
+    tx_cost: '$0.0002',
+    finality: 'Immediate',
+    consensus: 'zkRollup',
+    max_tps: '16,400',
     url: 'loopring-doc'
   },
   {
@@ -153,7 +153,7 @@ const tableData = [
     id: 17,
     chain_name: 'Near',
     type: 'POS',
-    tx_cost: '0.0004',
+    tx_cost: '$0.0004',
     finality: '2 sec',
     consensus: 'POS',
     max_tps: '100k +',
