@@ -1,6 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&display=swap");
-/* @import url("https://fonts.googleapis.com/css2?family=Padauk:wght@700&display=swap"); */
-@import url("https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap");
 
 * {
   margin: 0;
@@ -11,15 +10,15 @@
 body {
   margin: 0;
   font-family: "Courier Prime", sans-serif;
-  background-color: #470bbe7c;
+  background-color: #0a011c;
   font-size: 18px;
   line-height: 1.6;
-  color: rgb(19, 16, 16);
+  color: #ffffff;
 }
 
 h1,
 h2 {
-  font-family: "Share Tech Mono", monospace;
+  font-family: "Courier Prime", sans-serif;
 }
 
 input,
@@ -65,6 +64,15 @@ a {
   color: #f9006c;
 }
 
+a:active {
+  color: #ff65a8;
+}
+
+a[tabindex]:focus {
+  color: #ff65a8;
+  outline: none;
+}
+
 .wrapper {
   width: 100%;
   max-width: 1260px;
@@ -87,14 +95,27 @@ a {
 }
 
 .menu__link {
-  color: rgb(19, 16, 16);
+  color: #ffffff;
 }
 
 .table-of-contents__link {
-  color: rgb(19, 16, 16);
+  color: #ffffff;
 }
 
 .menu,
 .menu--responsive {
-  background-color: #8e2abe;
+  background-color: #0a011c;
+  color: #9812ff;
+}
+
+.navbar--fixed-top {
+  background-color: #0e0028;
+}
+
+.navbar__title {
+  color: white;
+}
+
+.navbar__link {
+  color: white;
 }
