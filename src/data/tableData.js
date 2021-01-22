@@ -212,11 +212,11 @@ const tableData = [
   {
     id: 23,
     chain_name: 'Starkware',
-    type: '---',
-    tx_cost: '---',
-    finality: '---',
-    consensus: '---',
-    max_tps: '---',
+    type: 'CVM',
+    tx_cost: '17 gwei',
+    finality: '10 min',
+    consensus: 'Validium proofs',
+    max_tps: '3000',
     url: 'starkware-doc'
   },
   {
