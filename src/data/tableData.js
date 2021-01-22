@@ -72,11 +72,11 @@ const tableData = [
   {
     id: 9,
     chain_name: 'Fuel Labs',
-    type: '---',
-    tx_cost: '---',
-    finality: '---',
-    consensus: '---',
-    max_tps: '---',
+    type: 'Rollup',
+    tx_cost: '$0.03',
+    finality: 'Probabilistic',
+    consensus: 'PoW',
+    max_tps: '320.3ms*',
     url: 'fuel-labs-doc'
   },
   {
