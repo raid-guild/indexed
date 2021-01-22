@@ -152,7 +152,7 @@ const tableData = [
   {
     id: 17,
     chain_name: 'Near',
-    type: 'POS',
+    type: 'PoS',
     tx_cost: '$0.0004',
     finality: '2 sec',
     consensus: 'POS',
@@ -162,11 +162,11 @@ const tableData = [
   {
     id: 18,
     chain_name: 'OMG',
-    type: '---',
-    tx_cost: '---',
-    finality: '---',
-    consensus: '---',
-    max_tps: '---',
+    type: 'Plasma',
+    tx_cost: '$0.23',
+    finality: '~15 sec',
+    consensus: 'PoA > PoS',
+    max_tps: '4000',
     url: 'omg-doc'
   },
   {
