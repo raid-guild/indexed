@@ -6,16 +6,32 @@ sidebar_label: Raiden
 
 ## Type
 
+State Channel (off chain).
+
 ## Tx Cost
+
+Is denominated in the token that is transferred in the channel.
 
 ## Finality
 
+Instant
+
 ## Consensus
 
-## $ Efficient
+Proof of stake
 
 ## Max TPS
 
-## Reddit Submission Link
+100k
 
-https://www.reddit.com/r/ethereum/comments/i1dulf/raiddit_raiden_network_submission_to_the_great/
+## Additional
+
+https://medium.com/raiden-network/raiddit-scaling-reddit-community-points-with-raiden-9fe60c14ae47
+
+https://developer.raiden.network/
+
+https://twitter.com/raiden_network
+
+https://medium.com/@raiden_network
+
+https://www.youtube.com/channel/UCoUP_hnjUddEvbxmtNCcApg
