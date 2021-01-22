@@ -192,11 +192,11 @@ const tableData = [
   {
     id: 21,
     chain_name: 'Skale',
-    type: '---',
-    tx_cost: '---',
-    finality: '---',
-    consensus: '---',
-    max_tps: '---',
+    type: 'BLS Rollup',
+    tx_cost: 'Gasless*',
+    finality: '< 1 sec',
+    consensus: 'PoS',
+    max_tps: '2000',
     url: 'skale-doc'
   },
   {
