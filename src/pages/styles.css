@@ -10,7 +10,7 @@
 body {
   margin: 0;
   font-family: "Courier Prime", sans-serif;
-  background-color: #000000;
+  background-color: #0a011c;
   font-size: 18px;
   line-height: 1.6;
   color: #ffffff;
@@ -64,6 +64,15 @@ a {
   color: #f9006c;
 }
 
+a:active {
+  color: #ff65a8;
+}
+
+a[tabindex]:focus {
+  color: #ff65a8;
+  outline: none;
+}
+
 .wrapper {
   width: 100%;
   max-width: 1260px;
@@ -95,5 +104,17 @@ a {
 
 .menu,
 .menu--responsive {
-  background-color: #000000;
+  background-color: #0a011c;
+}
+
+.navbar--fixed-top {
+  background-color: #0e0028;
+}
+
+.navbar__title {
+  color: white;
+}
+
+.navbar__link {
+  color: white;
 }

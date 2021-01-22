@@ -14,7 +14,7 @@ module.exports = {
     },
     navbar: {
       title: 'indexed.eth',
-      style: 'dark',
+      // style: 'dark',
       items: [
         {
           href: '/docs/contribute-doc',
