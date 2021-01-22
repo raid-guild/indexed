@@ -172,11 +172,11 @@ const tableData = [
   {
     id: 19,
     chain_name: 'Raiden',
-    type: '---',
+    type: 'State Channel',
     tx_cost: '---',
-    finality: '---',
-    consensus: '---',
-    max_tps: '---',
+    finality: 'Instant',
+    consensus: 'PoS',
+    max_tps: '100k',
     url: 'raiden-doc'
   },
   {
