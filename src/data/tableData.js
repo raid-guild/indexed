@@ -211,16 +211,26 @@ const tableData = [
   },
   {
     id: 23,
-    chain_name: 'Starkware',
+    chain_name: 'Starkware (Zkrollup)',
     type: 'CVM',
-    tx_cost: '17 gwei',
+    tx_cost: '315 gas/tx',
+    finality: '10 min',
+    consensus: 'ZK proofs',
+    max_tps: '3000',
+    url: 'starkware-doc'
+  },
+  {
+    id: 24,
+    chain_name: 'Starkware (Validium)',
+    type: 'CVM',
+    tx_cost: '17 gas/tx',
     finality: '10 min',
     consensus: 'Validium proofs',
     max_tps: '3000',
     url: 'starkware-doc'
   },
   {
-    id: 24,
+    id: 25,
     chain_name: 'Syscoin',
     type: 'Standalone',
     tx_cost: '$0.00000464',
@@ -230,7 +240,7 @@ const tableData = [
     url: 'syscoin-doc'
   },
   {
-    id: 25,
+    id: 26,
     chain_name: 'xDai',
     type: 'POS',
     tx_cost: '1 gwei',
