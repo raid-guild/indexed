@@ -21,9 +21,8 @@ Transaction speed is much faster than on Layer 1 but the finality block time is 
 
 Proof-of-Authority as of 2021/01/14. Proof-of-Stake will replace PoA once it's implemented.
 
-## $ Efficient
+## Efficiency
 
-YES.  
 Plasma (either using PoA or PoS) ensures high throughput and very low cost per transaction. These properties imply high capital efficiency.
 
 ## Max TPS
