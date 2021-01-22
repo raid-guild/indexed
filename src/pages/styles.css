@@ -1,6 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&display=swap");
-/* @import url("https://fonts.googleapis.com/css2?family=Padauk:wght@700&display=swap"); */
-@import url("https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap");
 
 * {
   margin: 0;
@@ -11,15 +10,15 @@
 body {
   margin: 0;
   font-family: "Courier Prime", sans-serif;
-  background-color: #470bbe7c;
+  background-color: #000000;
   font-size: 18px;
   line-height: 1.6;
-  color: rgb(19, 16, 16);
+  color: #ffffff;
 }
 
 h1,
 h2 {
-  font-family: "Share Tech Mono", monospace;
+  font-family: "Courier Prime", sans-serif;
 }
 
 input,
@@ -87,14 +86,14 @@ a {
 }
 
 .menu__link {
-  color: rgb(19, 16, 16);
+  color: #ffffff;
 }
 
 .table-of-contents__link {
-  color: rgb(19, 16, 16);
+  color: #ffffff;
 }
 
 .menu,
 .menu--responsive {
-  background-color: #8e2abe;
+  background-color: #000000;
 }
