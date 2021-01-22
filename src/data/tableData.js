@@ -122,11 +122,11 @@ const tableData = [
   {
     id: 14,
     chain_name: 'Matter Labs',
-    type: '---',
-    tx_cost: '---',
-    finality: '---',
-    consensus: '---',
-    max_tps: '---',
+    type: 'ZKSNARK',
+    tx_cost: '$0.001',
+    finality: '10 min',
+    consensus: 'Validity proofs',
+    max_tps: '2000',
     url: 'matter-labs-doc'
   },
   {
