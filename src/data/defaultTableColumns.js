@@ -56,13 +56,6 @@ const defaultTableColumns = [
     ]
   },
   {
-    name: 'Finality',
-    selector: 'finality',
-    sortable: true,
-    isShown: true,
-
-  },
-  {
     name: 'Consensus',
     selector: 'consensus',
     sortable: true,

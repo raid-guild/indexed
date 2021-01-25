@@ -4,7 +4,6 @@ const tableData = [
     chain_name: 'Arbitrum',
     type: 'POS/plasma',
     tx_cost: '30 gwei',
-    finality: '1.7 mh/s',
     consensus: 'consortium',
     max_tps: '<= 4.5k/sec',
     url: 'arbitrum-doc'
@@ -14,7 +13,6 @@ const tableData = [
     chain_name: 'Aztec',
     type: 'ZkRollup',
     tx_cost: '$0.000001',
-    finality: '< 1 sec',
     consensus: 'Roll-up proofs',
     max_tps: '300',
     url: 'aztec-doc'
@@ -24,7 +22,6 @@ const tableData = [
     chain_name: 'Celer',
     type: '---',
     tx_cost: '---',
-    finality: '---',
     consensus: '---',
     max_tps: '---',
     url: 'celer-doc'
@@ -34,7 +31,6 @@ const tableData = [
     chain_name: 'Connext',
     type: 'Micropayment',
     tx_cost: '0',
-    finality: 'instant',
     consensus: 'state channel',
     max_tps: '1000+',
     url: 'connext-doc'
@@ -44,7 +40,6 @@ const tableData = [
     chain_name: 'Dapp Solutions',
     type: '---',
     tx_cost: '---',
-    finality: '---',
     consensus: '---',
     max_tps: '---',
     url: 'dapp-solutions-doc'
@@ -54,7 +49,6 @@ const tableData = [
     chain_name: 'Dragonchain',
     type: '---',
     tx_cost: '---',
-    finality: '---',
     consensus: '---',
     max_tps: '---',
     url: 'dragonchain-doc'
@@ -64,7 +58,6 @@ const tableData = [
     chain_name: 'Everest',
     type: '---',
     tx_cost: '---',
-    finality: '---',
     consensus: '---',
     max_tps: '---',
     url: 'everest-doc'
@@ -74,7 +67,6 @@ const tableData = [
     chain_name: 'Fuel Labs',
     type: 'Rollup',
     tx_cost: '$0.03',
-    finality: 'Probabilistic',
     consensus: 'PoW',
     max_tps: '320.3ms*',
     url: 'fuel-labs-doc'
@@ -84,7 +76,6 @@ const tableData = [
     chain_name: 'Hubble Project',
     type: '---',
     tx_cost: '---',
-    finality: '---',
     consensus: '---',
     max_tps: '---',
     url: 'hubble-project-doc'
@@ -94,7 +85,6 @@ const tableData = [
     chain_name: 'KChannels',
     type: '---',
     tx_cost: '---',
-    finality: '---',
     consensus: '---',
     max_tps: '---',
     url: 'kchannels-doc'
@@ -104,7 +94,6 @@ const tableData = [
     chain_name: 'Loopring',
     type: 'Chain-agnostic',
     tx_cost: '$0.0002',
-    finality: 'Immediate',
     consensus: 'zkRollup',
     max_tps: '16,400',
     url: 'loopring-doc'
@@ -114,7 +103,6 @@ const tableData = [
     chain_name: 'Matic Network',
     type: 'POS+Plasma',
     tx_cost: '$0.00001',
-    finality: '2 seconds',
     consensus: 'POS',
     max_tps: '7200',
     url: 'maticnetwork-doc'
@@ -124,7 +112,6 @@ const tableData = [
     chain_name: 'Matter Labs',
     type: 'ZKSNARK',
     tx_cost: '$0.001',
-    finality: '10 min',
     consensus: 'Validity proofs',
     max_tps: '2000',
     url: 'matter-labs-doc'
@@ -134,7 +121,6 @@ const tableData = [
     chain_name: 'Meter',
     type: '---',
     tx_cost: '---',
-    finality: '---',
     consensus: '---',
     max_tps: '---',
     url: 'meter-doc'
@@ -144,7 +130,6 @@ const tableData = [
     chain_name: 'Minter',
     type: 'DPoS',
     tx_cost: '~1500 gwei',
-    finality: '5 sec',
     consensus: 'DPoS',
     max_tps: '~1000',
     url: 'minter-doc'
@@ -154,7 +139,6 @@ const tableData = [
     chain_name: 'Near',
     type: 'PoS',
     tx_cost: '$0.0004',
-    finality: '2 sec',
     consensus: 'POS',
     max_tps: '100k +',
     url: 'near-doc'
@@ -164,7 +148,6 @@ const tableData = [
     chain_name: 'OMG',
     type: 'Plasma',
     tx_cost: '$0.23',
-    finality: '~15 sec',
     consensus: 'PoA > PoS',
     max_tps: '4000',
     url: 'omg-doc'
@@ -174,7 +157,6 @@ const tableData = [
     chain_name: 'Raiden',
     type: 'State Channel',
     tx_cost: '---',
-    finality: 'Instant',
     consensus: 'PoS',
     max_tps: '100k',
     url: 'raiden-doc'
@@ -184,7 +166,6 @@ const tableData = [
     chain_name: 'Serv',
     type: '---',
     tx_cost: '---',
-    finality: '---',
     consensus: '---',
     max_tps: '---',
     url: 'services'
@@ -194,7 +175,6 @@ const tableData = [
     chain_name: 'Skale',
     type: 'BLS Rollup',
     tx_cost: 'Gasless*',
-    finality: '< 1 sec',
     consensus: 'PoS',
     max_tps: '2000',
     url: 'skale-doc'
@@ -204,7 +184,6 @@ const tableData = [
     chain_name: 'Solana',
     type: 'POS + POH',
     tx_cost: '$0.00001',
-    finality: '< 1 sec',
     consensus: 'PBFT PoS & PoH',
     max_tps: '50,000',
     url: 'solana-doc'
@@ -214,7 +193,6 @@ const tableData = [
     chain_name: 'Starkware (Zkrollup)',
     type: 'CVM',
     tx_cost: '315 gas/tx',
-    finality: '10 min',
     consensus: 'ZK proofs',
     max_tps: '3000',
     url: 'starkware-doc'
@@ -224,7 +202,6 @@ const tableData = [
     chain_name: 'Starkware (Validium)',
     type: 'CVM',
     tx_cost: '17 gas/tx',
-    finality: '10 min',
     consensus: 'Validium proofs',
     max_tps: '3000',
     url: 'starkware-doc'
@@ -234,7 +211,6 @@ const tableData = [
     chain_name: 'Syscoin',
     type: 'Standalone',
     tx_cost: '$0.00000464',
-    finality: '10 sec',
     consensus: 'Hybrid PoW/PoS',
     max_tps: '~61000',
     url: 'syscoin-doc'
@@ -244,7 +220,6 @@ const tableData = [
     chain_name: 'xDai',
     type: 'POS',
     tx_cost: '1 gwei',
-    finality: '2f+1≤n',
     consensus: 'POS',
     max_tps: '~70',
     url: 'xdai-doc'
