@@ -1,7 +1,7 @@
 module.exports = {
-  title: 'indexed.eth',
+  title: 'indexed.wtf',
   tagline: 'A collectively built hub for comparison between "Layer 2" solutions',
-  url: 'https://indexed.eth',
+  url: 'https://indexed.wtf',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -13,7 +13,7 @@ module.exports = {
       disableSwitch: true,
     },
     navbar: {
-      title: 'indexed.eth',
+      title: 'indexed.wtf',
       // style: 'dark',
       items: [
         {
@@ -30,7 +30,7 @@ module.exports = {
       //   src: '/img/kevin.png',
       // },
 
-      copyright: `indexed.eth is a collectively built hub for indexing scaling solutions for Ethereum. Everyone is welcome to collaborate, currently via the <a href="/docs/contribute-doc/" target="#">docs</a>.
+      copyright: `indexed.wtf is a collectively built hub for indexing scaling solutions for Ethereum. Everyone is welcome to collaborate, currently via the <a href="/docs/contribute-doc/" target="#">docs</a>.
       </br>
       Bootstrapped by <a class="ow-link" href="https://twitter.com/owocki" target="#">Owocki</a> via <a class="rg-link" href="https://raidguild.org" target="#">raidguild.org</a>
       `,

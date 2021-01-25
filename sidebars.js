@@ -1,6 +1,6 @@
 module.exports = {
   someSidebar: {
-    "indexed.eth": [
+    "indexed.wtf": [
       'contribute-doc',
       'index-doc'
     ],

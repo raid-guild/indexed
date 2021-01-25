@@ -6,7 +6,7 @@ sidebar_label: Contribution Guide
 
 ## Collaborate with us
 
-We aim for indexed.eth to be a robust source for research and development for Layer 2 solutions.
+We aim for indexed.wtf to be a robust source for research and development for Layer 2 solutions.
 
 Please provide at least the minimum data specified below, feel free to include as much information as you please if you think it would be useful for developers!
 
