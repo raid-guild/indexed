@@ -108,14 +108,15 @@ a[tabindex]:focus {
   color: #9812ff;
 }
 
-.navbar--fixed-top {
+/* .navbar--fixed-top {
   background-color: #0e0028;
-}
+} */
 
 .navbar__title {
-  color: white;
+  color: #0e0028;
 }
 
 .navbar__link {
-  color: white;
+  color: #0e0028;
+  font-weight: bold;
 }
