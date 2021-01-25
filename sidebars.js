@@ -6,7 +6,6 @@ module.exports = {
     "Chains": [
       'arbitrum-doc',
       'aztec-doc',
-      'celer-doc',
       'connext-doc',
       'fuel-labs-doc',
       'loopring-doc',

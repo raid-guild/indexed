@@ -18,15 +18,6 @@ const tableData = [
     url: 'aztec-doc'
   },
   {
-    id: 4,
-    chain_name: 'Celer',
-    type: '---',
-    tx_cost: '---',
-    consensus: '---',
-    max_tps: '---',
-    url: 'celer-doc'
-  },
-  {
     id: 5,
     chain_name: 'Connext',
     type: 'Micropayment',
