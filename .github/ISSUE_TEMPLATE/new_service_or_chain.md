@@ -4,20 +4,30 @@ about: Use this template for requesting new docs for an L2 service or chain.
 assignees: bighappytrees
 ---
 
-<!-- Please include at least the following data: -->
+<!-- Please be thorough! -->
 
-## Name
+<!-- Please include AT LEAST the information below if requesting to add a new service/chain: -->
 
-## Links (github/social)
+## Chain Name
 
-## Tx Cost
+## Chain Type (Plasma, ZKSNARK, etc)
 
-## Finality
+## Average Tx Cost
 
-## Consensus
+## Consensus Mechanism (PoW, PoS)
 
-## $ Efficient
+## Max Transactions Per Second (TPS)
 
-## Max TPS
+## Social media and community links
 
-## Additional Info
+### Using the Ethereum mainnet as an example, the data for the main page table would look something like:
+
+```
+Chain Name: Ethereum Mainnet
+Chain Type: Ethereum
+Average Tx cost (average): 29 gwei
+Consensus: Proof of work (PoW)
+Max TPS: 12.6
+```
+
+Please include additional data
