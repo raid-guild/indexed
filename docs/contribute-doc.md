@@ -10,7 +10,11 @@ We aim for indexed.wtf to be a robust source for developers to utilize as a reso
 
 ## Submit an Issue or PR to keep information up to date
 
+### Issue (easiest)
+
 Please open a new issue in the [Github Repo](https://github.com/raid-guild/indexed).
+
+Navigate to "Issues" in the top nav and click the green "New Issue" button.
 
 OR
 
@@ -22,8 +26,6 @@ git clone <your-forked-repo>
 cd indexed
 git checkout -b <your-branch-name>
 ```
-
-Navigate to "Issues" in the top nav and click the green "New Issue" button.
 
 Please include AT LEAST the information below if requesting to add a new service/chain:
 
