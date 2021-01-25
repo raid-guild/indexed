@@ -4,8 +4,8 @@ const tableData = [
     chain_name: 'Arbitrum',
     type: 'POS/plasma',
     tx_cost: '30 gwei',
-    consensus: 'consortium',
-    max_tps: '<= 4.5k/sec',
+    consensus: 'Consortium',
+    max_tps: '4.5k',
     url: 'arbitrum-doc'
   },
   {
@@ -22,8 +22,8 @@ const tableData = [
     chain_name: 'Connext',
     type: 'Micropayment',
     tx_cost: '0',
-    consensus: 'state channel',
-    max_tps: '1000+',
+    consensus: 'State Channel',
+    max_tps: '1k',
     url: 'connext-doc'
   },
   {
@@ -32,7 +32,7 @@ const tableData = [
     type: 'Rollup',
     tx_cost: '21k gwei',
     consensus: 'PoW',
-    max_tps: '320.3ms*',
+    max_tps: '320',
     url: 'fuel-labs-doc'
   },
   {
@@ -40,8 +40,8 @@ const tableData = [
     chain_name: 'Loopring',
     type: 'Chain-agnostic',
     tx_cost: '140 gwei',
-    consensus: 'zkRollup',
-    max_tps: '16,400',
+    consensus: 'ZkRollup',
+    max_tps: '16k',
     url: 'loopring-doc'
   },
   {
@@ -50,7 +50,7 @@ const tableData = [
     type: 'POS+Plasma',
     tx_cost: '7 gwei',
     consensus: 'POS',
-    max_tps: '7200',
+    max_tps: '7.2k',
     url: 'maticnetwork-doc'
   },
   {
@@ -59,7 +59,7 @@ const tableData = [
     type: 'ZKSNARK',
     tx_cost: '700 gwei',
     consensus: 'Validity proofs',
-    max_tps: '2000',
+    max_tps: '2k',
     url: 'matter-labs-doc'
   },
   {
@@ -68,7 +68,7 @@ const tableData = [
     type: 'DPoS',
     tx_cost: '1500 gwei',
     consensus: 'DPoS',
-    max_tps: '~1000',
+    max_tps: '1k',
     url: 'minter-doc'
   },
   {
@@ -77,7 +77,7 @@ const tableData = [
     type: 'PoS',
     tx_cost: '280 gwei',
     consensus: 'POS',
-    max_tps: '100k +',
+    max_tps: '100k',
     url: 'near-doc'
   },
   {
@@ -86,7 +86,7 @@ const tableData = [
     type: 'Plasma',
     tx_cost: '160k gwei',
     consensus: 'PoA > PoS',
-    max_tps: '4000',
+    max_tps: '4k',
     url: 'omg-doc'
   },
   {
@@ -104,7 +104,7 @@ const tableData = [
     type: 'BLS Rollup',
     tx_cost: '0',
     consensus: 'PoS',
-    max_tps: '2000',
+    max_tps: '2k',
     url: 'skale-doc'
   },
   {
@@ -113,7 +113,7 @@ const tableData = [
     type: 'POS + POH',
     tx_cost: '7 gwei',
     consensus: 'PBFT PoS & PoH',
-    max_tps: '50,000',
+    max_tps: '50k',
     url: 'solana-doc'
   },
   {
@@ -122,7 +122,7 @@ const tableData = [
     type: 'CVM',
     tx_cost: '315 gwei',
     consensus: 'ZK proofs',
-    max_tps: '3000',
+    max_tps: '3k',
     url: 'starkware-doc'
   },
   {
@@ -131,7 +131,7 @@ const tableData = [
     type: 'CVM',
     tx_cost: '17 gwei',
     consensus: 'Validium proofs',
-    max_tps: '3000',
+    max_tps: '3k',
     url: 'starkware-doc'
   },
   {
@@ -140,7 +140,7 @@ const tableData = [
     type: 'Standalone',
     tx_cost: '3 gwei',
     consensus: 'Hybrid PoW/PoS',
-    max_tps: '~61000',
+    max_tps: '61k',
     url: 'syscoin-doc'
   },
   {
@@ -149,7 +149,7 @@ const tableData = [
     type: 'POS',
     tx_cost: '1 gwei',
     consensus: 'POS',
-    max_tps: '~70',
+    max_tps: '70',
     url: 'xdai-doc'
   },
 
