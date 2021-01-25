@@ -12,7 +12,7 @@ const tableData = [
     id: 3,
     chain_name: 'Aztec',
     type: 'ZkRollup',
-    tx_cost: '$0.000001',
+    tx_cost: '0.7040 Gwei',
     consensus: 'Roll-up proofs',
     max_tps: '300',
     url: 'aztec-doc'
@@ -30,7 +30,7 @@ const tableData = [
     id: 9,
     chain_name: 'Fuel Labs',
     type: 'Rollup',
-    tx_cost: '$0.03',
+    tx_cost: '21k gwei',
     consensus: 'PoW',
     max_tps: '320.3ms*',
     url: 'fuel-labs-doc'
@@ -39,7 +39,7 @@ const tableData = [
     id: 12,
     chain_name: 'Loopring',
     type: 'Chain-agnostic',
-    tx_cost: '$0.0002',
+    tx_cost: '140 gwei',
     consensus: 'zkRollup',
     max_tps: '16,400',
     url: 'loopring-doc'
@@ -48,7 +48,7 @@ const tableData = [
     id: 13,
     chain_name: 'Matic Network',
     type: 'POS+Plasma',
-    tx_cost: '$0.00001',
+    tx_cost: '7 gwei',
     consensus: 'POS',
     max_tps: '7200',
     url: 'maticnetwork-doc'
@@ -57,7 +57,7 @@ const tableData = [
     id: 14,
     chain_name: 'Matter Labs',
     type: 'ZKSNARK',
-    tx_cost: '$0.001',
+    tx_cost: '700 gwei',
     consensus: 'Validity proofs',
     max_tps: '2000',
     url: 'matter-labs-doc'
@@ -66,7 +66,7 @@ const tableData = [
     id: 16,
     chain_name: 'Minter',
     type: 'DPoS',
-    tx_cost: '~1500 gwei',
+    tx_cost: '1500 gwei',
     consensus: 'DPoS',
     max_tps: '~1000',
     url: 'minter-doc'
@@ -75,7 +75,7 @@ const tableData = [
     id: 17,
     chain_name: 'Near',
     type: 'PoS',
-    tx_cost: '$0.0004',
+    tx_cost: '280 gwei',
     consensus: 'POS',
     max_tps: '100k +',
     url: 'near-doc'
@@ -84,7 +84,7 @@ const tableData = [
     id: 18,
     chain_name: 'OMG',
     type: 'Plasma',
-    tx_cost: '$0.23',
+    tx_cost: '160k gwei',
     consensus: 'PoA > PoS',
     max_tps: '4000',
     url: 'omg-doc'
@@ -102,7 +102,7 @@ const tableData = [
     id: 21,
     chain_name: 'Skale',
     type: 'BLS Rollup',
-    tx_cost: 'Gasless*',
+    tx_cost: '0',
     consensus: 'PoS',
     max_tps: '2000',
     url: 'skale-doc'
@@ -111,7 +111,7 @@ const tableData = [
     id: 22,
     chain_name: 'Solana',
     type: 'POS + POH',
-    tx_cost: '$0.00001',
+    tx_cost: '7 gwei',
     consensus: 'PBFT PoS & PoH',
     max_tps: '50,000',
     url: 'solana-doc'
@@ -120,7 +120,7 @@ const tableData = [
     id: 23,
     chain_name: 'Starkware (Zkrollup)',
     type: 'CVM',
-    tx_cost: '315 gas/tx',
+    tx_cost: '315 gwei',
     consensus: 'ZK proofs',
     max_tps: '3000',
     url: 'starkware-doc'
@@ -129,7 +129,7 @@ const tableData = [
     id: 24,
     chain_name: 'Starkware (Validium)',
     type: 'CVM',
-    tx_cost: '17 gas/tx',
+    tx_cost: '17 gwei',
     consensus: 'Validium proofs',
     max_tps: '3000',
     url: 'starkware-doc'
@@ -138,7 +138,7 @@ const tableData = [
     id: 25,
     chain_name: 'Syscoin',
     type: 'Standalone',
-    tx_cost: '$0.00000464',
+    tx_cost: '3 gwei',
     consensus: 'Hybrid PoW/PoS',
     max_tps: '~61000',
     url: 'syscoin-doc'
