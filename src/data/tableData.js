@@ -36,33 +36,6 @@ const tableData = [
     url: 'connext-doc'
   },
   {
-    id: 6,
-    chain_name: 'Dapp Solutions',
-    type: '---',
-    tx_cost: '---',
-    consensus: '---',
-    max_tps: '---',
-    url: 'dapp-solutions-doc'
-  },
-  {
-    id: 7,
-    chain_name: 'Dragonchain',
-    type: '---',
-    tx_cost: '---',
-    consensus: '---',
-    max_tps: '---',
-    url: 'dragonchain-doc'
-  },
-  {
-    id: 8,
-    chain_name: 'Everest',
-    type: '---',
-    tx_cost: '---',
-    consensus: '---',
-    max_tps: '---',
-    url: 'everest-doc'
-  },
-  {
     id: 9,
     chain_name: 'Fuel Labs',
     type: 'Rollup',
@@ -70,24 +43,6 @@ const tableData = [
     consensus: 'PoW',
     max_tps: '320.3ms*',
     url: 'fuel-labs-doc'
-  },
-  {
-    id: 10,
-    chain_name: 'Hubble Project',
-    type: '---',
-    tx_cost: '---',
-    consensus: '---',
-    max_tps: '---',
-    url: 'hubble-project-doc'
-  },
-  {
-    id: 11,
-    chain_name: 'KChannels',
-    type: '---',
-    tx_cost: '---',
-    consensus: '---',
-    max_tps: '---',
-    url: 'kchannels-doc'
   },
   {
     id: 12,
@@ -115,15 +70,6 @@ const tableData = [
     consensus: 'Validity proofs',
     max_tps: '2000',
     url: 'matter-labs-doc'
-  },
-  {
-    id: 15,
-    chain_name: 'Meter',
-    type: '---',
-    tx_cost: '---',
-    consensus: '---',
-    max_tps: '---',
-    url: 'meter-doc'
   },
   {
     id: 16,
@@ -160,15 +106,6 @@ const tableData = [
     consensus: 'PoS',
     max_tps: '100k',
     url: 'raiden-doc'
-  },
-  {
-    id: 20,
-    chain_name: 'Serv',
-    type: '---',
-    tx_cost: '---',
-    consensus: '---',
-    max_tps: '---',
-    url: 'services'
   },
   {
     id: 21,
