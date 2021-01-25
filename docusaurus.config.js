@@ -18,7 +18,7 @@ module.exports = {
       items: [
         {
           href: '/docs/contribute-doc',
-          label: 'Docs',
+          label: 'Docs 🔗',
           position: 'right',
         },
       ],
