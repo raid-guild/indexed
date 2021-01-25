@@ -1,8 +1,7 @@
 module.exports = {
   someSidebar: {
     "indexed.wtf": [
-      'contribute-doc',
-      'index-doc'
+      'contribute-doc'
     ],
     "Chains": [
       'arbitrum-doc',
