@@ -1,6 +1,6 @@
 ## Collaborate with us
 
-We aim for indexed.eth to be a robust source for developers to utilize as a resource for research and development for Layer 2 solutions.
+We aim for indexed.wtf to be a robust source for developers to utilize as a resource for research and development for Layer 2 solutions.
 
 ## Submit an Issue or PR to keep information up to date
 
