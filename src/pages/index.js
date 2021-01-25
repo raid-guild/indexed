@@ -25,21 +25,24 @@ function Home() {
       // title={`${siteConfig.title}`}
       description="A collectively built hub for comparison between 'Layer 2' solutions."
     >
-      <Hero />
+      <div className="homepage">
+        <Hero />
 
-      <div className="wrapper">
-        <Filters
-          search={search}
-          setSearch={setSearch}
-          columns={columns}
-          setColumns={setColumns}
-        />
+        <div className="wrapper">
+          <Filters
+            search={search}
+            setSearch={setSearch}
+            columns={columns}
+            setColumns={setColumns}
+          />
 
-        <Table
-          search={search}
-          columns={columns}
-        />
+          <Table
+            search={search}
+            columns={columns}
+          />
+        </div>
       </div>
+
 
     </Layout>
   );

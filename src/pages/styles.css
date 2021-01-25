@@ -16,6 +16,10 @@ body {
   color: #ffffff;
 }
 
+.homepage {
+  background-color: #e5e5e5;
+}
+
 h1,
 h2 {
   font-family: "Courier Prime", sans-serif;

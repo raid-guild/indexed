@@ -8,9 +8,9 @@
 }
 
 :global(.rdt_TableCol:first-child) {
-  border-bottom-color: #FFCE08;
+  border-bottom-color: #ffce08;
 }
 
 :global(.rdt_TableCol:first-child svg) {
-  stroke: #FFCE08;
+  stroke: #ffce08;
 }
