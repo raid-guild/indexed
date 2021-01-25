@@ -112,6 +112,10 @@ a[tabindex]:focus {
   color: #9812ff;
 }
 
+.menu__list {
+  font-size: 12px;
+}
+
 /* .navbar--fixed-top {
   background-color: #0e0028;
 } */
@@ -123,4 +127,8 @@ a[tabindex]:focus {
 .navbar__link {
   color: #0e0028;
   font-weight: bold;
+}
+
+.thin-scrollbar {
+  overflow: hidden;
 }
