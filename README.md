@@ -26,8 +26,9 @@ Please include AT LEAST the information below if requesting to add a new service
 - Average Tx Cost
 - Consensus Mechanism (PoW, PoS)
 - Max Transactions Per Second (TPS)
+- Social media and community links
 
-Using the Ethereum mainnet as an example, the data would look something like:
+Using the Ethereum mainnet as an example, the data for the homepage table would look like:
 
 ```
 Chain Name: Ethereum Mainnet
@@ -36,6 +37,8 @@ Average Tx cost (average): 29 gwei
 Consensus: Proof of work (PoW)
 Max TPS: 12.6
 ```
+
+Pleae construct your submission in a way that such data is easily derived for addition to the table.
 
 Feel free to include additional info and data!!!
 
