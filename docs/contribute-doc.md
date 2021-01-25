@@ -18,7 +18,9 @@ Navigate to "Issues" in the top nav and click the green "New Issue" button.
 
 OR
 
-Fork this repo, create a new branch and submit a PR:
+### Fork the repo
+
+Create a new branch and submit a PR:
 
 ```
 Fork the repo in githhub
