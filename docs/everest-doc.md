@@ -6,11 +6,13 @@ sidebar_label: Everest
 
 ## Chain Name: Everest
 
-## Type: Hybrid
+## Type:
+
+Hybrid Solution
 
 ## Tx Cost
 
-0 (because in Clique PoA only signature are used: eip225)
+0 gwei (because in Clique PoA only signature are used: eip225)
 
 ## Finality
 
