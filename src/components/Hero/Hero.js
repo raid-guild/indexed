@@ -39,11 +39,11 @@ const Hero = () => {
           style={{ backgroundColor: active === 0 ? '#FFCE08' : '#f9036c' }}
         />
         <button
-          onClick={() => handleOnClick('calc(-100%)', 1)}
+          onClick={() => handleOnClick('calc(-100% - 20px)', 1)}
           style={{ backgroundColor: active === 1 ? '#FFCE08' : '#f9036c' }}
         />
         <button
-          onClick={() => handleOnClick('calc(-200% - 4rem)', 2)}
+          onClick={() => handleOnClick('calc(-200% - 55px)', 2)}
           style={{ backgroundColor: active === 2 ? '#FFCE08' : '#f9036c' }}
         />
       </div>
@@ -53,4 +53,3 @@ const Hero = () => {
 }
 
 export default Hero
-
