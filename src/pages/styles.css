@@ -129,6 +129,6 @@ a[tabindex]:focus {
   font-weight: bold;
 }
 
-.thin-scrollbar {
-  overflow: hidden;
+.navbar__toggle {
+  color: #0e0028;
 }
