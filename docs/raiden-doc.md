@@ -6,7 +6,7 @@ sidebar_label: Raiden
 
 ## Type
 
-State Channel (off chain).
+State Channel / Payment Channel (off chain).
 
 ## Tx Cost
 
@@ -18,11 +18,11 @@ Instant
 
 ## Consensus
 
-Proof of stake
+Local consensus between nodes in a channel
 
 ## Max TPS
 
-100k
+Theoretically unlimited. Scales linearly.
 
 ## Additional
 
