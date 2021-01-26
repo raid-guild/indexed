@@ -9,12 +9,12 @@ module.exports = {
   organizationName: 'raid-guild', // GitHub org name.
   projectName: 'indexed', // Usually your repo name.
   themeConfig: {
+    image: "static/img/raidguild__icon.png",
     colorMode: {
       disableSwitch: true,
     },
     navbar: {
       title: 'indexed.wtf',
-      // style: 'dark',
       items: [
         {
           href: '/docs/contribute-doc',

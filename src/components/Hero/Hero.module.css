@@ -85,3 +85,11 @@
 .buttons button:hover {
   transform: translateY(0) scale(1.1);
 }
+
+@media only screen and (max-width: 620px) {
+  .card {
+    min-width: calc(100% - 35px);
+    margin-left: 20px;
+    flex-direction: column;
+  }
+}
