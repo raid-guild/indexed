@@ -12,7 +12,7 @@ Hybrid Rollup (use Optimistic rollup but not support VM, use Zk does not address
 
 ## Tx Cost
 
-0.15 cent (on-chain) and 0.1$ per hour (off-chain)
+1.1k gwei (on-chain) and 76k gwei per hour (off-chain)
 
 ## Finality
 
