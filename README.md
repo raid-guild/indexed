@@ -2,63 +2,11 @@
 
 We aim for indexed.wtf to be a robust source for developers to utilize as a resource for research and development for Layer 2 solutions.
 
-## Submit an Issue or PR to keep information up to date
+### Collaborate with us
 
-Please open a new issue in the [Github Repo](https://github.com/raid-guild/indexed).
+indexed.wtf aims to be a robust source for builders to utilize for research and development of Layer 2 solutions. Please submit additions/updates/edits via the the form.
 
-OR
-
-Fork this repo, create a new branch and submit a PR:
-
-```
-Fork the repo in githhub
-git clone <your-forked-repo>
-cd indexed
-git checkout -b <your-branch-name>
-```
-
-Navigate to "Issues" in the top nav and click the green "New Issue" button.
-
-Please include AT LEAST the information below if requesting to add a new service/chain:
-
-- Chain Name
-- Chain Type (Plasma, ZKSNARK, etc)
-- Average Tx Cost
-- Consensus Mechanism (PoW, PoS)
-- Max Transactions Per Second (TPS)
-- Social media and community links
-
-Using the Ethereum mainnet as an example, the data for the homepage table would look like:
-
-```
-Chain Name: Ethereum Mainnet
-Chain Type: Ethereum
-Average Tx cost (average): 29 gwei
-Consensus: Proof of work (PoW)
-Max TPS: 12.6
-```
-
-Pleae construct your submission in a way that such data is easily derived for addition to the table.
-
-Feel free to include additional info and data!!!
-
-## Dev Stuff
-
-### React Libraries
-
-We utilize the following react libraries:
-
-- [react-modal](https://www.npmjs.com/package/react-modal)
-
-- [react-data-table-component](https://www.npmjs.com/package/react-data-table-component)
-
-### Doc Structure
-
-All docs are written in markdown and can be found in the `docs/` directory.
-
-Please update pertinent docs by creating a PR via the [official repo](https://github.com/raid-guild/indexed).
-
-If creating a brand new doc page, please follow the naming and id conventions outlined in the docusaurus v2 docs, and make sure to include the new page in the `sidebars.js` file.
+➡️ [Submit Here](https://docs.google.com/forms/d/e/1FAIpQLScbMNeGoQEOrvuuvrk6xaZvdE2PzKiALAMcZ14v48ARS4fIHg/viewform) ⬅️
 
 ### Run Locally
 
