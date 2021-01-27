@@ -1,7 +1,3 @@
-## Collaborate with us
-
-We aim for indexed.wtf to be a robust source for developers to utilize as a resource for research and development for Layer 2 solutions.
-
 ### Collaborate with us
 
 indexed.wtf aims to be a robust source for builders to utilize for research and development of Layer 2 solutions. Please submit additions/updates/edits via the the form.
