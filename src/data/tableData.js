@@ -18,6 +18,15 @@ const tableData = [
     url: 'aztec-doc'
   },
   {
+    id: 1337,
+    chain_name: 'State Channels',
+    type: 'State Channels',
+    tx_cost: '0',
+    consensus: 'State Channels',
+    max_tps: '∞',
+    url: 'statechannels-doc'
+  },
+  {
     id: 5,
     chain_name: 'Connext',
     type: 'Micropayment',
