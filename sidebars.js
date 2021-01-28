@@ -8,6 +8,7 @@ module.exports = {
       'aztec-doc',
       'connext-doc',
       'fuel-labs-doc',
+      'kchannels-doc',
       'loopring-doc',
       'maticnetwork-doc',
       'matter-labs-doc',
