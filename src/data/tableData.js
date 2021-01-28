@@ -36,6 +36,15 @@ const tableData = [
     url: 'fuel-labs-doc'
   },
   {
+    id: 10,
+    chain_name: 'Kchannels',
+    type: 'Payments',
+    tx_cost: '---',
+    consensus: 'Non-Custodial',
+    max_tps: '10k',
+    url: 'kchannels-doc'
+  },
+  {
     id: 12,
     chain_name: 'Loopring',
     type: 'Chain-agnostic',
