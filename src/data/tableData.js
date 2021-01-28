@@ -123,7 +123,7 @@ const tableData = [
     tx_cost: '315 gwei',
     consensus: 'ZK proofs',
     max_tps: '3k',
-    url: 'starkware-doc'
+    url: 'starkware-validium-doc'
   },
   {
     id: 24,
@@ -132,7 +132,7 @@ const tableData = [
     tx_cost: '17 gwei',
     consensus: 'Validium proofs',
     max_tps: '3k',
-    url: 'starkware-doc'
+    url: 'starkware-validium-doc'
   },
   {
     id: 25,
