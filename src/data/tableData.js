@@ -117,15 +117,6 @@ const tableData = [
     url: 'solana-doc'
   },
   {
-    id: 23,
-    chain_name: 'Starkware (Zkrollup)',
-    type: 'CVM',
-    tx_cost: '315 gwei',
-    consensus: 'ZK proofs',
-    max_tps: '3k',
-    url: 'starkware-validium-doc'
-  },
-  {
     id: 24,
     chain_name: 'Starkware (Validium)',
     type: 'CVM',
@@ -133,6 +124,15 @@ const tableData = [
     consensus: 'Validium proofs',
     max_tps: '3k',
     url: 'starkware-validium-doc'
+  },
+  {
+    id: 23,
+    chain_name: 'Starkware (Zkrollup)',
+    type: 'CVM',
+    tx_cost: '315 gwei',
+    consensus: 'ZK proofs',
+    max_tps: '3k',
+    url: 'starkware-zkrollup-doc'
   },
   {
     id: 25,
