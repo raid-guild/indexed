@@ -4,37 +4,37 @@ title: Solana
 sidebar_label: Solana
 ---
 
-## Type
+### Type
 
 POS + POH
 
-## Tx Cost
+### Tx Cost
 
 $0.00001
 
-## Finality
+### Finality
 
 Sub-seconds
 
-## Consensus
+### Consensus
 
 Pratical Byzantine Fault Tolerance-based (PBFT) PoS & PoH
 
-## $ Efficient
+### $ Efficient
 
 Yes
 
-## Additional Info
+### Additional Info
 
 - [Website](https://www.solana.com)
 - [Documentation](https://docs.solana.com)
 - [Discord](https://discord.gg/m6K4Afvd)
 - [Blog](https://medium.com/solana-labs)
 
-## Max TPS
+### Max TPS
 
 50,000
 
-## Reddit Submission Link
+### Reddit Submission Link
 
 https://www.reddit.com/r/ethereum/comments/i09ftz/solana_reddits_5day_scaling_challenge_in_5/
