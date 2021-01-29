@@ -4,27 +4,27 @@ title: Raiden
 sidebar_label: Raiden
 ---
 
-## Type
+### Type
 
 State Channel (off chain).
 
-## Tx Cost
+### Tx Cost
 
 Is denominated in the token that is transferred in the channel.
 
-## Finality
+### Finality
 
 Instant
 
-## Consensus
+### Consensus
 
 Proof of stake
 
-## Max TPS
+### Max TPS
 
 100k
 
-## Additional
+### Additional
 
 https://medium.com/raiden-network/raiddit-scaling-reddit-community-points-with-raiden-9fe60c14ae47
 
