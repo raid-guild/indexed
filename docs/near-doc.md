@@ -4,7 +4,7 @@ title: NEAR
 sidebar_label: NEAR
 ---
 
-## Links (github / social)
+### Links (github / social)
 
 [Official Site](https://near.org/)
 
@@ -16,30 +16,30 @@ sidebar_label: NEAR
 
 [Telegram](https://t.me/cryptonear)
 
-## Type
+### Type
 
 POS
 
-## Tx Cost
+### Tx Cost
 
 0.00004
 
-## Finality
+### Finality
 
 2 seconds
 
-## Consensus
+### Consensus
 
 POS
 
-## $ Efficient
+### $ Efficient
 
 YES
 
-## Max TPS
+### Max TPS
 
 over 100000
 
-## Reddit Submission Link
+### Reddit Submission Link
 
 https://www.reddit.com/r/ethereum/comments/i1b4b3/nears_submission_to_reddits_scaling_bakeoff/

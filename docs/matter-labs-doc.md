@@ -4,33 +4,33 @@ title: Matter Labs
 sidebar_label: Matter Labs
 ---
 
-## Types
+### Types
 
 ZKSNARK
 
-## Tx Cost
+### Tx Cost
 
 $0.001 (off-chain), 1.9k gas (on-chain) (https://zksync.io/faq/tokens.html#fee-costs)
 
-## Finality
+### Finality
 
 10 minutes. (https://zksync.io/faq/tech.html#transaction-finality)
 
-## Consensus
+### Consensus
 
 Validity proofs (https://zksync.io/faq/security.html#validity-proofs)
 
-## $ Efficient
+### $ Efficient
 
 Yes (withdrawals to L1 in under 15 min). (https://zksync.io/faq/intro.html#zksync-features)
 
-## Max TPS
+### Max TPS
 
 2000 TPS
 
 Currently, 300+ TPS due to the current limitations of the PLONK CRS (zkSync node infrastructure has been benchmarked to support >8000 TPS).
 
-## Additional Info:
+### Additional Info:
 
 - security: secure as L1
 
@@ -40,7 +40,7 @@ Currently, 300+ TPS due to the current limitations of the PLONK CRS (zkSync node
 
 - permissionless innovation: The token is currently added manually, but in the future it is possible to deploy the token. (https://zksync.io/faq/tokens.html#supported-tokens)
 
-## Links
+### Links
 
 [HomePage](https://matter-labs.io/)
 
@@ -54,7 +54,7 @@ Currently, 300+ TPS due to the current limitations of the PLONK CRS (zkSync node
 
 [Gitter](https://gitter.im/matter-labs/community)
 
-## Source
+### Source
 
 https://zksync.io/faq/intro.html
 

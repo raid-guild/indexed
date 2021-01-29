@@ -4,15 +4,15 @@ title: Arbitrum
 sidebar_label: Arbitrum
 ---
 
-## Links (Social)
+### Links (Social)
 
 [Twitter](https://twitter.com/offchainlabs?lang=en)
 
-## Type
+### Type
 
 POS/plasma
 
-## Tx Cost
+### Tx Cost
 
 gas = 30 gwei
 
@@ -20,7 +20,7 @@ Tx Fee = 0.00122 ETH
 
 Uses ArbGas which is a variable calculation
 
-## Finality
+### Finality
 
 See 5.2 Iterated Hashing for [usenixsecurity18](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-kalodner.pdf)
 
@@ -30,11 +30,11 @@ i7
 
 1.7 million hashes per second
 
-## Consensus
+### Consensus
 
 consortium
 
-#### "consensus-agnostic"
+##### "consensus-agnostic"
 
 - Arbitrum uses and refers to consensus as 'verifiers' that assumes the existence of a consensus mechanism, including a...
 
@@ -44,7 +44,7 @@ consortium
 
 - Verifier: "global entity or distributed protocol"
 
-## Efficency
+### Efficency
 
 Arbitrum’s VM architecture makes dispute resolution very efficient.
 
@@ -53,16 +53,16 @@ efficiently adjudicate disputes about contract behavior
 without needing to examine the execution of more than
 one instruction by the contract.
 
-## Max TPS
+### Max TPS
 
 Up To 4,500 transactions per second
 
-## Additional Info
+### Additional Info
 
 - Compatible with Ethereum, Solidity Smart Contract code is comipled with Arbitrum
 - Only verifies digital signatures instead of every part of the contract for the VM
 
-## Sources
+### Sources
 
 [usenix.org](https://www.usenix.org/conference/usenixsecurity18/presentation/kalodner)
 

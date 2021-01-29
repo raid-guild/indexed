@@ -4,7 +4,7 @@ title: Connext
 sidebar_label: Connext
 ---
 
-## Links (github / social)
+### Links (github / social)
 
 [Official Site](https://connext.network/)
 
@@ -14,26 +14,26 @@ sidebar_label: Connext
 
 [Discord](https://discord.gg/raNmNb5)
 
-## Tx Cost
+### Tx Cost
 
 0 fees for txs. Node operators can optionally charge fees to route txs through the network.
 
-## Finality
+### Finality
 
 Instant
 
-## Consensus
+### Consensus
 
 State channel, i.e. consensus only required between channel participants.
 
-## $ Efficient
+### $ Efficient
 
 Extremely cost-efficient for users, the highest cost is the cost of collateral, which is required to be provided by node operators.
 
-## Max TPS
+### Max TPS
 
 1000+ (limit not tested)
 
-## Additional Info
+### Additional Info
 
 Please reach out in our [discord](https://discord.gg/raNmNb5) for more info!

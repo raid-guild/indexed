@@ -4,37 +4,37 @@ title: Loopring
 sidebar_label: Loopring
 ---
 
-## Type
+### Type
 
 Chain-agnostic, L2 protcol based on zkRollups
 
-## Tx Cost
+### Tx Cost
 
 450 gas (~$0.0002 on Ethereum as of 2021/01/14)
 
-## Finality
+### Finality
 
 Apparently immediate (off-chain), later verified on-chain
 
-## Consensus
+### Consensus
 
 zkRollup
 
-## $ Efficient
+### $ Efficient
 
 More capital efficient than main alternatives as long as off-chain cloud compute is cheaper than on-chain transactions (see table 1 [here](https://vitalik.ca/general/2021/01/05/rollup.html))
 
-## Max TPS
+### Max TPS
 
 2,025 with OCDA; 16,400 without
 
-## Additional info
+### Additional info
 
 [Protocol overview](https://loopring.org/#/protocol)
 
 [Loopring 3 Design Doc](https://github.com/Loopring/protocols/blob/master/packages/loopring_v3/DESIGN.md)
 
-## Social
+### Social
 
 [Medium](https://medium.com/loopring-protocol)
 
