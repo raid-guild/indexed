@@ -4,27 +4,27 @@ title: Starkware Zkrollup
 sidebar_label: Starkware Zkrollup
 ---
 
-## Type
+### Type
 
 CVM
 
-## Tx Cost
+### Tx Cost
 
 315 gas/tx (on-chain) and < 17 gas/tx (off-chain)
 
-## Finality
+### Finality
 
 10 mins. (https://medium.com/starkware/starks-over-mainnet-b83e63db04c0)
 
-## Consensus
+### Consensus
 
 STARK Zero-Knowledge proof (on-chain) or Validium proofs (off-chain)
 
-## Max TPS
+### Max TPS
 
 3000 TPS
 
-## Additional Info:
+### Additional Info:
 
 - security: secure as L1
 
@@ -34,7 +34,7 @@ STARK Zero-Knowledge proof (on-chain) or Validium proofs (off-chain)
 
 - permissionless innovation: currently not support
 
-## Links
+### Links
 
 [Website](https://starkware.co/)
 
@@ -44,7 +44,7 @@ STARK Zero-Knowledge proof (on-chain) or Validium proofs (off-chain)
 
 [Medium](https://medium.com/starkware)
 
-## Sources
+### Sources
 
 https://docs.starkware.co/starkex-docs/
 
