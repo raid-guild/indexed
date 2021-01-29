@@ -4,44 +4,44 @@ title: AZTEC
 sidebar_label: AZTEC
 ---
 
-## Type
+### Type
 
 ZK Rollup
 
-## Tx Cost
+### Tx Cost
 
 $0.000001(Aztec 2.0)
 
-## Finality
+### Finality
 
 Sub-seconds
 
-## Consensus
+### Consensus
 
 Roll-up proofs
 
-## Max TPS
+### Max TPS
 
 300 tx/s(Testnet)
 
-## source
+### source
 
 http://developers.aztec.network/
 
-## homepage
+### homepage
 
 https://aztec.network/
 
-## socials
+### socials
 
 Twitter- https://twitter.com/aztecnetwork
 Discord- https://discord.com/invite/UDtJr9u
 Telegram- https://t.me/aztecprotocol
 
-## explorer
+### explorer
 
 https://explorer.aztec.network/
 
-## Documentation
+### Documentation
 
 https://docs.aztecprotocol.com/
