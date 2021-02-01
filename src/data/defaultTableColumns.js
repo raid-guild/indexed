@@ -3,7 +3,7 @@ import React from 'react'
 const defaultTableColumns = [
   {
     name: 'Chain Name / Service Name',
-    selector: 'chain_name_/_service_name',
+    selector: 'chain_name_service_name',
     sortable: true,
     isShown: true,
     defaultSortAsc: true,
@@ -23,7 +23,7 @@ const defaultTableColumns = [
   },
   {
     name: 'Consensus Mechanism',
-    selector: 'type',
+    selector: 'consensys',
     sortable: true,
     isShown: true,
   },
@@ -54,6 +54,12 @@ const defaultTableColumns = [
         style: { color: '#f9036c' }
       }
     ]
+  },
+  {
+    name: 'Theoretical Max TPS',
+    selector: 'max_tps',
+    sortable: true,
+    isShown: true
   },
   {
     name: 'Theoretical Max TPS',
