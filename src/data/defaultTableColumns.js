@@ -2,8 +2,8 @@ import React from 'react'
 
 const defaultTableColumns = [
   {
-    name: 'Chain Name',
-    selector: 'chain_name',
+    name: 'Chain Name / Service Name',
+    selector: 'chain_name_service_name',
     sortable: true,
     isShown: true,
     defaultSortAsc: true,
@@ -22,13 +22,13 @@ const defaultTableColumns = [
     ]
   },
   {
-    name: 'Type',
-    selector: 'type',
+    name: 'Consensus Mechanism',
+    selector: 'consensys',
     sortable: true,
     isShown: true,
   },
   {
-    name: 'Tx Cost',
+    name: 'Cost of 100 transactions (USD)',
     selector: 'tx_cost',
     sortable: true,
     isShown: true,
@@ -56,14 +56,32 @@ const defaultTableColumns = [
     ]
   },
   {
-    name: 'Consensus',
-    selector: 'consensus',
+    name: 'Theoretical Max TPS',
+    selector: 'max_tps',
     sortable: true,
     isShown: true
   },
   {
-    name: 'Max TPS',
+    name: 'Theoretical Max TPS',
     selector: 'max_tps',
+    sortable: true,
+    isShown: true
+  },
+  {
+    name: 'Measured Max TPS',
+    selector: 'max_tps',
+    sortable: true,
+    isShown: true,
+  },
+  {
+    name: 'Governance Token',
+    selector: 'gov_token',
+    sortable: true,
+    isShown: true
+  },
+  {
+    name: 'Transactional Token',
+    selector: 'tx_token',
     sortable: true,
     isShown: true,
   },
