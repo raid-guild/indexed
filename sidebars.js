@@ -7,6 +7,7 @@ module.exports = {
       'arbitrum-doc',
       'aztec-doc',
       'connext-doc',
+      'celer-doc',
       'fuel-labs-doc',
       'kchannels-doc',
       'loopring-doc',
