@@ -81,6 +81,15 @@ const tableData = [
     url: "matter-labs-doc",
   },
   {
+    id: "999",
+    chain_name: "Meter",
+    type: "",
+    tx_cost: "",
+    consensus: "",
+    max_tps: "",
+    url: "meter-doc",
+  },
+  {
     id: "10",
     chain_name: "Minter",
     type: "",

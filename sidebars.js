@@ -13,6 +13,7 @@ module.exports = {
       'loopring-doc',
       'maticnetwork-doc',
       'matter-labs-doc',
+      'meter-doc',
       'minter-doc',
       'near-doc',
       'omg-doc',
