@@ -54,6 +54,15 @@ const tableData = [
     url: "fuel-labs-doc",
   },
   {
+    id: "995",
+    chain_name: "Hubble",
+    type: "",
+    tx_cost: "",
+    consensus: "",
+    max_tps: "",
+    url: "hubble-doc",
+  },
+  {
     id: "6",
     chain_name: "KChannels",
     type: "",
