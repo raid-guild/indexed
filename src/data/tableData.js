@@ -36,6 +36,15 @@ const tableData = [
     url: "celer-doc",
   },
   {
+    id: "994",
+    chain_name: "Everest",
+    type: "",
+    tx_cost: "",
+    consensus: "",
+    max_tps: "",
+    url: "everest-doc",
+  },
+  {
     id: "5",
     chain_name: "Fuel Labs",
     type: "",
