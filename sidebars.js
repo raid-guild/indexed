@@ -10,6 +10,7 @@ module.exports = {
       'celer-doc',
       'everest-doc',
       'fuel-labs-doc',
+      'hubble-doc',
       'kchannels-doc',
       'loopring-doc',
       'maticnetwork-doc',
