@@ -2,8 +2,8 @@ import React from 'react'
 
 const defaultTableColumns = [
   {
-    name: 'Chain Name / Service Name',
-    selector: 'chain_name_service_name',
+    name: 'Chain/Service Name',
+    selector: 'chain_name',
     sortable: true,
     isShown: true,
     defaultSortAsc: true,
@@ -57,19 +57,13 @@ const defaultTableColumns = [
   },
   {
     name: 'Theoretical Max TPS',
-    selector: 'max_tps',
-    sortable: true,
-    isShown: true
-  },
-  {
-    name: 'Theoretical Max TPS',
-    selector: 'max_tps',
+    selector: 'theo_tps',
     sortable: true,
     isShown: true
   },
   {
     name: 'Measured Max TPS',
-    selector: 'max_tps',
+    selector: 'meas_tps',
     sortable: true,
     isShown: true,
   },
