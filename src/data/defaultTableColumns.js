@@ -3,7 +3,7 @@ import React from 'react'
 const defaultTableColumns = [
   {
     name: 'Chain/Service Name',
-    selector: 'chain_name_service_name',
+    selector: 'chain_name',
     sortable: true,
     isShown: true,
     defaultSortAsc: true,
