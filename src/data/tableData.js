@@ -11,6 +11,17 @@ const tableData = [
     url: "arbitrum-doc",
   },
   {
+    id: "6901",
+    chain_name: "Aztec",
+    consensys: "ZK Rollup",
+    tx_cost: "0.0001",
+    theo_tps: "300",
+    meas_tps: "-",
+    gov_token: "-",
+    tx_token: "-",
+    url: "aztec-doc",
+  },
+  {
     id: "691",
     chain_name: "Celer",
     consensys: "DPoS",
