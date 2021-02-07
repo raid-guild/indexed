@@ -1,5 +1,16 @@
 const tableData = [
   {
+    id: "690",
+    chain_name: "Arbitrum",
+    consensys: "POS",
+    tx_cost: "0.01",
+    theo_tps: "4,500",
+    meas_tps: "-",
+    gov_token: "-",
+    tx_token: "-",
+    url: "arbitrum-doc",
+  },
+  {
     id: "691",
     chain_name: "Celer",
     consensys: "DPoS",
@@ -26,7 +37,7 @@ const tableData = [
     chain_name: "Hubble",
     consensys: "-",
     tx_cost: "0.15",
-    theo_tps: "2600",
+    theo_tps: "2,600",
     meas_tps: "450",
     gov_token: "-",
     tx_token: "-",
