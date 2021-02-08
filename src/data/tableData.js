@@ -142,6 +142,17 @@ const tableData = [
     tx_token: "-",
     url: "minter-doc",
   },
+  {
+    id: "13",
+    chain_name: "Near",
+    consensys: "PoS",
+    tx_cost: "0.004",
+    theo_tps: "100,000",
+    meas_tps: "-",
+    gov_token: "-",
+    tx_token: "NEAR",
+    url: "minter-doc",
+  },
 ];
 
 export default tableData
