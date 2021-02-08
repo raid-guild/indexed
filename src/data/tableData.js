@@ -1,6 +1,6 @@
 const tableData = [
   {
-    id: "690",
+    id: "1",
     chain_name: "Arbitrum",
     consensys: "POS",
     tx_cost: "0.01",
@@ -11,7 +11,7 @@ const tableData = [
     url: "arbitrum-doc",
   },
   {
-    id: "6901",
+    id: "2",
     chain_name: "Aztec",
     consensys: "ZK Rollup",
     tx_cost: "0.0001",
@@ -22,7 +22,7 @@ const tableData = [
     url: "aztec-doc",
   },
   {
-    id: "691",
+    id: "3",
     chain_name: "Celer",
     consensys: "DPoS",
     tx_cost: "0",
@@ -33,7 +33,18 @@ const tableData = [
     url: "celer-doc",
   },
   {
-    id: "692",
+    id: "4",
+    chain_name: "Connext",
+    consensys: "State channel",
+    tx_cost: "0",
+    theo_tps: "1,000",
+    meas_tps: "-",
+    gov_token: "-",
+    tx_token: "-",
+    url: "connext-doc",
+  },
+  {
+    id: "5",
     chain_name: "Everest",
     consensys: "Proof of Auth",
     tx_cost: "0",
@@ -44,7 +55,7 @@ const tableData = [
     url: "everest-doc",
   },
   {
-    id: "693",
+    id: "6",
     chain_name: "Hubble",
     consensys: "-",
     tx_cost: "0.15",
@@ -55,7 +66,7 @@ const tableData = [
     url: "hubble-doc",
   },
   {
-    id: "694",
+    id: "7",
     chain_name: "KChannels",
     consensys: "Non-Custodial",
     tx_cost: "0.50",
@@ -66,7 +77,7 @@ const tableData = [
     url: "kchannels-doc",
   },
   {
-    id: "695",
+    id: "8",
     chain_name: "Meter",
     consensys: "Proof of Value",
     tx_cost: "1.00",
