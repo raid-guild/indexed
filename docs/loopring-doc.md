@@ -18,7 +18,7 @@ Apparently immediate (off-chain), later verified on-chain
 
 ### Consensus
 
-zkRollup
+ZK Rollup
 
 ### $ Efficient
 
