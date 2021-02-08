@@ -89,6 +89,17 @@ const tableData = [
   },
   {
     id: "8",
+    chain_name: "Loopring",
+    consensys: "ZK Rollup",
+    tx_cost: "0.02",
+    theo_tps: "16,400",
+    meas_tps: "2,025",
+    gov_token: "-",
+    tx_token: "-",
+    url: "loopring-doc",
+  },
+  {
+    id: "9",
     chain_name: "Meter",
     consensys: "Proof of Value",
     tx_cost: "1.00",
