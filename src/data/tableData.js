@@ -100,6 +100,17 @@ const tableData = [
   },
   {
     id: "9",
+    chain_name: "Matic Network",
+    consensys: "PoS",
+    tx_cost: "0.001",
+    theo_tps: "7,200",
+    meas_tps: "-",
+    gov_token: "-",
+    tx_token: "-",
+    url: "maticnetwork-doc",
+  },
+  {
+    id: "10",
     chain_name: "Meter",
     consensys: "Proof of Value",
     tx_cost: "1.00",
