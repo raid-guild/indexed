@@ -55,6 +55,17 @@ const tableData = [
     url: "everest-doc",
   },
   {
+    id: "",
+    chain_name: "Fuel",
+    consensys: "PoW",
+    tx_cost: "3.00",
+    theo_tps: "10,000",
+    meas_tps: "-",
+    gov_token: "-",
+    tx_token: "-",
+    url: "fuel-labs-doc",
+  },
+  {
     id: "6",
     chain_name: "Hubble",
     consensys: "-",

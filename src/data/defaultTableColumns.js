@@ -28,7 +28,7 @@ const defaultTableColumns = [
     isShown: true,
   },
   {
-    name: 'Cost of 100 transactions (USD)',
+    name: 'Cost of 100 transactions ($USD)',
     selector: 'tx_cost',
     sortable: true,
     isShown: true,
