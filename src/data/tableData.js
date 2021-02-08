@@ -131,6 +131,17 @@ const tableData = [
     tx_token: "MTRG",
     url: "meter-doc",
   },
+  {
+    id: "12",
+    chain_name: "Minter",
+    consensys: "DPoS",
+    tx_cost: "0.24",
+    theo_tps: "10,000",
+    meas_tps: "1,000",
+    gov_token: "-",
+    tx_token: "-",
+    url: "minter-doc",
+  },
 ];
 
 export default tableData
