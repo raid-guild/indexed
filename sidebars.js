@@ -6,8 +6,8 @@ module.exports = {
     "Chains": [
       'arbitrum-doc',
       'aztec-doc',
-      'connext-doc',
       'celer-doc',
+      'connext-doc',
       'everest-doc',
       'fuel-labs-doc',
       'hubble-doc',
