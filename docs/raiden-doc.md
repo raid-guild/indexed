@@ -10,8 +10,6 @@ State Channel (off chain).
 
 ### Tx Cost
 
-Is denominated in the token that is transferred in the channel.
-
 ### Finality
 
 Instant
