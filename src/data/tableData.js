@@ -5,9 +5,9 @@ const tableData = [
     consensys: "POS",
     tx_cost: "0.01",
     theo_tps: "4,500",
-    meas_tps: "",
+    meas_tps: "600",
     gov_token: "",
-    tx_token: "",
+    tx_token: "ETH",
     url: "arbitrum-doc",
   },
   {
