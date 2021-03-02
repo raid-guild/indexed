@@ -100,7 +100,7 @@ const tableData = [
   },
   {
     id: "9",
-    chain_name: "Matic Network",
+    chain_name: "Polygon",
     consensys: "PoS",
     tx_cost: "0.001",
     theo_tps: "7,200",

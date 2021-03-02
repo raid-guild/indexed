@@ -1,7 +1,7 @@
 ---
-id: maticnetwork-doc
-title: MaticNetwork
-sidebar_label: MaticNetwork
+id: polygon-doc
+title: Polygon
+sidebar_label: Polygon
 ---
 
 ### Type
