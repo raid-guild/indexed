@@ -1,8 +1,8 @@
 const heroCards = [
   {
-    title: 'MATIC Network',
+    title: 'Polygon',
     body: 'Matic Network brings massive scale to Ethereum using an adapted version of Plasma with PoS based side chains.',
-    url: 'maticnetwork-doc',
+    url: 'polygon-doc',
     logoPath: '/img/matic.svg'
   },
   {

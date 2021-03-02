@@ -13,7 +13,7 @@ module.exports = {
       'hubble-doc',
       'kchannels-doc',
       'loopring-doc',
-      'maticnetwork-doc',
+      'polygon-doc',
       'matter-labs-doc',
       'meter-doc',
       'minter-doc',
