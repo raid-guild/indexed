@@ -4,65 +4,35 @@ title: Arbitrum
 sidebar_label: Arbitrum
 ---
 
-### Links (Social)
+### Description
 
-[Twitter](https://twitter.com/offchainlabs?lang=en)
+Arbitrum Rollup is an Optimistic Rollup layer 2 protocol that runs on top of Ethereum, supporting full Ethereum smart contract functionality. Arbitrum inherits security and censorship resistance from layer 1, and is trustelss and permissionless for both users and validators.
 
-### Type
+### Finality Time
 
-POS/plasma
+In pure-rollup mode, Arbitrum inherits the same finality as Ethereum’s layer 1.
 
-### Tx Cost
+Alternatively, an Arbitrum chain can be created in “sequencer” mode, in which users can (if they wish) consider transactions finalized via semi-trusted promises from a permissioned entity; these promises can arrive faster than L1 blocks (likely within a few seconds).
 
-gas = 30 gwei
+### Theoretical Max Transactions Per Second
 
-Tx Fee = 0.00122 ETH
+4500 tps
 
-Uses ArbGas which is a variable calculation
+### Measured Max Transactions Per Second
 
-### Finality
+600 tps
 
-See 5.2 Iterated Hashing for [usenixsecurity18](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-kalodner.pdf)
+### Consensus Mechanism
 
-TLDR:
-using a 2013 Apple MacBook Pro, 2.7GHz Intel Core
-i7
+Consensus on Arbitrum doesn’t require any security assumptions outside of those on L1 itself; disagreements between validators about the state of the Arbitrum chain (i.e., a “forks”) are resolved via an interactive fraud-proof verification game, the safety of which is directly enforced and guaranteed by L1.
 
-1.7 million hashes per second
+### Transactional Token
 
-### Consensus
+- What token is used to pay for gas on the chain?
 
-consortium
+Ether for the initial Arbitrum mainnet chains, although in principle a chain could be created with any ERC20 asset as the native token.
 
-##### "consensus-agnostic"
-
-- Arbitrum uses and refers to consensus as 'verifiers' that assumes the existence of a consensus mechanism, including a...
-
-  - single centralized publisher,
-  - a quorum-based consensus system,
-  - or Nakamoto consensus as used in Bitcoin
-
-- Verifier: "global entity or distributed protocol"
-
-### Efficency
-
-Arbitrum’s VM architecture makes dispute resolution very efficient.
-
-Even if parties behave counter to their incentives, Arbitrum verifiers can
-efficiently adjudicate disputes about contract behavior
-without needing to examine the execution of more than
-one instruction by the contract.
-
-### Max TPS
-
-Up To 4,500 transactions per second
-
-### Additional Info
-
-- Compatible with Ethereum, Solidity Smart Contract code is comipled with Arbitrum
-- Only verifies digital signatures instead of every part of the contract for the VM
-
-### Sources
+### Links
 
 [usenix.org](https://www.usenix.org/conference/usenixsecurity18/presentation/kalodner)
 
