@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg4883" viewBox="0 0 765 990" version="1.1">
+  <defs id="defs4885">
+    <filter id="filter12589" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur12591" stdDeviation="2.6717241"/>
+    </filter>
+  </defs>
+  <g id="layer1" transform="translate(0 -62.362)">
+    <path id="path12567" opacity=".59346" d="m-225.07 373.65v219.1h157.99c6.2199 0 11.207-4.9062 11.207-10.996v-197.1c0-6.0903-4.9876-10.996-11.207-10.996h-157.99z" transform="matrix(4.4253 0 0 4.4253 998.89 -1567.4)" filter="url(#filter12589)" stroke="#979797" stroke-width=".80228" fill="#b3b3b3"/>
+    <path id="path8098" stroke="#979797" stroke-width="3.5504" fill="#fff" d="m11.084 72.444v969.55h699.16c27.525 0 49.597-21.711 49.597-48.663v-872.23c0-26.952-22.072-48.663-49.597-48.663h-699.16z"/>
+    <path id="path5538" style="color:#000000" d="m10.143 182.56h750.64" stroke="#01f" stroke-width="1.6689px" fill="#00f"/>
+    <path id="path5540" stroke="#01f" stroke-width="1.6689px" fill="#00f" d="m10.143 229.33h750.64"/>
+    <path id="path5542" stroke="#01f" stroke-width="1.6689px" fill="#00f" d="m10.143 277.12h750.64"/>
+    <path id="path5544" stroke="#01f" stroke-width="1.6689px" fill="#00f" d="m10.143 324.91h750.64"/>
+    <path id="path5546" stroke="#01f" stroke-width="1.6689px" fill="#00f" d="m10.143 372.7h750.64"/>
+    <path id="path5548" stroke="#01f" stroke-width="1.6689px" fill="#00f" d="m10.143 420.49h750.64"/>
+    <path id="path5550" stroke="#01f" stroke-width="1.6689px" fill="#00f" d="m10.143 468.28h750.64"/>
+    <path id="path5552" stroke="#01f" stroke-width="1.6689px" fill="#00f" d="m10.143 516.07h750.64"/>
+    <path id="path5554" stroke="#01f" stroke-width="1.6689px" fill="#00f" d="m10.143 563.86h750.64"/>
+    <path id="path5556" stroke="#01f" stroke-width="1.6689px" fill="#00f" d="m10.143 611.65h750.64"/>
+    <path id="path5592" stroke="#01f" stroke-width="1.6689px" fill="#00f" d="m10.143 659.45h750.64"/>
+    <path id="path5594" stroke="#01f" stroke-width="1.6689px" fill="#00f" d="m10.143 707.24h750.64"/>
+    <path id="path5596" stroke="#01f" stroke-width="1.6689px" fill="#00f" d="m10.143 755.03h750.64"/>
+    <path id="path5598" stroke="#01f" stroke-width="1.6689px" fill="#00f" d="m10.143 802.82h750.64"/>
+    <path id="path5600" stroke="#01f" stroke-width="1.6689px" fill="#00f" d="m10.143 850.61h750.64"/>
+    <path id="path5602" stroke="#01f" stroke-width="1.6689px" fill="#00f" d="m10.143 898.4h750.64"/>
+    <path id="path5604" stroke="#01f" stroke-width="1.6689px" fill="#00f" d="m10.143 946.19h750.64"/>
+    <path id="path5606" stroke="#01f" stroke-width="1.6689px" fill="#00f" d="m10.143 993.98h750.64"/>
+    <path id="path6137" style="color:#000000" d="m40.439 471.52a21.445 28.184 0 1 1 -42.889 0 21.445 28.184 0 1 1 42.889 0z" fill-opacity=".32549" transform="matrix(-.60548 0 0 -.46126 65.669 808.19)" stroke="#030000" stroke-width=".80228" fill="#acacac"/>
+    <path id="path6139" style="color:#000000" d="m106.09 71.503v968.48" stroke="#f00" stroke-width="1.6894px" fill="#00f"/>
+    <path id="path12593" style="color:#000000" d="m40.439 471.52a21.445 28.184 0 1 1 -42.889 0 21.445 28.184 0 1 1 42.889 0z" fill-opacity=".32549" transform="matrix(-.60548 0 0 -.46126 65.669 466.26)" stroke="#030000" stroke-width=".80228" fill="#acacac"/>
+    <path id="path12595" style="color:#000000" d="m40.439 471.52a21.445 28.184 0 1 1 -42.889 0 21.445 28.184 0 1 1 42.889 0z" transform="matrix(-.60548 0 0 -.46126 65.669 1189.4)" stroke="#030000" stroke-width=".80228" fill="#e4e4e4"/>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>loose leaf paper</dc:title>
+        <dc:date>2011-05-24T09:18:11</dc:date>
+        <dc:description>A sheet of lined paper and a file with the same scattered about.</dc:description>
+        <dc:source>http://openclipart.org/detail/140257/loose-leaf-paper-by-snifty</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>snifty</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>lined paper</rdf:li>
+            <rdf:li>office</rdf:li>
+            <rdf:li>paper</rdf:li>
+            <rdf:li>stationery</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
