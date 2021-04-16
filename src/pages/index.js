@@ -26,12 +26,8 @@ function Home() {
       description="A collectively built hub for comparison between 'Layer 2' solutions."
     >
       <div className="homepage">
-        
-
         <div className="wrapper">
-          
 
-          
         </div>
       </div>
 
