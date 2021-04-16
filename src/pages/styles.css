@@ -23,6 +23,7 @@ body {
 .text-wrapper {
   display: flex;
   justify-content: center;
+  padding: 3rem;
 }
 
 .headline {
