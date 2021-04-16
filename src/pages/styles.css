@@ -13,12 +13,21 @@ body {
   background-color: #EEEEEE;
   font-size: 18px;
   line-height: 1.6;
-  color: #ffffff;
 }
 
 .main-wrapper {
   border-top: 5px solid #F9006C;
   border-bottom: 5px solid #8E2ABE;
+}
+
+.text-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.headline {
+  width: 40%;
+  text-align: center;
 }
 
 h1,

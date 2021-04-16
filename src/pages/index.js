@@ -12,6 +12,7 @@ import Table from '../components/Table/Table';
 
 import defaultTableColumns from '../data/defaultTableColumns'
 
+
 function Home() {
   const context = useDocusaurusContext();
   const { siteConfig = {} } = context;
@@ -26,7 +27,10 @@ function Home() {
       description="A collectively built hub for comparison between 'Layer 2' solutions."
     >
       <div className="homepage">
-        <div className="wrapper">
+        <div className="text-wrapper">
+          <div class="headline">
+            indexed.wtf is an attempt to document Layer-2, rollups, chains and other solutions that have the aim of scaling or improving the Ethereum ecosystem
+          </div>
 
         </div>
       </div>
