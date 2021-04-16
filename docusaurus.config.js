@@ -22,19 +22,7 @@ module.exports = {
           position: 'right',
         },
       ],
-    },
-    footer: {
-      style: 'light',
-      // logo: {
-      //   alt: 'Owocki Icon',
-      //   src: '/img/kevin.png',
-      // },
-
-      copyright: `indexed.wtf is a collectively built hub for indexing scaling solutions for Ethereum. Everyone is welcome to collaborate, currently via this <a href="https://docs.google.com/forms/d/e/1FAIpQLScbMNeGoQEOrvuuvrk6xaZvdE2PzKiALAMcZ14v48ARS4fIHg/viewform" target="#">form</a>.
-      </br>
-      Bootstrapped by <a class="ow-link" href="https://twitter.com/owocki" target="#">Owocki</a> via <a class="rg-link" href="https://raidguild.org" target="#">raidguild.org</a>
-      `,
-    },
+    }
   },
   presets: [
     [

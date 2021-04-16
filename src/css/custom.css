@@ -24,11 +24,6 @@
   padding: 0 var(--ifm-pre-padding);
 }
 
-.footer {
-  color: black;
-  text-align: left;
-}
-
 .rg-logo {
   height: 10rem;
   width: 10rem;
