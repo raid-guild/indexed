@@ -16,8 +16,9 @@ body {
   color: #ffffff;
 }
 
-.homepage {
-  background-color: #e5e5e5;
+.main-wrapper {
+  border-top: 5px solid #F9006C;
+  border-bottom: 5px solid #8E2ABE;
 }
 
 h1,
