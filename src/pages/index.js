@@ -29,7 +29,7 @@ function Home() {
     >
       <div className="homepage">
         <div className="text-wrapper">
-          <div class="headline">
+          <div className="headline">
           <strong>indexed.wtf</strong> is an attempt to document Layer-2, rollups, chains and other solutions that have the aim of scaling or improving the Ethereum ecosystem
           </div>
         </div>
