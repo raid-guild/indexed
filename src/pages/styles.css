@@ -46,6 +46,22 @@ a {
   border-top: 5px solid #8E2ABE;
 }
 
+.footer-parent {
+  margin-right: 10px;
+  float: left;
+}
+
+.footer-child-1 {
+  float: left;
+  margin-right: 5px;
+  width: 55%;
+}
+
+.footer-child-2 {
+  float: right;
+  margin-right: 5px;
+}
+
 .docs-link {
   color: rgba(142, 42, 190, 1);
   cursor: pointer;
