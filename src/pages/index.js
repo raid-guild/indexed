@@ -12,6 +12,7 @@ import Table from '../components/Table/Table';
 
 import defaultTableColumns from '../data/defaultTableColumns'
 
+import Footer from '../components/Footer/Footer';
 
 function Home() {
   const context = useDocusaurusContext();
@@ -31,11 +32,9 @@ function Home() {
           <div class="headline">
           <strong>indexed.wtf</strong> is an attempt to document Layer-2, rollups, chains and other solutions that have the aim of scaling or improving the Ethereum ecosystem
           </div>
-
         </div>
       </div>
-
-
+      <Footer />
     </Layout>
   );
 }

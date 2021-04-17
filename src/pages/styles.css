@@ -13,11 +13,12 @@ body {
   background-color: #EEEEEE;
   font-size: 18px;
   line-height: 1.6;
+  margin-bottom:50px;
 }
 
-.main-wrapper {
+.homepage {
   border-top: 5px solid #F9006C;
-  border-bottom: 5px solid #8E2ABE;
+  /* border-bottom: 5px solid #8E2ABE; */
 }
 
 .text-wrapper {
@@ -29,6 +30,24 @@ body {
 .headline {
   width: 40%;
   text-align: center;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;
+  border-top: 5px solid #8E2ABE;
+}
+
+.footer-wrapper {
+  height: auto;
+}
+
+.docs-link {
+  color: rgba(142, 42, 190, 1);
+  cursor: pointer;
 }
 
 h1,
