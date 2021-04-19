@@ -1,5 +1,5 @@
 import React from "react";
-import { Owoki } from "../../../src/icons/icons";
+import { Owoki, RaidGuildIcon, GitcoinIcon } from "../../../src/icons/icons";
 
 const Footer = () => (
     <footer className="footer">
@@ -13,7 +13,9 @@ const Footer = () => (
                 </p>
             </div>
             <div className="footer-child-2">
-                <Owoki />
+                <RaidGuildIcon />
+                <GitcoinIcon />
+                <Owoki />                
             </div>
         </div>
 

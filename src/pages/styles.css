@@ -58,8 +58,15 @@ a {
 }
 
 .footer-child-2 {
+  position: absolute;
+  right: 50px;
+  bottom: -1px;
   float: right;
   margin-right: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 20rem;
 }
 
 .docs-link {
