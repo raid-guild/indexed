@@ -1,95 +1,73 @@
 .hero {
-  background-color: #15003e;
-  margin-bottom: 80px;
-  border-top: 8px solid #f9006c;
-  border-bottom: 8px solid #8e2abe;
-  color: #15003e;
+	background-color: #e5e5e5;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.3) 1px, transparent 0px);
+	background-size: 100% 2em;
+	border-top: 8px solid #f9006c;
+	border-bottom: 8px solid #8e2abe;
+	padding: 2.5em;
 }
 
-.hero h1 {
-  color: white;
-  margin: 40px 0 40px 40px;
-  line-height: 1;
+.inner {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
 }
 
-.cardContainer {
-  height: 100%;
-  width: 100%;
-  display: flex;
-  /* align-items: center; */
-  position: relative;
-  overflow: hidden;
-  padding: 8px 0;
+.title {
+	font-weight: normal;
+	font-size: 20px;
+	max-width: 600px;
+	text-align: center;
+	color: #222222;
+	line-height: 1.8;
+	margin-bottom: 40px;
+	font-family: 'Noto Sans', sans-serif;
+}
+.title b {
+	line-height: 1.4;
+	font-size: 24px;
+	font-family: 'Courier Prime', sans-serif;
+}
+.input {
+	color: #222222;
+}
+.input::placeholder {
+	font-style: italic;
+	color: #999999;
 }
 
-.card {
-  min-height: 140px;
-  background-color: #fff;
-  min-width: 580px;
-  max-width: 760px;
-  position: relative;
-  transition: transform 0.4s;
-  margin-left: 40px;
-  padding: 28px;
-  display: flex;
+.logos {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	margin-top: 40px;
 }
 
-.card:nth-child(1) {
-  box-shadow: 5px 5px 0 #ffce08;
-}
-.card:nth-child(2) {
-  box-shadow: 5px 5px 0 #f9036c;
-}
-.card:nth-child(3) {
-  box-shadow: 5px 5px 0 #8e2abe;
+.imageWrapper {
+	flex-basis: 25%;
 }
 
-.card a {
-  color: #f9036c;
-}
-.card p {
-  max-width: 600px;
-}
-.card h2 {
-  font-weight: 400;
-  margin-bottom: 12px;
+.imageButton {
+	width: 100%;
+	max-width: 160px;
+	background: none;
+	box-shadow: none;
 }
 
-.cardText {
-  flex: 1;
-  margin-right: 14px;
+.imageButton:hover,
+.imageButton:focus,
+.imageButton:active {
+	background: none;
+	box-shadow: none;
+	transform: none;
+	opacity: 0.85;
 }
 
-.cardLogo {
-  width: 100%;
-  max-width: 120px;
-  align-self: center;
+.imageButton:hover .image {
+	transform: translateY(-5px);
 }
 
-.cardLogo img {
-  width: 100%;
-  display: block;
-}
-
-.buttons {
-  margin: 40px 0;
-  text-align: center;
-}
-
-.buttons button {
-  margin-right: 20px;
-  box-shadow: none;
-  padding: 4px 30px;
-}
-
-.buttons button:hover {
-  transform: translateY(0) scale(1.1);
-}
-
-@media only screen and (max-width: 620px) {
-  .card {
-    min-width: calc(100% - 35px);
-    margin-left: 20px;
-    flex-direction: column;
-  }
+.image {
+	transition: transform 0.2s;
+	max-height: 120px;
 }

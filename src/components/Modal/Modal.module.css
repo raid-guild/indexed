@@ -1,0 +1,49 @@
+.Modal {
+	color: #15003e;
+	font-family: 'Noto Sans', sans-serif;
+	font-size: 16px;
+	position: absolute;
+	background-color: white;
+	padding: 30px;
+	width: 100%;
+	max-width: 700px;
+	box-shadow: 4px 4px 0 #ffce08;
+	border: none;
+	outline: none;
+	display: flex;
+	flex-direction: column;
+}
+
+.Overlay {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-color: rgba(0, 0, 0, 0.4);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.text {
+	padding: 0 12px;
+}
+
+.title {
+	color: black;
+	font-family: 'Courier Prime', sans-serif;
+}
+
+.button {
+	align-self: flex-end;
+	font-family: 'Courier Prime', sans-serif;
+	font-size: 20px;
+	padding-bottom: 8px;
+	margin-top: 20px;
+}
+
+.button svg {
+	margin-left: 12px;
+	margin-bottom: -2px;
+}
