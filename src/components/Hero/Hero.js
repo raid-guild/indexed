@@ -2,7 +2,13 @@ import React from 'react'
 import styles from './Hero.module.css'
 import testData from '../../data/test'
 
-const Hero = ({ handleOnClick }) => {
+const Hero = ({ handleOnClick, searchText, setSearchText }) => {
+	const data = searchText
+		? testData.filter((item) =>
+				item.title.toLowerCase().includes(searchText.toLowerCase())
+		  )
+		: testData.filter((item) => item.featured === true)
+
 	return (
 		<div className={styles.hero}>
 			<div className={`wrapper ${styles.inner}`}>
@@ -14,14 +20,15 @@ const Hero = ({ handleOnClick }) => {
 
 				<input
 					type='text'
+					value={searchText}
 					placeholder='filter by name'
-					onChange={(e) => searchName(e)}
+					onChange={(e) => setSearchText(e.target.value)}
 					className={styles.input}
 				/>
 			</div>
 
 			<div className={`wrapper ${styles.logos}`}>
-				{testData.map((item) => (
+				{data.map((item) => (
 					<div className={styles.imageWrapper} key={item.url}>
 						<button
 							className={styles.imageButton}

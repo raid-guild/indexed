@@ -12,6 +12,7 @@ function Home() {
 	const { siteConfig = {} } = context
 	const [modalInfo, setModalInfo] = useState({})
 	const [isOpen, setIsOpen] = useState(false)
+	const [searchText, setSearchText] = useState('')
 
 	const handleOnClick = (info) => {
 		setModalInfo(info)
@@ -24,7 +25,11 @@ function Home() {
 			description="A collectively built hub for comparison between 'Layer 2' solutions."
 		>
 			<div className='homepage'>
-				<Hero handleOnClick={handleOnClick} />
+				<Hero
+					handleOnClick={handleOnClick}
+					searchText={searchText}
+					setSearchText={setSearchText}
+				/>
 				<Modal modalInfo={modalInfo} isOpen={isOpen} setIsOpen={setIsOpen} />
 			</div>
 		</Layout>
