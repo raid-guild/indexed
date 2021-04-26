@@ -45,6 +45,8 @@
 
 .imageWrapper {
 	flex-basis: 25%;
+	display: flex;
+	justify-content: center;
 }
 
 .imageButton {
@@ -52,6 +54,7 @@
 	max-width: 160px;
 	background: none;
 	box-shadow: none;
+	padding: 20px;
 }
 
 .imageButton:hover,

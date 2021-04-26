@@ -45,5 +45,9 @@
 
 .button svg {
 	margin-left: 12px;
-	margin-bottom: -2px;
+	margin-bottom: -5px;
+}
+
+.list li {
+	margin-top: 10px;
 }

@@ -2,7 +2,7 @@ import React from 'react'
 import styles from './Hero.module.css'
 import testData from '../../data/test'
 
-const Hero = () => {
+const Hero = ({ handleOnClick }) => {
 	return (
 		<div className={styles.hero}>
 			<div className={`wrapper ${styles.inner}`}>
@@ -20,11 +20,14 @@ const Hero = () => {
 				/>
 			</div>
 
-			<div className={styles.logos}>
-				{testData.map(({ logoPath }) => (
-					<div className={styles.imageWrapper}>
-						<button className={styles.imageButton}>
-							<img className={styles.image} src={logoPath}></img>
+			<div className={`wrapper ${styles.logos}`}>
+				{testData.map((item) => (
+					<div className={styles.imageWrapper} key={item.url}>
+						<button
+							className={styles.imageButton}
+							onClick={() => handleOnClick(item)}
+						>
+							<img className={styles.image} src={item.logoPath}></img>
 						</button>
 					</div>
 				))}
