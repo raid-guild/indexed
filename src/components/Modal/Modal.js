@@ -14,7 +14,6 @@ const ModalPopup = ({ modalInfo, isOpen, setIsOpen }) => {
 			contentLabel='Example Modal'
 			className={styles.Modal}
 			overlayClassName={styles.Overlay}
-			appElement={document.getElementById('__docusaurus')}
 		>
 			<div className={styles.text}>
 				<h2 className={styles.title}>{title}</h2>

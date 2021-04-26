@@ -6,10 +6,13 @@
 	box-sizing: border-box;
 }
 
+html {
+	background-color: #0a011c;
+}
+
 body {
 	margin: 0;
 	font-family: 'Courier Prime', sans-serif;
-	background-color: #0a011c;
 	font-size: 18px;
 	line-height: 1.6;
 	color: #ffffff;
@@ -118,20 +121,6 @@ a[tabindex]:focus {
 .menu__list {
 	font-size: 15px;
 }
-
-/* .navbar--fixed-top {
-  background-color: #0e0028;
-} */
-
-.navbar__title {
-	color: #0e0028;
-}
-
 .navbar__link {
-	color: #0e0028;
 	font-weight: bold;
-}
-
-.navbar__toggle {
-	color: #0e0028;
 }
