@@ -4,7 +4,9 @@
 	background-size: 100% 2em;
 	border-top: 8px solid #f9006c;
 	border-bottom: 8px solid #8e2abe;
-	padding: 2.5em;
+	padding-top: 2.5em;
+	padding-bottom: 2.5em;
+	flex: 1 0 auto;
 }
 
 .inner {
@@ -73,4 +75,13 @@
 .image {
 	transition: transform 0.2s;
 	max-height: 120px;
+}
+
+@media screen and (max-width: 700px) {
+	.imageWrapper {
+		flex-basis: 50%;
+	}
+	.imageButton {
+		padding: 20px 10px;
+	}
 }

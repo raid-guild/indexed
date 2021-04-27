@@ -34,14 +34,17 @@
 	width: 10rem;
 }
 
+/* Fixes for theme overwrite */
+.navbar__toggle,
 html[data-theme='dark'] .navbar__link,
 html[data-theme='dark'] .navbar__title,
 html[data-theme='dark'] .navbar__toggle,
 html[data-theme='dark'] .footer {
-	color: white;
+	color: black;
 }
 
 html[data-theme='dark'] .navbar,
+html[data-theme='dark'] .navbar-sidebar,
 html[data-theme='dark'] .footer {
-	background-color: #15003e;
+	background-color: rgb(245, 246, 248);
 }

@@ -18,8 +18,10 @@ body {
 	color: #ffffff;
 }
 
-.homepage {
-	background-color: #e5e5e5;
+.main-wrapper {
+	position: relative;
+	display: flex;
+	flex-direction: column;
 }
 
 h1,

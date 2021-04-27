@@ -24,14 +24,12 @@ function Home() {
 			// title={`${siteConfig.title}`}
 			description="A collectively built hub for comparison between 'Layer 2' solutions."
 		>
-			<div className='homepage'>
-				<Hero
-					handleOnClick={handleOnClick}
-					searchText={searchText}
-					setSearchText={setSearchText}
-				/>
-				<Modal modalInfo={modalInfo} isOpen={isOpen} setIsOpen={setIsOpen} />
-			</div>
+			<Hero
+				handleOnClick={handleOnClick}
+				searchText={searchText}
+				setSearchText={setSearchText}
+			/>
+			<Modal modalInfo={modalInfo} isOpen={isOpen} setIsOpen={setIsOpen} />
 		</Layout>
 	)
 }
