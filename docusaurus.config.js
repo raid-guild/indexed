@@ -13,8 +13,7 @@ module.exports = {
 		image: 'static/img/raidguild__icon.png',
 		colorMode: {
 			defaultMode: 'light',
-			disableSwitch: true,
-			respectPrefersColorScheme: false,
+			disableSwitch: false,
 		},
 		navbar: {
 			title: 'indexed.wtf',

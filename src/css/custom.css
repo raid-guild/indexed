@@ -6,16 +6,24 @@
  */
 
 /* You can override the default Infima variables here. */
-/* :root {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: rgb(33, 175, 144);
-  --ifm-color-primary-darker: rgb(31, 165, 136);
-  --ifm-color-primary-darkest: rgb(26, 136, 112);
-  --ifm-color-primary-light: rgb(70, 203, 174);
-  --ifm-color-primary-lighter: rgb(102, 212, 189);
-  --ifm-color-primary-lightest: rgb(146, 224, 208);
-  --ifm-code-font-size: 95%;
-} */
+:root {
+	--ifm-menu-color-active: #9812ff;
+	--ifm-navbar-background-color: #15003e;
+	--ifm-footer-background-color: #15003e;
+	--ifm-color-primary: #9812ff;
+	--ifm-navbar-link-hover-color: #c986fc;
+}
+
+html[data-theme='dark'] {
+	--ifm-background-color: #0a011c;
+	--ifm-background-surface-color: #15003e;
+}
+
+html[data-theme='light'] {
+	--ifm-navbar-background-color: #f1f1f1;
+	--ifm-footer-background-color: #f1f1f1;
+	--ifm-background-color: white;
+}
 
 .docusaurus-highlight-code-line {
 	background-color: rgb(72, 77, 91);
@@ -25,26 +33,15 @@
 }
 
 .footer {
-	color: black;
 	text-align: left;
+	background-image: url(../../static/img/footer-logos.png);
+	background-repeat: no-repeat;
+	background-position: 50% 100%;
+	background-size: 250px;
+	padding-bottom: 130px;
 }
 
 .rg-logo {
 	height: 10rem;
 	width: 10rem;
-}
-
-/* Fixes for theme overwrite */
-.navbar__toggle,
-html[data-theme='dark'] .navbar__link,
-html[data-theme='dark'] .navbar__title,
-html[data-theme='dark'] .navbar__toggle,
-html[data-theme='dark'] .footer {
-	color: black;
-}
-
-html[data-theme='dark'] .navbar,
-html[data-theme='dark'] .navbar-sidebar,
-html[data-theme='dark'] .footer {
-	background-color: rgb(245, 246, 248);
 }

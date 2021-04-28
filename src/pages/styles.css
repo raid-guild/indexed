@@ -6,16 +6,11 @@
 	box-sizing: border-box;
 }
 
-html {
-	background-color: #0a011c;
-}
-
 body {
 	margin: 0;
 	font-family: 'Courier Prime', sans-serif;
 	font-size: 18px;
 	line-height: 1.6;
-	color: #ffffff;
 }
 
 .main-wrapper {
@@ -98,26 +93,15 @@ a[tabindex]:focus {
 	color: #ff3864;
 }
 
+html[data-theme='dark'] .ow-link {
+	color: #916dff;
+}
 .ow-link {
 	color: #3e00ff;
 }
 
 .doc-link {
 	color: #8e2abe;
-}
-
-.menu__link {
-	color: #ffffff;
-}
-
-.table-of-contents__link {
-	color: #ffffff;
-}
-
-.menu,
-.menu--responsive {
-	background-color: #0e0028;
-	color: #9812ff;
 }
 
 .menu__list {
