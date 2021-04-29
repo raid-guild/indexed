@@ -18,16 +18,16 @@ const Hero = ({ handleOnClick, searchText, setSearchText }) => {
 					Ethereum ecosystem
 				</h1>
 
-				<input
+				{/* <input
 					type='text'
 					value={searchText}
 					placeholder='filter by name'
 					onChange={(e) => setSearchText(e.target.value)}
 					className={styles.input}
-				/>
+				/> */}
 			</div>
 
-			<div className={`wrapper ${styles.logos}`}>
+			{/* <div className={`wrapper ${styles.logos}`}>
 				{data.map((item) => (
 					<div className={styles.imageWrapper} key={item.url}>
 						<button
@@ -38,7 +38,7 @@ const Hero = ({ handleOnClick, searchText, setSearchText }) => {
 						</button>
 					</div>
 				))}
-			</div>
+			</div> */}
 		</div>
 	)
 }
