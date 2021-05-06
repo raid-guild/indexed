@@ -59,6 +59,16 @@ const testData = [
 		url: 'xdai-doc',
 		logoPath: '/img/xdai_alternative.svg',
 	},
+	{
+		featured: true,
+		title: 'Raiden',
+		body:
+			'Use Raiden to enrich your dApp with nearly instant, low-fee and scalable payments. It comes with an easy-to-use API and is compatible with the Ethereum ERC20 token standard.',
+		bullets: [
+		],
+		url: 'raiden-doc',
+		logoPath: '/img/raidenpng.png',
+	},
 ]
 
 export default testData

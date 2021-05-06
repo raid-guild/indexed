@@ -4,32 +4,45 @@ title: Raiden
 sidebar_label: Raiden
 ---
 
-### Type
+### Name
+Raiden Network
 
-State Channel (off chain).
+### Description
+Use Raiden to enrich your dApp with nearly instant, low-fee and scalable payments. It comes with an easy-to-use API and is compatible with the Ethereum ERC20 token standard.
+
+### Consensus Type
+Local consensus between nodes in a payment channel
 
 ### Tx Cost
+No gas cost applied on transfers as it is an offchain technology. 
 
-### Finality
+### Average TPS
+No average TPS, but scales linearly based on the amount of users independent of the underlying blockchain
 
+### Finality Time
 Instant
 
-### Consensus
+### Governance/validator Token
+no
 
-Proof of stake
+### Transactional Token
+Any ERC20 token
 
-### Max TPS
+## Resources
 
-100k
+[Website](https://raiden.network/)
 
-### Additional
+[Github](https://github.com/raiden-network)
 
-https://medium.com/raiden-network/raiddit-scaling-reddit-community-points-with-raiden-9fe60c14ae47
+[Developer Docs](https://developer.raiden.network/)
 
-https://developer.raiden.network/
 
-https://twitter.com/raiden_network
+## Social Media & Community
 
-https://medium.com/@raiden_network
+[Twitter](https://twitter.com/raiden_network)
 
-https://www.youtube.com/channel/UCoUP_hnjUddEvbxmtNCcApg
+[Blog](https://raiden-network.medium.com/)
+
+[YouTube](https://www.youtube.com/channel/UCoUP_hnjUddEvbxmtNCcApg)
+
+[Gitter](https://gitter.im/raiden-network/raiden)
