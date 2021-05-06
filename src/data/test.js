@@ -1,81 +1,93 @@
 const testData = [
 	{
 		featured: true,
-		title: 'Polygon',
+		title: 'Everest',
 		body:
-			'Matic Network brings massive scale to Ethereum using an adapted version of Plasma with PoS based side chains.',
+			'Global Banking Platform',
 		bullets: [
-			'Lorem ipsum dolor sit, amet consectetur adipisicing elit.',
-			'Lorem ipsum dolor sit, amet consectetur adipisicing elit.',
-			'Lorem ipsum dolor sit, amet consectetur adipisicing elit.',
 		],
-		url: 'polygon-doc',
-		logoPath: '/img/matic.svg',
+		url: 'everest-doc',
+		logoPath: '/img/everest.png',
 	},
 	{
 		featured: true,
-		title: 'xDai Network',
+		title: 'Meter',
 		body:
-			'The xDai Chain is a stable payments blockchain designed for fast and inexpensive stable transactions. xDai is used for transactions, payments and fees.',
+			'Meter is the most decentralized and fastest Ethereum sidechain network with a native metastable gas currency. It connects Ethereum with other public chians as a layer 2 protocol.',
 		bullets: [
-			'Lorem ipsum dolor sit, amet consectetur adipisicing elit.',
-			'Lorem ipsum dolor sit, amet consectetur adipisicing elit.',
-			'Lorem ipsum dolor sit, amet consectetur adipisicing elit.',
+		],
+		url: 'meter-doc',
+		logoPath: '/img/meterpng.png',
+	},
+	{
+		featured: true,
+		title: 'Syscoin',
+		body:
+			'Syscoin is a Peer-to-Peer Electronic Cash System Built For Business Applications. Syscoin comes with a 2-way bridge for ERC-20 tokens and with ability to create custom blockchain-based tokens.',
+		bullets: [
+		],
+		url: 'syscoin-doc',
+		logoPath: '/img/syscoinpng.png',
+	},
+	{
+		featured: true,
+		title: 'Matter',
+		body:
+			'zkSync (built by Matter Labs) is a scaling and privacy engine for Ethereum. Its current functionality scope includes low gas transfers of ETH and ERC20 tokens in the Ethereum network.',
+		bullets: [
+		],
+		url: 'matter-labs-doc',
+		logoPath: '/img/matterpng.png',
+	},
+	{
+		featured: true,
+		title: 'Near',
+		body:
+			'NEAR is an open source platform that accelerates the development of decentralized applications.',
+		bullets: [
+		],
+		url: 'near-doc',
+		logoPath: '/img/nearpng.png',
+	},
+	{
+		featured: true,
+		title: 'XDAI',
+		body:
+			'The xDai chain is a stable-payments EVM sidechain, providing fast, secure transactions and interoperability with Ethereum and other L2 chains. xDai has a unique dual token model that offers transactional stability and energy-efficient Proof-of-Stake decentralized consensus. Transaction fees are paid with xDai, the native, stable token bridged from Dai on Ethereum. STAKE, an ERC-20 bridged from Ethereum, provides Proof-of-Stake security and governance capabilities for holders.',
+		bullets: [
 		],
 		url: 'xdai-doc',
 		logoPath: '/img/xdai_alternative.svg',
 	},
 	{
-		featured: false,
-		title: 'KChannels',
+		featured: true,
+		title: 'Raiden',
 		body:
-			'Kchannels is a new payment channel platform for Ethereum. It is non-custodial and trust-minimized, and its primary focus is on great UX.',
+			'Use Raiden to enrich your dApp with nearly instant, low-fee and scalable payments. It comes with an easy-to-use API and is compatible with the Ethereum ERC20 token standard.',
 		bullets: [
-			'Lorem ipsum dolor sit, amet consectetur adipisicing elit.',
-			'Lorem ipsum dolor sit, amet consectetur adipisicing elit.',
-			'Lorem ipsum dolor sit, amet consectetur adipisicing elit.',
 		],
-		url: 'kchannels-doc',
-		logoPath: '/img/Kchannel.png',
+		url: 'raiden-doc',
+		logoPath: '/img/raidenpng.png',
 	},
 	{
 		featured: true,
-		title: 'Polygon',
+		title: 'Skale',
 		body:
-			'Matic Network brings massive scale to Ethereum using an adapted version of Plasma with PoS based side chains.',
+			'The SKALE Network is an open-source on-demand Web3 cloud platform designed to scale Ethereum dApps. The Network enables dApp developers to access validator-operated nodes compute power to run fast, containerized, EVM-compatible SKALE Chains.',
 		bullets: [
-			'Lorem ipsum dolor sit, amet consectetur adipisicing elit.',
-			'Lorem ipsum dolor sit, amet consectetur adipisicing elit.',
-			'Lorem ipsum dolor sit, amet consectetur adipisicing elit.',
 		],
-		url: 'polygon-doc2',
-		logoPath: '/img/matic.svg',
+		url: 'skale-doc',
+		logoPath: '/img/skalepng.png',
 	},
 	{
 		featured: true,
-		title: 'xDai Network',
+		title: 'Fuel Labs',
 		body:
-			'The xDai Chain is a stable payments blockchain designed for fast and inexpensive stable transactions. xDai is used for transactions, payments and fees.',
+			'Fuel is a permissionless and trustless layer-2 protocol for Ethereum, targeted at low-cost high-throughput value-transfer transactions.',
 		bullets: [
-			'Lorem ipsum dolor sit, amet consectetur adipisicing elit.',
-			'Lorem ipsum dolor sit, amet consectetur adipisicing elit.',
-			'Lorem ipsum dolor sit, amet consectetur adipisicing elit.',
 		],
-		url: 'xdai-doc3',
-		logoPath: '/img/xdai_alternative.svg',
-	},
-	{
-		featured: false,
-		title: 'KChannels',
-		body:
-			'Kchannels is a new payment channel platform for Ethereum. It is non-custodial and trust-minimized, and its primary focus is on great UX.',
-		bullets: [
-			'Lorem ipsum dolor sit, amet consectetur adipisicing elit.',
-			'Lorem ipsum dolor sit, amet consectetur adipisicing elit.',
-			'Lorem ipsum dolor sit, amet consectetur adipisicing elit.',
-		],
-		url: 'kchannels-doc4',
-		logoPath: '/img/Kchannel.png',
+		url: 'fuel-labs-doc',
+		logoPath: '/img/fuelpng.png',
 	},
 ]
 

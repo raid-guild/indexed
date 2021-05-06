@@ -4,58 +4,55 @@ title: Matter Labs
 sidebar_label: Matter Labs
 ---
 
-### Types
+### Name
+zkSync (built by Matter Labs)
 
-ZKSNARK
+
+### Description
+
+zkSync (built by Matter Labs) is a scaling and privacy engine for Ethereum. Its current functionality scope includes low gas transfers of ETH and ERC20 tokens in the Ethereum network. 
+
+zkSync 1.0 (the current version) will support NFTs and limited orders this spring. 
+zkSync 2.0 (testnet in May, mainnet in August) will bring full EVM support.
+
+### Consensus Type
+
+PoS, under development
 
 ### Tx Cost
 
-$0.001 (off-chain), 1.9k gas (on-chain) (https://zksync.io/faq/tokens.html#fee-costs)
+600 gas (the users will be able to go with ~$0.01 when zkPorter is released)
 
-### Finality
+### Average TPS
 
-10 minutes. (https://zksync.io/faq/tech.html#transaction-finality)
+2000
 
-### Consensus
+### Finality Time
 
-Validity proofs (https://zksync.io/faq/security.html#validity-proofs)
+5 minutes
 
-### $ Efficient
+### Governance/validator Token
 
-Yes (withdrawals to L1 in under 15 min). (https://zksync.io/faq/intro.html#zksync-features)
+Under development.
 
-### Max TPS
+### Transactional Token
 
-2000 TPS
+ETH, ERC20 tokens. NFTs soon.
 
-Currently, 300+ TPS due to the current limitations of the PLONK CRS (zkSync node infrastructure has been benchmarked to support >8000 TPS).
+## Resources
 
-### Additional Info:
+[Website](https://zksync.io/)
 
-- security: secure as L1
+[Github](https://github.com/matter-labs/zksync)
 
-- generality: support smart contracts (written in Zinc), and existing Solidity code can easily be translated into Zinc (but Zinc is currently non-Turing-complete as Solidity. Its means: recursion and unbounded loops are prohibited)
+[Developer Docs](https://zksync.io/dev/)
 
-- composability: support composability (All contracts inside zkSync L2 network will be able to call each other atomically in exactly the same way as on Ethereum mainnet).
+## Social Media & Community
 
-- permissionless innovation: The token is currently added manually, but in the future it is possible to deploy the token. (https://zksync.io/faq/tokens.html#supported-tokens)
+[Telegram](https://t.me/zksync)
 
-### Links
-
-[HomePage](https://matter-labs.io/)
-
-[Twitter](https://twitter.com/the_matter_labs)
-
-[Github](https://github.com/matter-labs)
-
-[Telegram](https://t.me/matterlabs)
+[Twitter](https://twitter.com/zksync)
 
 [Medium](https://medium.com/matter-labs)
 
-[Gitter](https://gitter.im/matter-labs/community)
-
-### Source
-
-https://zksync.io/faq/intro.html
-
-https://medium.com/matter-labs/curve-zksync-l2-ethereums-first-user-defined-zk-rollup-smart-contract-5a72c496b350 [2]
+[Gitter](https://gitter.im/matter-labs/zksync)

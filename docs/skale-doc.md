@@ -4,52 +4,63 @@ title: SKALE
 sidebar_label: SKALE
 ---
 
-### Type
+### Name
+SKALE Network
 
-Elastic sidechain network connected to Ethereum L1 through BLS Rollups. Allows deploying "Ethereum-as-a-Service" EVM-compatible blockchains through rental of node space on mainnet.
+### Description
+The SKALE Network is an open-source on-demand Web3 cloud platform designed to scale Ethereum dApps. The Network enables dApp developers to access validator-operated nodes' compute power to run fast, containerized, EVM-compatible SKALE Chains. Validators run and maintain SKALE Nodes, providing distributed computing power to the Network. The entire SKALE Network is managed by SKALE Manager, a dApp deployed on Ethereum Mainnet. Network users such as validators, delegators, and dApp Developers SKALE (SKL) tokens to stake and access network services.
 
-### Tx Cost
+The [SKALE validator community represents over 45 independent operators](https://skale.network/blog/validator-list-for-skale) running over 150 nodes, and the SKALE Mainnet has been live for over 120 days. [Checkout the current stats](https://countdown.skale.network).
 
-Gasless under a specific chain usage threshold, small increase once over the threshold to fend off DDoS attacks. Threshold increases with rented sidechain size.
+With SKALE, dApps run gas-less transactions on a Proof-of-Stake chain distributed across 16 nodes, each running containerized EVM. SKALE chains can exchange transactions or messages with other SKALE Chains and Ethereum networks, allowing dApp developers to use SKALE for powering their dApps while enabling token transfers to and from Ethereum or other chains.
 
-### Finality
-
-Finalization times depend on sidechain size and configuration, but generally sub-second.
-
-### Consensus
-
+### Consensus Type
 Proof of Stake with Asynchronous Binary Byzantine Agreement Consensus.
 
-### $ Efficient
+[SKALE Consensus | Dev Portal](https://skale.network/docs/technology/skale-consensus)
+[SKALE Consensus | Blog](https://skale.network/blog/skale-consensus)
 
-Very efficient since you can adapt the sidechain size to developer needs. New applications can start with small and economic sidechain sizes and then grow together with their userbase.
+### Tx Cost
+No transaction cost.
 
-### Max TPS
+Transactions on SKALE Chain run in a gas-free way. This means there is gas on SKALE Chains just like on Ethereum, but it’s powered by what’s called SKALE ETH (skETH), which has no monetary value. In this way, executing transactions and state changes don’t incur costs, but require consuming gas in skETH, which is value-less. SKALE Chain gas provides a way to meter or limit transactions on the SKALE Chain to prevent malicious execution.
+### Average TPS
+Small Chain: 16 TPS
+Medium Chain: 120 TPS
+Large Chain: 2000 TPS
 
-Up to 2000tps.
+### Finality
+Finalization times depend on sidechain size and configuration, but generally sub-second.
 
-### Reddit Submission Link
+### Governance/validator Token
+$SKL
 
-https://www.reddit.com/r/ethereum/comments/i1md7u/skale_network_the_great_reddit_scaling_bakeoff/
+### Transactional Token
+⧫ skETH ⧫
 
-### Additional info
+## Resources
 
-[Official project page](https://skale.network/)
+[Website](https://skale.network)
 
-[Protocol overview](https://skale.network/blog/the-skale-network-primer)
-
-[Whitepaper](https://skale.network/whitepaper)
-
-[Technical overview](https://skale.network/blog/technical-highlights/)
-
-[Developer Portal](https://skale.network/docs/developers/overview)
+[Blog](https://skale.network/blog)
 
 [Github](https://github.com/skalenetwork)
 
-[Discord](https://discord.gg/uq3Nr6f)
+[Whitepaper](https://skale.network/whitepaper)
+
+[Developer Docs](https://skale.network/docs/developers/overview)
+
+
+## Social Media & Community
 
 [Twitter](https://twitter.com/skalenetwork)
 
 [Telegram](https://t.me/skaleofficial)
 
+[Discord](http://skale.chat)
+
 [Facebook](https://www.facebook.com/skalenetwork)
+
+[Medium](https://medium.com/skale)
+
+[Career Opportunities](https://angel.co/company/skale-labs/jobs)

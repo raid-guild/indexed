@@ -4,22 +4,47 @@ title: XDAI
 sidebar_label: XDAI
 ---
 
+### Name
+xDai STAKE
+
+### Description
+The xDai chain is a stable-payments EVM sidechain, providing fast, secure transactions and interoperability with Ethereum and other L2 chains. xDai has a unique dual token model that offers transactional stability and energy-efficient Proof-of-Stake decentralized consensus. Transaction fees are paid with xDai, the native, stable token bridged from Dai on Ethereum. STAKE, an ERC-20 bridged from Ethereum, provides Proof-of-Stake security and governance capabilities for holders.
+
+### Consensus Type
+Proof of Stake
+
 ### Tx Cost
+1 gwei
 
-1 Gwei with stable currency. For a simple tx with a 21000 gas limit this = .000021 cents per tx.
+### Average TPS
+70
 
-### Finality
+### Finality Time
+5 seconds 
 
-Time to finality varies on the number of validators (f) and is reached at 2f+1≤n, so that any faulty nodes cannot finalize a block all on their own.
+### Governance/validator Token
+STAKE
 
-### Consensus
+### Transactional Token
+xDai 
 
-Currently a nominated proof-of-stake protocol which uses AuRa for block signing. Transitioning shortly to public delegated Proof-of-Stake called POSDAO. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3368483
+## Resources
+[Website](https://www.xdaichain.com/)
 
-### $ Efficient
+[Github](https://github.com/xdaichain)
 
-Energy Efficiency: https://www.xdaichain.com/about-xdai/news-and-information/xdai-energy-efficiency#energy-consumption-statistics
+[Developer Docs]https://www.xdaichain.com/for-developers/developer-resources
 
-### Max TPS
 
-5 second blocks with ~70 transactions per second, which aligns with current transactional volume requirements. Gas limits purposefully match Ethereum block limits (12.5M gas per block), and as needs increase, xDai is built to scale with those requirements. In article above Artis reports xDai at ~119 TPS as the absolute max capacity with simple Txs.
+## Social Media & Community
+[Twitter](https://twitter.com/xdaichain)
+
+[Telegram](https://t.me/xdaistable)
+
+[Discord](https://discord.gg/mPJ9zkq)
+
+[Telegram Announcementchannel](https://t.me/xdai_official)
+
+[Youtube](https://www.youtube.com/channel/UC93IarcktP0-dZzpI_vvO3g/videos)
+
+[Forum](https://forum.poa.network/c/xdai-chain)

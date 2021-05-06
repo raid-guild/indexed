@@ -4,64 +4,45 @@ title: Meter
 sidebar_label: Meter
 ---
 
-### Links
+### Name
+Meter.io
 
-Docs:
+### Description
+Meter is the most decentralized and fastest Ethereum sidechain network with a native metastable gas currency. It connects Ethereum with other public chians as a layer 2 protocol.
 
-https://docs.meter.io/introduction-to-meter
+### Consensus Type
+Proof of Value (HotStuff BFT)
 
-https://www.meter.io/meter-roadmap-update-oct2020/
+### Tx Cost
+500 gwei in Metastable gas coin MTR. 0.0105 MTR per TX
 
-Social media and community links:
+### Average TPS
+1500
 
-[Website](https://www.meter.io/)
+### Finality Time
+Every block is finalized.  Typical block period is 2.22 seconds
 
+### Governance/validator Token
+MTRG is the governance and staking token for validation
+
+### Transactional Token
+MTRG is the gas token for fees and payments
+
+## Resources
+[Website](https://meter.io/)
+
+[Github](https:/github.com/meterio)
+
+[Developer Docs](https://docs.meter.io/)
+
+
+## Social Media & Community
 [Twitter](https://twitter.com/Meter_IO)
-
-[Github](https://github.com/meterio)
-
-[Youtube](https://www.youtube.com/channel/UCgQVD2Ab-i3IKUhjs6-Z76w)
-
-[Medium](https://medium.com/meter-io)
-
-[Discord](https://discord.com/invite/XZgZsCn)
 
 [Telegram](https://t.me/Meter_IO)
 
-[Instagram](https://www.instagram.com/accounts/meter.io/)
+[Discord](https://discordapp.com/invite/WPjTpMG)
 
-### Description
+[Medium](https://medium.com/meter-io)
 
-Meter is DeFi infrastructure with a built-in metastable currency. Meter can be used as a highly decentralized, high performance side chain to Ethereum and interconnect with other blockchains.
-
-### Cost of 100 transactions
-
-`$1`
-
-### Finality time in HOURS
-
-`0.002`
-
-### Consensus Mechanism
-
-Proof of Value
-
-### Theoretical Max TPS
-
-`1500`
-
-### Measured Max TPS
-
-`1500`
-
-### Compatibility
-
-Can you port EVM-bytecode into the solution? `NO`
-
-### Governance token
-
-`eMTRG`
-
-### Transactional token
-
-`MTRG`
+[Youtube](https://www.youtube.com/channel/UCgQVD2Ab-i3IKUhjs6-Z76w)

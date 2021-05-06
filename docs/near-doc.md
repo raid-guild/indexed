@@ -4,42 +4,48 @@ title: NEAR
 sidebar_label: NEAR
 ---
 
-### Links (github / social)
+### Name
+NEAR
 
-[Official Site](https://near.org/)
+### Description
+NEAR is an open source platform that accelerates the development of decentralized applications.
 
-[Twitter](https://twitter.com/nearprotocol)
+### Consensus Type
+Proof of Stake
 
-[Github](https://github.com/near/docs)
+### Tx Cost
+usually less than 1 cent
 
-[Discord](https://discord.gg/UY9Xf2k)
+### Average TPS
+~1000 per shard
+
+### Finality Time
+1-2 seconds
+
+### Governance Token
+No
+
+### Transactional Token
+NEAR
+
+## Resources
+[Website](https://near.org)
+
+
+[Github](https:///github.com/near)
+
+[Developer Docs](https://docs.near.org)
+
+## Social Media & Community
+
+[Twitter](https://twitter.com/NEARprotocol)
 
 [Telegram](https://t.me/cryptonear)
 
-### Type
+[Discord](https://near.chat)
 
-POS
+[Blog](https://near.org/blog)
 
-### Tx Cost
+[Youtube](https://youtube.com/c/NEARprotocol)
 
-0.00004
-
-### Finality
-
-2 seconds
-
-### Consensus
-
-POS
-
-### $ Efficient
-
-YES
-
-### Max TPS
-
-over 100000
-
-### Reddit Submission Link
-
-https://www.reddit.com/r/ethereum/comments/i1b4b3/nears_submission_to_reddits_scaling_bakeoff/
+[Career Opportunities](https://near.org/careers)

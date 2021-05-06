@@ -4,36 +4,39 @@ title: Fuel Labs
 sidebar_label: Fuel Labs
 ---
 
-### Type
+### Name
+Fuel Labs
 
+### Description
 Fuel is a permissionless and trustless layer-2 protocol for Ethereum, targeted at low-cost high-throughput value-transfer transactions. Fuel is powered by a highly-optimized optimistic rollup design.
 
+### Consensus Type
+[Optimistic Rollup](https://medium.com/matter-labs/optimistic-vs-zk-rollup-deep-dive-ea141e71e075)
+
 ### Tx Cost
+1350-1600 gas
 
-~1350-1600 gas (~0.03 USD)
+### Average TPS
+500 TPS 
 
-### Finality
+### Governance/validator Token
+None
 
-Probabilistic
+### Transactional Token
+ETH + Any ERC20 Token 
 
-### Consensus
+## Resources
 
-Proof of work
+[Website](https://fuel.sh/)
 
-### $ Efficient
+[Docs](https://docs.fuel.sh/v1.1.0/Introduction/Welcome.html)
 
-10,000 TPS
+[Github](https://github.com/fuellabs)
 
-### Max TPS
+## Social Media & Community
 
-Max TPS: 320.3ms
+[Twitter](https://twitter.com/fuellabs_?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
-### Source
+[Discord](https://discord.gg/xfpK4Pe)
 
-WebSite: https://mainnet.fuel.sh/network
-
-### Social Media & Community
-
-[Discord](https://discord.com/invite/xfpK4Pe)
-
-[Github](https://github.com/FuelLabs)
+[Medium](https://fuellabs.medium.com/)

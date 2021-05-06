@@ -27,7 +27,7 @@ const Hero = ({ handleOnClick, searchText, setSearchText }) => {
 				/> */}
 			</div>
 
-			{/* <div className={`wrapper ${styles.logos}`}>
+			<div className={`wrapper ${styles.logos}`}>
 				{data.map((item) => (
 					<div className={styles.imageWrapper} key={item.url}>
 						<button
@@ -38,7 +38,7 @@ const Hero = ({ handleOnClick, searchText, setSearchText }) => {
 						</button>
 					</div>
 				))}
-			</div> */}
+			</div>
 		</div>
 	)
 }
