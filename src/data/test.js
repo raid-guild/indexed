@@ -69,6 +69,16 @@ const testData = [
 		url: 'raiden-doc',
 		logoPath: '/img/raidenpng.png',
 	},
+	{
+		featured: true,
+		title: 'Skale',
+		body:
+			'The SKALE Network is an open-source on-demand Web3 cloud platform designed to scale Ethereum dApps. The Network enables dApp developers to access validator-operated nodes compute power to run fast, containerized, EVM-compatible SKALE Chains.',
+		bullets: [
+		],
+		url: 'skale-doc',
+		logoPath: '/img/skalepng.png',
+	},
 ]
 
 export default testData
