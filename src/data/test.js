@@ -29,6 +29,16 @@ const testData = [
 		url: 'syscoin-doc',
 		logoPath: '/img/syscoinpng.png',
 	},
+	{
+		featured: true,
+		title: 'Matter',
+		body:
+			'zkSync (built by Matter Labs) is a scaling and privacy engine for Ethereum. Its current functionality scope includes low gas transfers of ETH and ERC20 tokens in the Ethereum network.',
+		bullets: [
+		],
+		url: 'matter-labs-doc',
+		logoPath: '/img/matterpng.png',
+	},
 ]
 
 export default testData
