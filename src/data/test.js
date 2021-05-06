@@ -39,6 +39,16 @@ const testData = [
 		url: 'matter-labs-doc',
 		logoPath: '/img/matterpng.png',
 	},
+	{
+		featured: true,
+		title: 'Near',
+		body:
+			'NEAR is an open source platform that accelerates the development of decentralized applications.',
+		bullets: [
+		],
+		url: 'near-doc',
+		logoPath: '/img/nearpng.png',
+	},
 ]
 
 export default testData
