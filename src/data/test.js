@@ -79,6 +79,16 @@ const testData = [
 		url: 'skale-doc',
 		logoPath: '/img/skalepng.png',
 	},
+	{
+		featured: true,
+		title: 'Fuel Labs',
+		body:
+			'Fuel is a permissionless and trustless layer-2 protocol for Ethereum, targeted at low-cost high-throughput value-transfer transactions.',
+		bullets: [
+		],
+		url: 'fuel-labs-doc',
+		logoPath: '/img/fuelpng.png',
+	},
 ]
 
 export default testData
