@@ -99,6 +99,16 @@ const testData = [
 		url: 'hubble-doc',
 		logoPath: '/img/hubblescopepng.png',
 	},
+	{
+		featured: true,
+		title: 'KChannels',
+		body:
+			'Kchannels is a new payment channel platform for the Ethereum blockchain. It is non-custodial and trust-minimized, and its primary focus is on great UX and instant off-chain finality.',
+		bullets: [
+		],
+		url: 'kchannels-doc',
+		logoPath: '/img/Kchannel.png',
+	},
 ]
 
 export default testData
