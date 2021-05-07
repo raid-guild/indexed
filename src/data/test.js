@@ -109,6 +109,16 @@ const testData = [
 		url: 'kchannels-doc',
 		logoPath: '/img/Kchannel.png',
 	},
+	{
+		featured: true,
+		title: 'Starkware',
+		body:
+			'StarkEx leverages STARK technology to power scalable self-custodial transactions (trading & payments) for applications such as DeFi and gaming. Integrating with StarkEx allows an application to significantly scale and improve its offering and to bring in new business, while requiring very little changes to its existing setup. ',
+		bullets: [
+		],
+		url: 'starkware-doc',
+		logoPath: '/img/starkwaresvg.svg',
+	},
 ]
 
 export default testData
