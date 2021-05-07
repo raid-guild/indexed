@@ -89,6 +89,36 @@ const testData = [
 		url: 'fuel-labs-doc',
 		logoPath: '/img/fuelpng.png',
 	},
+	{
+		featured: true,
+		title: 'Hubble',
+		body:
+			'An optimistic rollup powered by BLS signature.',
+		bullets: [
+		],
+		url: 'hubble-doc',
+		logoPath: '/img/hubblescopepng.png',
+	},
+	{
+		featured: true,
+		title: 'KChannels',
+		body:
+			'Kchannels is a new payment channel platform for the Ethereum blockchain. It is non-custodial and trust-minimized, and its primary focus is on great UX and instant off-chain finality.',
+		bullets: [
+		],
+		url: 'kchannels-doc',
+		logoPath: '/img/Kchannel.png',
+	},
+	{
+		featured: true,
+		title: 'Starkware',
+		body:
+			'StarkEx leverages STARK technology to power scalable self-custodial transactions (trading & payments) for applications such as DeFi and gaming. Integrating with StarkEx allows an application to significantly scale and improve its offering and to bring in new business, while requiring very little changes to its existing setup. ',
+		bullets: [
+		],
+		url: 'starkware-doc',
+		logoPath: '/img/starkwaresvg.svg',
+	},
 ]
 
 export default testData

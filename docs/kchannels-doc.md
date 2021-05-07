@@ -4,46 +4,42 @@ title: Kchannels
 sidebar_label: Kchannels
 ---
 
-### Links
+## Name
+Kchannels
 
-https://docs.kchannels.io
-
-### Description
-
+## Description
 Kchannels is a new payment channel platform for the Ethereum blockchain. It is non-custodial and trust-minimized, and its primary focus is on great UX and instant off-chain finality.
 
-Among other things, it is well suited for commerce use-cases (e.g. merchants and their customers). Kchannels is available on Mainnet (and testnets) _today_ with support for Ether and ERC-20 tokens.
+Kchannels is well suited for commerce use-cases (e.g. merchants and their customers). Kchannels is available on Mainnet (and testnets) today with support for Ether and ERC-20 tokens.
 
-### Cost of 100 tx in $USD
+## Consensus Type
+Centralized Backend *non-custodial and trust-minimized*
 
-$0.50
+## Tx Cost
+.02 USD
 
-### Finality Time in Hours
-
-0.000833
-
-### Consensus Mechanism
-
-Centralized backend (but non-custodial and trust-minimized)
-
-### Theoretical Max TPS
-
-10,000
-
-### Measured Max TPS
-
+## Average TPS
 1,000
 
-### Compatibility
+## Governance/validator Token
+No
 
-Can you port EVM-bytecode into the solution?
+## Transactional Token
+ ⧫ ETH + Any ERC20 Token ⧫
+ 
+## Resources
 
-NO
+[Website](https://www.kchannels.io/)
 
-### Governance Token
+[Github](https://github.com/kchannelz/kchannels)
 
-NO
+[Developer Docs](https://docs.kchannels.io/)
 
-### Transactional Token
 
-Transaction fees can be paid for with ether or any ERC-20 token.
+## Social Media & Community
+
+[Twitter](https://twitter.com/kchannelsio)
+
+[Telegram](https://t.me/kchannels)
+
+[Medium](https://medium.com/kchannels)
