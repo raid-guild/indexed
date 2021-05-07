@@ -89,6 +89,16 @@ const testData = [
 		url: 'fuel-labs-doc',
 		logoPath: '/img/fuelpng.png',
 	},
+	{
+		featured: true,
+		title: 'Hubble',
+		body:
+			'An optimistic rollup powered by BLS signature.',
+		bullets: [
+		],
+		url: 'hubble-doc',
+		logoPath: '/img/hubblescopepng.png',
+	},
 ]
 
 export default testData

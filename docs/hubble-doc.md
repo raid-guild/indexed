@@ -3,55 +3,44 @@ id: hubble-doc
 title: Hubble
 sidebar_label: Hubble
 ---
+### Name
 
-### Links
-
-Docs:
-
-https://hackmd.io/yGcb_vWfT5679rEcebT0rw
-
-https://github.com/thehubbleproject/hubble-contracts
-
-Links:
-
-[Twitter](https://twitter.com/ProjectHubble)
-
-[Github](https://github.com/thehubbleproject)
-
-[Telegram](https://t.me/joinchat/HObf_xh7RxODl9vth3gKyQ)
+Hubble Optimistic Rollup
 
 ### Description
 
-Hubble allows people to create optimistic rollup chains with the same interface so that people can enter the rollup space once and then move between chains instantly.
+An optimistic rollup powered by BLS signature.
 
-### Cost of 100 transactions in US dollars
+### Consensus Type
 
-`0.15`
+The liveness and safety are provided via a centralized coordinator, whose role is auctioned to the public and whose behavior is held accountable via fraud proofs.
 
-### Finality time in HOURS
+### Tx Cost
 
-`.004`
+- Gas price not applicable yet. We have to know when it is in production
+- Gas cost is 345 gas.
 
-### Consensus Mechanism
+### Average TPS
 
-! Needs data !
+2786
 
-### Theoretical Max TPS
+### Finality Time
 
-`2600`
+1 Week
 
-### Measured Max TPS
+### Governance/validator Token
 
-`450`
+No
 
-### Compatibility
+### Transactional Token
 
-Can you port EVM-bytecode into the solution? `No`
+ERC20s
 
-### Governance token
+## Resources
 
-`No`
+[Github](https://github.com/thehubbleproject/hubble-contracts)
+[Developer Docs](https://thehubbleproject.github.io/docs/)
 
-### Transactional token
+## Social Media & Community
 
-`No`
+[Discussions](https://github.com/thehubbleproject/hubble-contracts/discussions)
