@@ -4,6 +4,7 @@ module.exports = {
       'contribute-doc'
     ],
     "Services": [
+      'connext-doc',
       'everest-doc',
       'fuel-labs-doc',
       'hubble-doc',

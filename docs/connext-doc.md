@@ -4,36 +4,47 @@ title: Connext
 sidebar_label: Connext
 ---
 
-### Links (github / social)
+### Name
+Connext
 
-[Official Site](https://connext.network/)
+### Description
+Connext is a state channel network enabling crosschain/cross-L2 communication and ultra-high-volume micropayments. As of May 9th, Connext handles $17m in weekly volume growing at 68% week over week.
 
-[Twitter](https://twitter.com/ConnextNetwork)
+### Consensus Type
+State Channels
+
+Note:  State channel networks are not consensus systems but are instead structurally similar to TCP/IP.
+
+### Tx Cost
+Determined by routers (LPs) and eventual fee market. Right now, ~0.05% for crosschain transfers.
+
+### Average TPS
+Scale-free (i.e. can add more tps by adding more routers)
+
+### Finality Time
+Instant
+
+### Governance/validator Token
+No
+
+### Transactional Token
+Same as transacted token. E.g. USDC payment -> USDC fees.
+
+## Resources
+
+[Website](https://connext.network)
 
 [Github](https://github.com/connext)
 
-[Discord](https://discord.gg/raNmNb5)
+[Developer Docs](https://docs.connext.network)
 
-### Tx Cost
 
-0 fees for txs. Node operators can optionally charge fees to route txs through the network.
+## Social Media & Community
 
-### Finality
+[Twitter](https://twitter.com/connextnetwork)
 
-Instant
+[Discord](https://discord.gg/cgvzAcE)
 
-### Consensus
+[Medium](https://medium.com/connext)
 
-State channel, i.e. consensus only required between channel participants.
-
-### $ Efficient
-
-Extremely cost-efficient for users, the highest cost is the cost of collateral, which is required to be provided by node operators.
-
-### Max TPS
-
-1000+ (limit not tested)
-
-### Additional Info
-
-Please reach out in our [discord](https://discord.gg/raNmNb5) for more info!
+[Career Opportunities](https://jobs.connext.network)

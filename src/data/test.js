@@ -119,6 +119,17 @@ const testData = [
 		url: 'starkware-doc',
 		logoPath: '/img/starkwaresvg.svg',
 	},
+	{
+		featured: true,
+		title: 'Connext',
+		body:
+			'Connext is a state channel network enabling crosschain/cross-L2 communication and ultra-high-volume micropayments.',
+		bullets: [
+		],
+		url: 'connext-doc',
+		logoPath: '/img/connextpng.png',
+	},
+
 ]
 
 export default testData
