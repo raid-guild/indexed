@@ -10,10 +10,12 @@ L2 solution based on Delegated Proof-of-Stake with ability to issue custom coins
 
 ### Tx Cost
 
-1 BIP for simple "Send" transaction (~1500 gwei as of 2021/01/14).  
-24h average transaction fee (as of 2021/01/14) -> 9.89 BIP.
+$0.01 for simple "Send" transaction.  
+$0.03 for "Swap"
 
-Fees for other transactions: https://www.minter.network/docs#commissions
+One can pay fee in any coin, fee price is bonded to the stable coin like USDT and converts to BIP in a moment of processing transaction.
+
+Fees for other transactions: https://www.minter.network/docs#fee
 
 ### Finality
 
